@@ -1,13 +1,13 @@
 import nflreadpy as nfl
-import pandas as pd
 
-# Load the current season's schedule data
-schedule_df = nfl.load_schedules(None)
+# Load team statistics for the specified years
+team_stats_df = nfl.load_team_stats(seasons=[2025])
 
-# Filter for the current week's matchups (you would need to determine the current week)
-# The library might have a function to determine the current week, or you can filter based on date.
-# Example: schedule_df[schedule_df['week'] == current_week_number]
-
-# Print or process the matchups
-print("Current Week's Matchups:")
-print(type(schedule_df))
+# Display the relevant columns for team records (wins, losses, ties)
+if not team_stats_df.is_empty():
+    # Select and display the columns related to team records
+    team_records = team_stats_df[['team_abbr', 'season', 'wins', 'losses', 'ties']]
+    print("Team Records for the 2025 Season:")
+    print(team_records)
+else:
+    print(f"No team statistics found for the years: {[2025]}")
