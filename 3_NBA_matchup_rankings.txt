@@ -14,6 +14,7 @@ Scoring Methodology:
 RANK 1: MATCHUP SCORE = 88.3/100
 --------------------------------------------------------------------------------
 Date: 2025-11-10 Monday
+Time: TBD
 Matchup: SAS @ CHI
 
   Away Team: SAS
@@ -32,6 +33,7 @@ Matchup: SAS @ CHI
 RANK 2: MATCHUP SCORE = 85.4/100
 --------------------------------------------------------------------------------
 Date: 2025-11-07 Friday
+Time: TBD
 Matchup: HOU @ SAS
 
   Away Team: HOU
@@ -50,6 +52,7 @@ Matchup: HOU @ SAS
 RANK 3: MATCHUP SCORE = 84.1/100
 --------------------------------------------------------------------------------
 Date: 2025-11-12 Wednesday
+Time: TBD
 Matchup: CHI @ DET
 
   Away Team: CHI
@@ -68,6 +71,7 @@ Matchup: CHI @ DET
 RANK 4: MATCHUP SCORE = 82.9/100
 --------------------------------------------------------------------------------
 Date: 2025-11-09 Sunday
+Time: TBD
 Matchup: DET @ PHI
 
   Away Team: DET
@@ -86,6 +90,7 @@ Matchup: DET @ PHI
 RANK 5: MATCHUP SCORE = 82.7/100
 --------------------------------------------------------------------------------
 Date: 2025-11-08 Saturday
+Time: TBD
 Matchup: POR @ MIA
 
   Away Team: POR
@@ -104,6 +109,7 @@ Matchup: POR @ MIA
 RANK 6: MATCHUP SCORE = 82.5/100
 --------------------------------------------------------------------------------
 Date: 2025-11-10 Monday
+Time: TBD
 Matchup: CLE @ MIA
 
   Away Team: CLE
@@ -122,6 +128,7 @@ Matchup: CLE @ MIA
 RANK 7: MATCHUP SCORE = 82.5/100
 --------------------------------------------------------------------------------
 Date: 2025-11-12 Wednesday
+Time: TBD
 Matchup: CLE @ MIA
 
   Away Team: CLE
@@ -140,6 +147,7 @@ Matchup: CLE @ MIA
 RANK 8: MATCHUP SCORE = 80.9/100
 --------------------------------------------------------------------------------
 Date: 2025-11-13 Thursday
+Time: TBD
 Matchup: TOR @ CLE
 
   Away Team: TOR
@@ -158,6 +166,7 @@ Matchup: TOR @ CLE
 RANK 9: MATCHUP SCORE = 79.5/100
 --------------------------------------------------------------------------------
 Date: 2025-11-12 Wednesday
+Time: TBD
 Matchup: LAL @ OKC
 
   Away Team: LAL
@@ -176,6 +185,7 @@ Matchup: LAL @ OKC
 RANK 10: MATCHUP SCORE = 79.2/100
 --------------------------------------------------------------------------------
 Date: 2025-11-11 Tuesday
+Time: TBD
 Matchup: BOS @ PHI
 
   Away Team: BOS
@@ -194,6 +204,7 @@ Matchup: BOS @ PHI
 RANK 11: MATCHUP SCORE = 79.2/100
 --------------------------------------------------------------------------------
 Date: 2025-11-08 Saturday
+Time: TBD
 Matchup: TOR @ PHI
 
   Away Team: TOR
@@ -212,6 +223,7 @@ Matchup: TOR @ PHI
 RANK 12: MATCHUP SCORE = 77.6/100
 --------------------------------------------------------------------------------
 Date: 2025-11-07 Friday
+Time: TBD
 Matchup: TOR @ ATL
 
   Away Team: TOR
@@ -230,6 +242,7 @@ Matchup: TOR @ ATL
 RANK 13: MATCHUP SCORE = 77.2/100
 --------------------------------------------------------------------------------
 Date: 2025-11-08 Saturday
+Time: TBD
 Matchup: CHI @ CLE
 
   Away Team: CHI
@@ -248,6 +261,7 @@ Matchup: CHI @ CLE
 RANK 14: MATCHUP SCORE = 77.0/100
 --------------------------------------------------------------------------------
 Date: 2025-11-07 Friday
+Time: TBD
 Matchup: CHI @ MIL
 
   Away Team: CHI
@@ -266,6 +280,7 @@ Matchup: CHI @ MIL
 RANK 15: MATCHUP SCORE = 76.1/100
 --------------------------------------------------------------------------------
 Date: 2025-11-12 Wednesday
+Time: TBD
 Matchup: GSW @ SAS
 
   Away Team: GSW
@@ -284,6 +299,7 @@ Matchup: GSW @ SAS
 RANK 16: MATCHUP SCORE = 75.6/100
 --------------------------------------------------------------------------------
 Date: 2025-11-06 Thursday
+Time: TBD
 Matchup: LAC @ PHX
 
   Away Team: LAC
@@ -302,6 +318,7 @@ Matchup: LAC @ PHX
 RANK 17: MATCHUP SCORE = 75.6/100
 --------------------------------------------------------------------------------
 Date: 2025-11-08 Saturday
+Time: TBD
 Matchup: PHX @ LAC
 
   Away Team: PHX
@@ -320,6 +337,7 @@ Matchup: PHX @ LAC
 RANK 18: MATCHUP SCORE = 74.7/100
 --------------------------------------------------------------------------------
 Date: 2025-11-12 Wednesday
+Time: TBD
 Matchup: MIL @ CHA
 
   Away Team: MIL
@@ -338,6 +356,7 @@ Matchup: MIL @ CHA
 RANK 19: MATCHUP SCORE = 74.6/100
 --------------------------------------------------------------------------------
 Date: 2025-11-10 Monday
+Time: TBD
 Matchup: ATL @ LAC
 
   Away Team: ATL
@@ -356,6 +375,7 @@ Matchup: ATL @ LAC
 RANK 20: MATCHUP SCORE = 74.3/100
 --------------------------------------------------------------------------------
 Date: 2025-11-07 Friday
+Time: TBD
 Matchup: GSW @ DEN
 
   Away Team: GSW
@@ -374,6 +394,7 @@ Matchup: GSW @ DEN
 RANK 21: MATCHUP SCORE = 74.2/100
 --------------------------------------------------------------------------------
 Date: 2025-11-07 Friday
+Time: TBD
 Matchup: CHA @ MIA
 
   Away Team: CHA
@@ -392,6 +413,7 @@ Matchup: CHA @ MIA
 RANK 22: MATCHUP SCORE = 73.9/100
 --------------------------------------------------------------------------------
 Date: 2025-11-09 Sunday
+Time: TBD
 Matchup: HOU @ MIL
 
   Away Team: HOU
@@ -410,6 +432,7 @@ Matchup: HOU @ MIL
 RANK 23: MATCHUP SCORE = 73.4/100
 --------------------------------------------------------------------------------
 Date: 2025-11-08 Saturday
+Time: TBD
 Matchup: LAL @ ATL
 
   Away Team: LAL
@@ -428,6 +451,7 @@ Matchup: LAL @ ATL
 RANK 24: MATCHUP SCORE = 73.3/100
 --------------------------------------------------------------------------------
 Date: 2025-11-09 Sunday
+Time: TBD
 Matchup: BOS @ ORL
 
   Away Team: BOS
@@ -446,6 +470,7 @@ Matchup: BOS @ ORL
 RANK 25: MATCHUP SCORE = 73.3/100
 --------------------------------------------------------------------------------
 Date: 2025-11-07 Friday
+Time: TBD
 Matchup: BOS @ ORL
 
   Away Team: BOS
@@ -464,6 +489,7 @@ Matchup: BOS @ ORL
 RANK 26: MATCHUP SCORE = 73.3/100
 --------------------------------------------------------------------------------
 Date: 2025-11-09 Sunday
+Time: TBD
 Matchup: MIN @ SAC
 
   Away Team: MIN
@@ -482,6 +508,7 @@ Matchup: MIN @ SAC
 RANK 27: MATCHUP SCORE = 72.9/100
 --------------------------------------------------------------------------------
 Date: 2025-11-12 Wednesday
+Time: TBD
 Matchup: ATL @ SAC
 
   Away Team: ATL
@@ -500,6 +527,7 @@ Matchup: ATL @ SAC
 RANK 28: MATCHUP SCORE = 72.4/100
 --------------------------------------------------------------------------------
 Date: 2025-11-10 Monday
+Time: TBD
 Matchup: MIN @ UTA
 
   Away Team: MIN
@@ -518,6 +546,7 @@ Matchup: MIN @ UTA
 RANK 29: MATCHUP SCORE = 72.4/100
 --------------------------------------------------------------------------------
 Date: 2025-11-07 Friday
+Time: TBD
 Matchup: UTA @ MIN
 
   Away Team: UTA
@@ -536,6 +565,7 @@ Matchup: UTA @ MIN
 RANK 30: MATCHUP SCORE = 72.1/100
 --------------------------------------------------------------------------------
 Date: 2025-11-13 Thursday
+Time: TBD
 Matchup: ATL @ UTA
 
   Away Team: ATL
@@ -554,6 +584,7 @@ Matchup: ATL @ UTA
 RANK 31: MATCHUP SCORE = 71.8/100
 --------------------------------------------------------------------------------
 Date: 2025-11-11 Tuesday
+Time: TBD
 Matchup: GSW @ OKC
 
   Away Team: GSW
@@ -572,6 +603,7 @@ Matchup: GSW @ OKC
 RANK 32: MATCHUP SCORE = 71.7/100
 --------------------------------------------------------------------------------
 Date: 2025-11-10 Monday
+Time: TBD
 Matchup: POR @ ORL
 
   Away Team: POR
@@ -590,6 +622,7 @@ Matchup: POR @ ORL
 RANK 33: MATCHUP SCORE = 71.2/100
 --------------------------------------------------------------------------------
 Date: 2025-11-10 Monday
+Time: TBD
 Matchup: LAL @ CHA
 
   Away Team: LAL
@@ -608,6 +641,7 @@ Matchup: LAL @ CHA
 RANK 34: MATCHUP SCORE = 69.8/100
 --------------------------------------------------------------------------------
 Date: 2025-11-12 Wednesday
+Time: TBD
 Matchup: ORL @ NYK
 
   Away Team: ORL
@@ -626,6 +660,7 @@ Matchup: ORL @ NYK
 RANK 35: MATCHUP SCORE = 68.9/100
 --------------------------------------------------------------------------------
 Date: 2025-11-07 Friday
+Time: TBD
 Matchup: DAL @ MEM
 
   Away Team: DAL
@@ -644,6 +679,7 @@ Matchup: DAL @ MEM
 RANK 36: MATCHUP SCORE = 66.6/100
 --------------------------------------------------------------------------------
 Date: 2025-11-12 Wednesday
+Time: TBD
 Matchup: PHX @ DAL
 
   Away Team: PHX
@@ -662,6 +698,7 @@ Matchup: PHX @ DAL
 RANK 37: MATCHUP SCORE = 66.3/100
 --------------------------------------------------------------------------------
 Date: 2025-11-12 Wednesday
+Time: TBD
 Matchup: MEM @ BOS
 
   Away Team: MEM
@@ -680,6 +717,7 @@ Matchup: MEM @ BOS
 RANK 38: MATCHUP SCORE = 64.1/100
 --------------------------------------------------------------------------------
 Date: 2025-11-12 Wednesday
+Time: TBD
 Matchup: DEN @ LAC
 
   Away Team: DEN
@@ -698,6 +736,7 @@ Matchup: DEN @ LAC
 RANK 39: MATCHUP SCORE = 63.5/100
 --------------------------------------------------------------------------------
 Date: 2025-11-11 Tuesday
+Time: TBD
 Matchup: IND @ UTA
 
   Away Team: IND
@@ -716,6 +755,7 @@ Matchup: IND @ UTA
 RANK 40: MATCHUP SCORE = 63.1/100
 --------------------------------------------------------------------------------
 Date: 2025-11-13 Thursday
+Time: TBD
 Matchup: IND @ PHX
 
   Away Team: IND
@@ -734,6 +774,7 @@ Matchup: IND @ PHX
 RANK 41: MATCHUP SCORE = 62.7/100
 --------------------------------------------------------------------------------
 Date: 2025-11-11 Tuesday
+Time: TBD
 Matchup: MEM @ NYK
 
   Away Team: MEM
@@ -752,6 +793,7 @@ Matchup: MEM @ NYK
 RANK 42: MATCHUP SCORE = 62.5/100
 --------------------------------------------------------------------------------
 Date: 2025-11-11 Tuesday
+Time: TBD
 Matchup: DEN @ SAC
 
   Away Team: DEN
@@ -770,6 +812,7 @@ Matchup: DEN @ SAC
 RANK 43: MATCHUP SCORE = 60.8/100
 --------------------------------------------------------------------------------
 Date: 2025-11-10 Monday
+Time: TBD
 Matchup: NOP @ PHX
 
   Away Team: NOP
@@ -788,6 +831,7 @@ Matchup: NOP @ PHX
 RANK 44: MATCHUP SCORE = 60.4/100
 --------------------------------------------------------------------------------
 Date: 2025-11-10 Monday
+Time: TBD
 Matchup: MIL @ DAL
 
   Away Team: MIL
@@ -806,6 +850,7 @@ Matchup: MIL @ DAL
 RANK 45: MATCHUP SCORE = 59.9/100
 --------------------------------------------------------------------------------
 Date: 2025-11-07 Friday
+Time: TBD
 Matchup: OKC @ SAC
 
   Away Team: OKC
@@ -824,6 +869,7 @@ Matchup: OKC @ SAC
 RANK 46: MATCHUP SCORE = 59.2/100
 --------------------------------------------------------------------------------
 Date: 2025-11-08 Saturday
+Time: TBD
 Matchup: DAL @ WAS
 
   Away Team: DAL
@@ -842,6 +888,7 @@ Matchup: DAL @ WAS
 RANK 47: MATCHUP SCORE = 57.2/100
 --------------------------------------------------------------------------------
 Date: 2025-11-09 Sunday
+Time: TBD
 Matchup: IND @ GSW
 
   Away Team: IND
@@ -860,6 +907,7 @@ Matchup: IND @ GSW
 RANK 48: MATCHUP SCORE = 55.4/100
 --------------------------------------------------------------------------------
 Date: 2025-11-09 Sunday
+Time: TBD
 Matchup: OKC @ MEM
 
   Away Team: OKC
@@ -878,6 +926,7 @@ Matchup: OKC @ MEM
 RANK 49: MATCHUP SCORE = 53.8/100
 --------------------------------------------------------------------------------
 Date: 2025-11-12 Wednesday
+Time: TBD
 Matchup: POR @ NOP
 
   Away Team: POR
@@ -896,6 +945,7 @@ Matchup: POR @ NOP
 RANK 50: MATCHUP SCORE = 52.5/100
 --------------------------------------------------------------------------------
 Date: 2025-11-11 Tuesday
+Time: TBD
 Matchup: TOR @ BKN
 
   Away Team: TOR
@@ -914,6 +964,7 @@ Matchup: TOR @ BKN
 RANK 51: MATCHUP SCORE = 49.3/100
 --------------------------------------------------------------------------------
 Date: 2025-11-08 Saturday
+Time: TBD
 Matchup: IND @ DEN
 
   Away Team: IND
@@ -932,6 +983,7 @@ Matchup: IND @ DEN
 RANK 52: MATCHUP SCORE = 49.0/100
 --------------------------------------------------------------------------------
 Date: 2025-11-09 Sunday
+Time: TBD
 Matchup: BKN @ NYK
 
   Away Team: BKN
@@ -950,6 +1002,7 @@ Matchup: BKN @ NYK
 RANK 53: MATCHUP SCORE = 48.8/100
 --------------------------------------------------------------------------------
 Date: 2025-11-08 Saturday
+Time: TBD
 Matchup: NOP @ SAS
 
   Away Team: NOP
@@ -968,6 +1021,7 @@ Matchup: NOP @ SAS
 RANK 54: MATCHUP SCORE = 48.2/100
 --------------------------------------------------------------------------------
 Date: 2025-11-07 Friday
+Time: TBD
 Matchup: DET @ BKN
 
   Away Team: DET
@@ -986,6 +1040,7 @@ Matchup: DET @ BKN
 RANK 55: MATCHUP SCORE = 47.9/100
 --------------------------------------------------------------------------------
 Date: 2025-11-07 Friday
+Time: TBD
 Matchup: CLE @ WAS
 
   Away Team: CLE
@@ -1004,6 +1059,7 @@ Matchup: CLE @ WAS
 RANK 56: MATCHUP SCORE = 44.5/100
 --------------------------------------------------------------------------------
 Date: 2025-11-10 Monday
+Time: TBD
 Matchup: WAS @ DET
 
   Away Team: WAS
@@ -1022,6 +1078,7 @@ Matchup: WAS @ DET
 RANK 57: MATCHUP SCORE = 39.3/100
 --------------------------------------------------------------------------------
 Date: 2025-11-12 Wednesday
+Time: TBD
 Matchup: WAS @ HOU
 
   Away Team: WAS

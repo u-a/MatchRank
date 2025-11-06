@@ -154,7 +154,8 @@ def get_upcoming_matchups(days_ahead=7):
     
     for idx, row in matchups_df.iterrows():
         game_date = row['game_date'].strftime('%Y-%m-%d %A')
-        print(f"{game_date}: {row['away_team']} @ {row['home_team']}")
+        game_time = row.get('game_time', 'TBD')
+        print(f"{game_date} | {game_time}: {row['away_team']} @ {row['home_team']}")
     
     # Write to file
     with open('1_NBA_upcoming_matchups.txt', 'w') as f:
@@ -166,7 +167,8 @@ def get_upcoming_matchups(days_ahead=7):
         
         for idx, row in matchups_df.iterrows():
             game_date = row['game_date'].strftime('%Y-%m-%d %A')
-            f.write(f"{game_date}\n")
+            game_time = row.get('game_time', 'TBD')
+            f.write(f"{game_date} | {game_time}\n")
             f.write(f"  {row['away_team']} @ {row['home_team']}\n")
             f.write(f"  Status: {row.get('game_status', 'Scheduled')}\n\n")
     
@@ -406,9 +408,14 @@ def analyze_matchups(matchups, rankings):
     print("-" * 60)
     
     for idx, row in matchup_df.iterrows():
-        game_date = row['game_date'].strftime('%m/%d')
-        
-        print(f"{idx + 1}. [{game_date}] {row['away_team']} @ {row['home_team']}")
+        if isinstance(row['game_date'], datetime):
+            game_date = row['game_date'].strftime('%m/%d')
+        else:
+            game_date = str(row['game_date'])
+    
+        game_time = row.get('game_time', 'TBD')
+    
+        print(f"{idx + 1}. [{game_date} {game_time}] {row['away_team']} @ {row['home_team']}")
         print(f"   Matchup Score: {row['matchup_score']:.1f}/100 | "
               f"Quality: {row['ranking_score']:.1f} | "
               f"Competitive: {row['similarity_score']:.1f}")
@@ -429,11 +436,17 @@ def analyze_matchups(matchups, rankings):
         f.write("=" * 80 + "\n\n")
         
         for idx, row in matchup_df.iterrows():
-            game_date = row['game_date'].strftime('%Y-%m-%d %A')
-            
+            if isinstance(row['game_date'], datetime):
+                game_date = row['game_date'].strftime('%Y-%m-%d %A')
+            else:
+                game_date = str(row['game_date'])
+    
+            game_time = row.get('game_time', 'TBD')
+    
             f.write(f"RANK {idx + 1}: MATCHUP SCORE = {row['matchup_score']:.1f}/100\n")
             f.write("-" * 80 + "\n")
             f.write(f"Date: {game_date}\n")
+            f.write(f"Time: {game_time}\n")
             f.write(f"Matchup: {row['away_team']} @ {row['home_team']}\n\n")
             f.write(f"  Away Team: {row['away_team']}\n")
             f.write(f"    - Power Rank: #{row['away_rank']} (Score: {row['away_power']:.2f})\n\n")

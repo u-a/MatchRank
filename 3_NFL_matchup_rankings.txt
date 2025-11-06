@@ -13,7 +13,9 @@ Scoring Methodology:
 
 RANK 1: MATCHUP SCORE = 84.0/100
 --------------------------------------------------------------------------------
-Date: 2025-11-10 Monday | Week 10
+Date: 2025-11-10 Monday
+Time: 20:15
+Week: 10
 Matchup: PHI @ GB
 
   Away Team: PHI
@@ -31,7 +33,9 @@ Matchup: PHI @ GB
 
 RANK 2: MATCHUP SCORE = 80.9/100
 --------------------------------------------------------------------------------
-Date: 2025-11-09 Sunday | Week 10
+Date: 2025-11-09 Sunday
+Time: 13:00
+Week: 10
 Matchup: NE @ TB
 
   Away Team: NE
@@ -49,7 +53,9 @@ Matchup: NE @ TB
 
 RANK 3: MATCHUP SCORE = 80.5/100
 --------------------------------------------------------------------------------
-Date: 2025-11-09 Sunday | Week 10
+Date: 2025-11-09 Sunday
+Time: 20:20
+Week: 10
 Matchup: PIT @ LAC
 
   Away Team: PIT
@@ -67,7 +73,9 @@ Matchup: PIT @ LAC
 
 RANK 4: MATCHUP SCORE = 79.4/100
 --------------------------------------------------------------------------------
-Date: 2025-11-09 Sunday | Week 10
+Date: 2025-11-09 Sunday
+Time: 13:00
+Week: 10
 Matchup: JAX @ HOU
 
   Away Team: JAX
@@ -85,7 +93,9 @@ Matchup: JAX @ HOU
 
 RANK 5: MATCHUP SCORE = 76.0/100
 --------------------------------------------------------------------------------
-Date: 2025-11-09 Sunday | Week 10
+Date: 2025-11-09 Sunday
+Time: 16:25
+Week: 10
 Matchup: LA @ SF
 
   Away Team: LA
@@ -103,7 +113,9 @@ Matchup: LA @ SF
 
 RANK 6: MATCHUP SCORE = 75.5/100
 --------------------------------------------------------------------------------
-Date: 2025-11-09 Sunday | Week 10
+Date: 2025-11-09 Sunday
+Time: 13:00
+Week: 10
 Matchup: BAL @ MIN
 
   Away Team: BAL
@@ -121,7 +133,9 @@ Matchup: BAL @ MIN
 
 RANK 7: MATCHUP SCORE = 71.4/100
 --------------------------------------------------------------------------------
-Date: 2025-11-09 Sunday | Week 10
+Date: 2025-11-09 Sunday
+Time: 13:00
+Week: 10
 Matchup: CLE @ NYJ
 
   Away Team: CLE
@@ -139,7 +153,9 @@ Matchup: CLE @ NYJ
 
 RANK 8: MATCHUP SCORE = 69.9/100
 --------------------------------------------------------------------------------
-Date: 2025-11-09 Sunday | Week 10
+Date: 2025-11-09 Sunday
+Time: 16:05
+Week: 10
 Matchup: ARI @ SEA
 
   Away Team: ARI
@@ -157,7 +173,9 @@ Matchup: ARI @ SEA
 
 RANK 9: MATCHUP SCORE = 66.2/100
 --------------------------------------------------------------------------------
-Date: 2025-11-09 Sunday | Week 10
+Date: 2025-11-09 Sunday
+Time: 16:25
+Week: 10
 Matchup: DET @ WAS
 
   Away Team: DET
@@ -175,7 +193,9 @@ Matchup: DET @ WAS
 
 RANK 10: MATCHUP SCORE = 66.2/100
 --------------------------------------------------------------------------------
-Date: 2025-11-09 Sunday | Week 10
+Date: 2025-11-09 Sunday
+Time: 13:00
+Week: 10
 Matchup: NYG @ CHI
 
   Away Team: NYG
@@ -193,7 +213,9 @@ Matchup: NYG @ CHI
 
 RANK 11: MATCHUP SCORE = 62.0/100
 --------------------------------------------------------------------------------
-Date: 2025-11-09 Sunday | Week 10
+Date: 2025-11-09 Sunday
+Time: 09:30
+Week: 10
 Matchup: ATL @ IND
 
   Away Team: ATL
@@ -211,7 +233,9 @@ Matchup: ATL @ IND
 
 RANK 12: MATCHUP SCORE = 58.9/100
 --------------------------------------------------------------------------------
-Date: 2025-11-09 Sunday | Week 10
+Date: 2025-11-09 Sunday
+Time: 13:00
+Week: 10
 Matchup: NO @ CAR
 
   Away Team: NO
@@ -229,7 +253,9 @@ Matchup: NO @ CAR
 
 RANK 13: MATCHUP SCORE = 57.9/100
 --------------------------------------------------------------------------------
-Date: 2025-11-09 Sunday | Week 10
+Date: 2025-11-09 Sunday
+Time: 13:00
+Week: 10
 Matchup: BUF @ MIA
 
   Away Team: BUF
@@ -247,7 +273,9 @@ Matchup: BUF @ MIA
 
 RANK 14: MATCHUP SCORE = 56.1/100
 --------------------------------------------------------------------------------
-Date: 2025-11-13 Thursday | Week 11
+Date: 2025-11-13 Thursday
+Time: 20:15
+Week: 11
 Matchup: NYJ @ NE
 
   Away Team: NYJ
@@ -265,7 +293,9 @@ Matchup: NYJ @ NE
 
 RANK 15: MATCHUP SCORE = 55.6/100
 --------------------------------------------------------------------------------
-Date: 2025-11-06 Thursday | Week 10
+Date: 2025-11-06 Thursday
+Time: 20:15
+Week: 10
 Matchup: LV @ DEN
 
   Away Team: LV
