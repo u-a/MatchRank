@@ -53,7 +53,7 @@ def get_upcoming_matchups(days_ahead=7):
         print(f"{game_date} | Week {row['week']}: {row['away_team']} @ {row['home_team']}")
     
     # Write to file
-    with open('1_upcoming_matchups.txt', 'w') as f:
+    with open('1_NFL_upcoming_matchups.txt', 'w') as f:
         f.write("=" * 60 + "\n")
         f.write("NFL UPCOMING MATCHUPS\n")
         f.write(f"Analysis Date: {today}\n")
@@ -65,7 +65,7 @@ def get_upcoming_matchups(days_ahead=7):
             f.write(f"{game_date} | Week {row['week']}\n")
             f.write(f"  {row['away_team']} @ {row['home_team']}\n\n")
     
-    print(f"\n✓ Matchups written to: 1_upcoming_matchups.txt")
+    print(f"\n✓ Matchups written to: 1_NFL_upcoming_matchups.txt")
     
     return matchups
 
@@ -174,7 +174,7 @@ def calculate_power_rankings():
               f"Pt Diff: {row['point_diff']:+.0f}")
     
     # Write to file
-    with open('2_power_rankings.txt', 'w') as f:
+    with open('2_NFL_power_rankings.txt', 'w') as f:
         f.write("=" * 80 + "\n")
         f.write("NFL TEAM POWER RANKINGS\n")
         f.write(f"Season: {current_year}\n")
@@ -195,7 +195,7 @@ def calculate_power_rankings():
                    f"{row['points_scored']:<8.0f}{row['points_allowed']:<8.0f}"
                    f"{row['point_diff']:<8.0f}{row['pyth_expectation']:<8.3f}\n")
     
-    print(f"\n✓ Rankings written to: 2_power_rankings.txt")
+    print(f"\n✓ Rankings written to: 2_NFL_power_rankings.txt")
     
     return rankings_df
 
@@ -271,7 +271,7 @@ def analyze_matchups(matchups, rankings):
         print()
     
     # Write to file
-    with open('3_matchup_rankings.txt', 'w') as f:
+    with open('3_NFL_matchup_rankings.txt', 'w') as f:
         f.write("=" * 80 + "\n")
         f.write("NFL MATCHUP RANKINGS\n")
         f.write(f"Analysis Date: {datetime.now().date()}\n")
@@ -299,7 +299,7 @@ def analyze_matchups(matchups, rankings):
             f.write(f"    - Overall Matchup Score: {row['matchup_score']:.1f}/100\n\n")
             f.write("=" * 80 + "\n\n")
     
-    print(f"✓ Matchup analysis written to: 3_matchup_rankings.txt")
+    print(f"✓ Matchup analysis written to: 3_NFL_matchup_rankings.txt")
     
     return matchup_df
 
@@ -330,9 +330,9 @@ def main():
         print("ANALYSIS COMPLETE")
         print("=" * 60)
         print("\nGenerated Files:")
-        print("  1. 1_upcoming_matchups.txt - List of games in next 7 days")
-        print("  2. 2_power_rankings.txt - Team power rankings")
-        print("  3. 3_matchup_rankings.txt - Ranked matchups with analysis")
+        print("  1. 1_NFL_upcoming_matchups.txt - List of games in next 7 days")
+        print("  2. 2_NFL_power_rankings.txt - Team power rankings")
+        print("  3. 3_NFL_matchup_rankings.txt - Ranked matchups with analysis")
         print("\n" + "=" * 60)
         
     except Exception as e:
