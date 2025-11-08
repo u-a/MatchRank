@@ -76,13 +76,15 @@ def get_upcoming_matchups(days_ahead=7):
                 for _, game in games_df.iterrows():
                     home_team_id = game['HOME_TEAM_ID']
                     visitor_team_id = game['VISITOR_TEAM_ID']
+                    game_status_text = game.get('GAME_STATUS_TEXT', 'Scheduled')
                     
                     all_matchups.append({
                         'game_id': game['GAME_ID'],
                         'game_date': check_date,
                         'away_team': team_map.get(visitor_team_id, str(visitor_team_id)),
                         'home_team': team_map.get(home_team_id, str(home_team_id)),
-                        'game_status': game.get('GAME_STATUS_TEXT', 'Scheduled')
+                        'game_time': game_status_text,  # CHANGE THIS LINE
+                        'game_status': game_status_text
                     })
             
             time.sleep(0.6)  # Rate limiting
@@ -154,7 +156,7 @@ def get_upcoming_matchups(days_ahead=7):
     
     for idx, row in matchups_df.iterrows():
         game_date = row['game_date'].strftime('%Y-%m-%d %A')
-        game_time = row.get('game_time', 'TBD')
+        game_time = row.get('game_status', 'TBD')
         print(f"{game_date} | {game_time}: {row['away_team']} @ {row['home_team']}")
     
     # Write to file
@@ -385,11 +387,12 @@ def analyze_matchups(matchups, rankings):
         similarity_score = (1 - (score_diff / max_diff)) * 100
         
         # Matchup Score: 60% similarity (competitiveness), 40% quality
-        matchup_score = (0.60 * similarity_score + 0.40 * ranking_score)
+        matchup_score = (0.30 * similarity_score + 0.70 * ranking_score)
         
         matchup_analysis.append({
             'game_id': game['game_id'],
             'game_date': game['game_date'],
+            'game_time': game.get('game_time', 'TBD'),
             'away_team': away_team,
             'home_team': home_team,
             'away_power': away_score,

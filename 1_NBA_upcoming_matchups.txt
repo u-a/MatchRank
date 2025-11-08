@@ -1,234 +1,242 @@
 ============================================================
 NBA UPCOMING MATCHUPS
 Season: 2025-26
-Analysis Date: 2025-11-06
+Analysis Date: 2025-11-08
 ============================================================
 
-2025-11-06 Thursday | TBD
-  LAC @ PHX
-  Status: 9:00 pm ET
-
-2025-11-07 Friday | TBD
-  BOS @ ORL
-  Status: 7:00 pm ET
-
-2025-11-07 Friday | TBD
-  CLE @ WAS
-  Status: 7:00 pm ET
-
-2025-11-07 Friday | TBD
-  TOR @ ATL
-  Status: 7:30 pm ET
-
-2025-11-07 Friday | TBD
-  DET @ BKN
-  Status: 7:30 pm ET
-
-2025-11-07 Friday | TBD
-  HOU @ SAS
-  Status: 7:30 pm ET
-
-2025-11-07 Friday | TBD
-  CHA @ MIA
-  Status: 8:00 pm ET
-
-2025-11-07 Friday | TBD
-  DAL @ MEM
-  Status: 8:00 pm ET
-
-2025-11-07 Friday | TBD
-  CHI @ MIL
-  Status: 8:00 pm ET
-
-2025-11-07 Friday | TBD
-  UTA @ MIN
-  Status: 8:00 pm ET
-
-2025-11-07 Friday | TBD
-  GSW @ DEN
-  Status: 10:00 pm ET
-
-2025-11-07 Friday | TBD
-  OKC @ SAC
-  Status: 10:00 pm ET
-
-2025-11-08 Saturday | TBD
-  PHX @ LAC
-  Status: 10:30 pm ET
-
-2025-11-08 Saturday | TBD
-  IND @ DEN
-  Status: 9:00 pm ET
-
-2025-11-08 Saturday | TBD
-  NOP @ SAS
-  Status: 8:00 pm ET
-
-2025-11-08 Saturday | TBD
-  POR @ MIA
-  Status: 8:00 pm ET
-
-2025-11-08 Saturday | TBD
-  CHI @ CLE
-  Status: 8:00 pm ET
-
-2025-11-08 Saturday | TBD
-  LAL @ ATL
-  Status: 8:00 pm ET
-
-2025-11-08 Saturday | TBD
-  TOR @ PHI
-  Status: 7:30 pm ET
-
-2025-11-08 Saturday | TBD
+2025-11-08 Saturday | 7:00 pm ET
   DAL @ WAS
   Status: 7:00 pm ET
 
-2025-11-09 Sunday | TBD
-  HOU @ MIL
-  Status: 3:30 pm ET
-
-2025-11-09 Sunday | TBD
-  BKN @ NYK
-  Status: 6:00 pm ET
-
-2025-11-09 Sunday | TBD
-  BOS @ ORL
-  Status: 6:00 pm ET
-
-2025-11-09 Sunday | TBD
-  OKC @ MEM
-  Status: 6:00 pm ET
-
-2025-11-09 Sunday | TBD
-  DET @ PHI
+2025-11-08 Saturday | 7:30 pm ET
+  TOR @ PHI
   Status: 7:30 pm ET
 
-2025-11-09 Sunday | TBD
-  IND @ GSW
-  Status: 8:30 pm ET
+2025-11-08 Saturday | 8:00 pm ET
+  LAL @ ATL
+  Status: 8:00 pm ET
 
-2025-11-09 Sunday | TBD
+2025-11-08 Saturday | 8:00 pm ET
+  CHI @ CLE
+  Status: 8:00 pm ET
+
+2025-11-08 Saturday | 8:00 pm ET
+  POR @ MIA
+  Status: 8:00 pm ET
+
+2025-11-08 Saturday | 8:00 pm ET
+  NOP @ SAS
+  Status: 8:00 pm ET
+
+2025-11-08 Saturday | 9:00 pm ET
+  IND @ DEN
+  Status: 9:00 pm ET
+
+2025-11-08 Saturday | 10:30 pm ET
+  PHX @ LAC
+  Status: 10:30 pm ET
+
+2025-11-09 Sunday | 9:00 pm ET
   MIN @ SAC
   Status: 9:00 pm ET
 
-2025-11-10 Monday | TBD
-  ATL @ LAC
-  Status: 10:30 pm ET
-
-2025-11-10 Monday | TBD
-  MIN @ UTA
-  Status: 9:00 pm ET
-
-2025-11-10 Monday | TBD
-  NOP @ PHX
-  Status: 9:00 pm ET
-
-2025-11-10 Monday | TBD
-  MIL @ DAL
+2025-11-09 Sunday | 8:30 pm ET
+  IND @ GSW
   Status: 8:30 pm ET
 
-2025-11-10 Monday | TBD
-  WAS @ DET
-  Status: 7:00 pm ET
+2025-11-09 Sunday | 6:00 pm ET
+  OKC @ MEM
+  Status: 6:00 pm ET
 
-2025-11-10 Monday | TBD
-  CLE @ MIA
+2025-11-09 Sunday | 7:30 pm ET
+  DET @ PHI
   Status: 7:30 pm ET
 
-2025-11-10 Monday | TBD
-  POR @ ORL
-  Status: 7:00 pm ET
+2025-11-09 Sunday | 6:00 pm ET
+  BKN @ NYK
+  Status: 6:00 pm ET
 
-2025-11-10 Monday | TBD
+2025-11-09 Sunday | 3:30 pm ET
+  HOU @ MIL
+  Status: 3:30 pm ET
+
+2025-11-09 Sunday | 6:00 pm ET
+  BOS @ ORL
+  Status: 6:00 pm ET
+
+2025-11-10 Monday | 7:00 pm ET
   LAL @ CHA
   Status: 7:00 pm ET
 
-2025-11-10 Monday | TBD
-  SAS @ CHI
-  Status: 8:00 pm ET
-
-2025-11-11 Tuesday | TBD
-  TOR @ BKN
-  Status: 7:30 pm ET
-
-2025-11-11 Tuesday | TBD
-  MEM @ NYK
-  Status: 7:30 pm ET
-
-2025-11-11 Tuesday | TBD
-  BOS @ PHI
-  Status: 8:00 pm ET
-
-2025-11-11 Tuesday | TBD
-  GSW @ OKC
-  Status: 8:00 pm ET
-
-2025-11-11 Tuesday | TBD
-  IND @ UTA
-  Status: 9:00 pm ET
-
-2025-11-11 Tuesday | TBD
-  DEN @ SAC
-  Status: 11:00 pm ET
-
-2025-11-12 Wednesday | TBD
-  DEN @ LAC
-  Status: 10:30 pm ET
-
-2025-11-12 Wednesday | TBD
-  ATL @ SAC
-  Status: 10:00 pm ET
-
-2025-11-12 Wednesday | TBD
-  LAL @ OKC
-  Status: 9:30 pm ET
-
-2025-11-12 Wednesday | TBD
-  PHX @ DAL
-  Status: 8:30 pm ET
-
-2025-11-12 Wednesday | TBD
-  GSW @ SAS
-  Status: 8:00 pm ET
-
-2025-11-12 Wednesday | TBD
-  POR @ NOP
-  Status: 8:00 pm ET
-
-2025-11-12 Wednesday | TBD
-  ORL @ NYK
+2025-11-10 Monday | 7:00 pm ET
+  WAS @ DET
   Status: 7:00 pm ET
 
-2025-11-12 Wednesday | TBD
+2025-11-10 Monday | 7:00 pm ET
+  POR @ ORL
+  Status: 7:00 pm ET
+
+2025-11-10 Monday | 7:30 pm ET
   CLE @ MIA
   Status: 7:30 pm ET
 
-2025-11-12 Wednesday | TBD
-  MEM @ BOS
+2025-11-10 Monday | 8:00 pm ET
+  SAS @ CHI
+  Status: 8:00 pm ET
+
+2025-11-10 Monday | 8:30 pm ET
+  MIL @ DAL
+  Status: 8:30 pm ET
+
+2025-11-10 Monday | 9:00 pm ET
+  NOP @ PHX
+  Status: 9:00 pm ET
+
+2025-11-10 Monday | 9:00 pm ET
+  MIN @ UTA
+  Status: 9:00 pm ET
+
+2025-11-10 Monday | 10:30 pm ET
+  ATL @ LAC
+  Status: 10:30 pm ET
+
+2025-11-11 Tuesday | 9:00 pm ET
+  IND @ UTA
+  Status: 9:00 pm ET
+
+2025-11-11 Tuesday | 8:00 pm ET
+  GSW @ OKC
+  Status: 8:00 pm ET
+
+2025-11-11 Tuesday | 11:00 pm ET
+  DEN @ SAC
+  Status: 11:00 pm ET
+
+2025-11-11 Tuesday | 7:30 pm ET
+  MEM @ NYK
   Status: 7:30 pm ET
 
-2025-11-12 Wednesday | TBD
-  CHI @ DET
-  Status: 7:00 pm ET
+2025-11-11 Tuesday | 7:30 pm ET
+  TOR @ BKN
+  Status: 7:30 pm ET
 
-2025-11-12 Wednesday | TBD
+2025-11-11 Tuesday | 8:00 pm ET
+  BOS @ PHI
+  Status: 8:00 pm ET
+
+2025-11-12 Wednesday | 7:00 pm ET
   MIL @ CHA
   Status: 7:00 pm ET
 
-2025-11-12 Wednesday | TBD
+2025-11-12 Wednesday | 7:00 pm ET
+  CHI @ DET
+  Status: 7:00 pm ET
+
+2025-11-12 Wednesday | 7:00 pm ET
+  ORL @ NYK
+  Status: 7:00 pm ET
+
+2025-11-12 Wednesday | 7:30 pm ET
+  MEM @ BOS
+  Status: 7:30 pm ET
+
+2025-11-12 Wednesday | 7:30 pm ET
+  CLE @ MIA
+  Status: 7:30 pm ET
+
+2025-11-12 Wednesday | 8:00 pm ET
   WAS @ HOU
   Status: 8:00 pm ET
 
-2025-11-13 Thursday | TBD
-  IND @ PHX
+2025-11-12 Wednesday | 8:00 pm ET
+  POR @ NOP
+  Status: 8:00 pm ET
+
+2025-11-12 Wednesday | 8:00 pm ET
+  GSW @ SAS
+  Status: 8:00 pm ET
+
+2025-11-12 Wednesday | 8:30 pm ET
+  PHX @ DAL
+  Status: 8:30 pm ET
+
+2025-11-12 Wednesday | 9:30 pm ET
+  LAL @ OKC
+  Status: 9:30 pm ET
+
+2025-11-12 Wednesday | 10:00 pm ET
+  ATL @ SAC
+  Status: 10:00 pm ET
+
+2025-11-12 Wednesday | 10:30 pm ET
+  DEN @ LAC
+  Status: 10:30 pm ET
+
+2025-11-13 Thursday | 9:00 pm ET
+  ATL @ UTA
   Status: 9:00 pm ET
 
-2025-11-13 Thursday | TBD
+2025-11-13 Thursday | 7:00 pm ET
   TOR @ CLE
   Status: 7:00 pm ET
 
-2025-11-13 Thursday | TBD
-  ATL @ UTA
+2025-11-13 Thursday | 9:00 pm ET
+  IND @ PHX
   Status: 9:00 pm ET
+
+2025-11-14 Friday | 7:00 pm ET
+  MIA @ NYK
+  Status: 7:00 pm ET
+
+2025-11-14 Friday | 7:00 pm ET
+  BKN @ ORL
+  Status: 7:00 pm ET
+
+2025-11-14 Friday | 7:30 pm ET
+  PHI @ DET
+  Status: 7:30 pm ET
+
+2025-11-14 Friday | 8:00 pm ET
+  POR @ HOU
+  Status: 8:00 pm ET
+
+2025-11-14 Friday | 8:00 pm ET
+  CHA @ MIL
+  Status: 8:00 pm ET
+
+2025-11-14 Friday | 8:00 pm ET
+  SAC @ MIN
+  Status: 8:00 pm ET
+
+2025-11-14 Friday | 8:00 pm ET
+  LAL @ NOP
+  Status: 8:00 pm ET
+
+2025-11-14 Friday | 8:30 pm ET
+  LAC @ DAL
+  Status: 8:30 pm ET
+
+2025-11-14 Friday | 9:30 pm ET
+  GSW @ SAS
+  Status: 9:30 pm ET
+
+2025-11-15 Saturday | 8:00 pm ET
+  LAL @ MIL
+  Status: 8:00 pm ET
+
+2025-11-15 Saturday | 5:00 pm ET
+  MEM @ CLE
+  Status: 5:00 pm ET
+
+2025-11-15 Saturday | 7:00 pm ET
+  OKC @ CHA
+  Status: 7:00 pm ET
+
+2025-11-15 Saturday | 7:00 pm ET
+  TOR @ IND
+  Status: 7:00 pm ET
+
+2025-11-15 Saturday | 8:00 pm ET
+  DEN @ MIN
+  Status: 8:00 pm ET
 

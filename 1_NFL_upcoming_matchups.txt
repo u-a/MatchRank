@@ -1,11 +1,8 @@
 ============================================================
 NFL UPCOMING MATCHUPS
-Analysis Date: 2025-11-06
+Analysis Date: 2025-11-08
 Looking ahead: 7 days
 ============================================================
-
-2025-11-06 Thursday | 20:15 | Week 10
-  LV @ DEN
 
 2025-11-09 Sunday | 09:30 | Week 10
   ATL @ IND

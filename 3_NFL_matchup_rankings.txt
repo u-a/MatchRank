@@ -1,6 +1,6 @@
 ================================================================================
 NFL MATCHUP RANKINGS
-Analysis Date: 2025-11-06
+Analysis Date: 2025-11-08
 ================================================================================
 
 Scoring Methodology:
@@ -259,7 +259,7 @@ Week: 10
 Matchup: BUF @ MIA
 
   Away Team: BUF
-    - Power Rank: #5 (Score: 68.58)
+    - Power Rank: #6 (Score: 68.58)
 
   Home Team: MIA
     - Power Rank: #27 (Score: 31.69)
@@ -288,26 +288,6 @@ Matchup: NYJ @ NE
     - Combined Quality Score: 49.6/100
     - Competitiveness Score: 60.5/100
     - Overall Matchup Score: 56.1/100
-
-================================================================================
-
-RANK 15: MATCHUP SCORE = 55.6/100
---------------------------------------------------------------------------------
-Date: 2025-11-06 Thursday
-Time: 20:15
-Week: 10
-Matchup: LV @ DEN
-
-  Away Team: LV
-    - Power Rank: #30 (Score: 28.59)
-
-  Home Team: DEN
-    - Power Rank: #6 (Score: 68.19)
-
-  Scores:
-    - Combined Quality Score: 48.4/100
-    - Competitiveness Score: 60.4/100
-    - Overall Matchup Score: 55.6/100
 
 ================================================================================
 
