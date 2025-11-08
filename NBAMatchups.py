@@ -274,9 +274,9 @@ def calculate_power_rankings():
             norm_def_eff = max(0, min(1, (125 - def_efficiency) / 30))
             
             power_score = (
-                0.35 * win_pct +
-                0.30 * norm_net_rating +
-                0.20 * norm_off_eff +
+                0.50 * win_pct +
+                0.20 * norm_net_rating +
+                0.15 * norm_off_eff +
                 0.15 * norm_def_eff
             ) * 100
             
@@ -434,7 +434,7 @@ def analyze_matchups(matchups, rankings):
         f.write("Scoring Methodology:\n")
         f.write("  - Ranking Score: Average power rating of both teams (0-100)\n")
         f.write("  - Similarity Score: How evenly matched teams are (0-100)\n")
-        f.write("  - Matchup Score: 60% similarity + 40% quality (0-100)\n")
+        f.write("  - Matchup Score: 60% quality + 40% similarity (0-100)\n")
         f.write("    Higher scores indicate competitive games between strong teams\n\n")
         f.write("=" * 80 + "\n\n")
         
