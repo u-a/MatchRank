@@ -1,48 +1,51 @@
 ============================================================
 NFL UPCOMING MATCHUPS
-Analysis Date: 2025-11-08
+Analysis Date: 2025-11-11
 Looking ahead: 7 days
 ============================================================
 
-2025-11-09 Sunday | 09:30 | Week 10
-  ATL @ IND
-
-2025-11-09 Sunday | 13:00 | Week 10
-  NO @ CAR
-
-2025-11-09 Sunday | 13:00 | Week 10
-  NYG @ CHI
-
-2025-11-09 Sunday | 13:00 | Week 10
-  JAX @ HOU
-
-2025-11-09 Sunday | 13:00 | Week 10
-  BUF @ MIA
-
-2025-11-09 Sunday | 13:00 | Week 10
-  BAL @ MIN
-
-2025-11-09 Sunday | 13:00 | Week 10
-  CLE @ NYJ
-
-2025-11-09 Sunday | 13:00 | Week 10
-  NE @ TB
-
-2025-11-09 Sunday | 16:05 | Week 10
-  ARI @ SEA
-
-2025-11-09 Sunday | 16:25 | Week 10
-  LA @ SF
-
-2025-11-09 Sunday | 16:25 | Week 10
-  DET @ WAS
-
-2025-11-09 Sunday | 20:20 | Week 10
-  PIT @ LAC
-
-2025-11-10 Monday | 20:15 | Week 10
-  PHI @ GB
-
 2025-11-13 Thursday | 20:15 | Week 11
   NYJ @ NE
+
+2025-11-16 Sunday | 09:30 | Week 11
+  WAS @ MIA
+
+2025-11-16 Sunday | 13:00 | Week 11
+  CAR @ ATL
+
+2025-11-16 Sunday | 13:00 | Week 11
+  TB @ BUF
+
+2025-11-16 Sunday | 13:00 | Week 11
+  LAC @ JAX
+
+2025-11-16 Sunday | 13:00 | Week 11
+  CHI @ MIN
+
+2025-11-16 Sunday | 13:00 | Week 11
+  GB @ NYG
+
+2025-11-16 Sunday | 13:00 | Week 11
+  CIN @ PIT
+
+2025-11-16 Sunday | 13:00 | Week 11
+  HOU @ TEN
+
+2025-11-16 Sunday | 16:05 | Week 11
+  SF @ ARI
+
+2025-11-16 Sunday | 16:05 | Week 11
+  SEA @ LA
+
+2025-11-16 Sunday | 16:25 | Week 11
+  BAL @ CLE
+
+2025-11-16 Sunday | 16:25 | Week 11
+  KC @ DEN
+
+2025-11-16 Sunday | 20:20 | Week 11
+  DET @ PHI
+
+2025-11-17 Monday | 20:15 | Week 11
+  DAL @ LV
 

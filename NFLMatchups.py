@@ -237,9 +237,9 @@ def analyze_matchups(matchups, rankings):
         similarity_score = (1 - (score_diff / max_diff)) * 100
         
         # Matchup Score: Holistic score combining both factors
-        # Weight: 60% similarity (competitiveness), 40% ranking (quality)
+        # Weight: 40% similarity (competitiveness), 60% ranking (quality)
         # This prioritizes close games between good teams
-        matchup_score = (0.60 * similarity_score + 0.40 * ranking_score)
+        matchup_score = (0.40 * similarity_score + 0.60 * ranking_score)
         
         matchup_analysis.append({
             'game_id': game['game_id'],

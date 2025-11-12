@@ -1,131 +1,67 @@
 ============================================================
 NBA UPCOMING MATCHUPS
 Season: 2025-26
-Analysis Date: 2025-11-08
+Analysis Date: 2025-11-11
 ============================================================
-
-2025-11-08 Saturday | 7:00 pm ET
-  DAL @ WAS
-  Status: 7:00 pm ET
-
-2025-11-08 Saturday | 7:30 pm ET
-  TOR @ PHI
-  Status: 7:30 pm ET
-
-2025-11-08 Saturday | 8:00 pm ET
-  LAL @ ATL
-  Status: 8:00 pm ET
-
-2025-11-08 Saturday | 8:00 pm ET
-  CHI @ CLE
-  Status: 8:00 pm ET
-
-2025-11-08 Saturday | 8:00 pm ET
-  POR @ MIA
-  Status: 8:00 pm ET
-
-2025-11-08 Saturday | 8:00 pm ET
-  NOP @ SAS
-  Status: 8:00 pm ET
-
-2025-11-08 Saturday | 9:00 pm ET
-  IND @ DEN
-  Status: 9:00 pm ET
-
-2025-11-08 Saturday | 10:30 pm ET
-  PHX @ LAC
-  Status: 10:30 pm ET
-
-2025-11-09 Sunday | 9:00 pm ET
-  MIN @ SAC
-  Status: 9:00 pm ET
-
-2025-11-09 Sunday | 8:30 pm ET
-  IND @ GSW
-  Status: 8:30 pm ET
-
-2025-11-09 Sunday | 6:00 pm ET
-  OKC @ MEM
-  Status: 6:00 pm ET
-
-2025-11-09 Sunday | 7:30 pm ET
-  DET @ PHI
-  Status: 7:30 pm ET
-
-2025-11-09 Sunday | 6:00 pm ET
-  BKN @ NYK
-  Status: 6:00 pm ET
-
-2025-11-09 Sunday | 3:30 pm ET
-  HOU @ MIL
-  Status: 3:30 pm ET
-
-2025-11-09 Sunday | 6:00 pm ET
-  BOS @ ORL
-  Status: 6:00 pm ET
-
-2025-11-10 Monday | 7:00 pm ET
-  LAL @ CHA
-  Status: 7:00 pm ET
-
-2025-11-10 Monday | 7:00 pm ET
-  WAS @ DET
-  Status: 7:00 pm ET
-
-2025-11-10 Monday | 7:00 pm ET
-  POR @ ORL
-  Status: 7:00 pm ET
-
-2025-11-10 Monday | 7:30 pm ET
-  CLE @ MIA
-  Status: 7:30 pm ET
-
-2025-11-10 Monday | 8:00 pm ET
-  SAS @ CHI
-  Status: 8:00 pm ET
-
-2025-11-10 Monday | 8:30 pm ET
-  MIL @ DAL
-  Status: 8:30 pm ET
-
-2025-11-10 Monday | 9:00 pm ET
-  NOP @ PHX
-  Status: 9:00 pm ET
-
-2025-11-10 Monday | 9:00 pm ET
-  MIN @ UTA
-  Status: 9:00 pm ET
-
-2025-11-10 Monday | 10:30 pm ET
-  ATL @ LAC
-  Status: 10:30 pm ET
-
-2025-11-11 Tuesday | 9:00 pm ET
-  IND @ UTA
-  Status: 9:00 pm ET
-
-2025-11-11 Tuesday | 8:00 pm ET
-  GSW @ OKC
-  Status: 8:00 pm ET
-
-2025-11-11 Tuesday | 11:00 pm ET
-  DEN @ SAC
-  Status: 11:00 pm ET
-
-2025-11-11 Tuesday | 7:30 pm ET
-  MEM @ NYK
-  Status: 7:30 pm ET
 
 2025-11-11 Tuesday | 7:30 pm ET
   TOR @ BKN
+  Status: 7:30 pm ET
+
+2025-11-11 Tuesday | 7:30 pm ET
+  MEM @ NYK
   Status: 7:30 pm ET
 
 2025-11-11 Tuesday | 8:00 pm ET
   BOS @ PHI
   Status: 8:00 pm ET
 
+2025-11-11 Tuesday | 8:00 pm ET
+  GSW @ OKC
+  Status: 8:00 pm ET
+
+2025-11-11 Tuesday | 9:00 pm ET
+  IND @ UTA
+  Status: 9:00 pm ET
+
+2025-11-11 Tuesday | 11:00 pm ET
+  DEN @ SAC
+  Status: 11:00 pm ET
+
+2025-11-12 Wednesday | 10:30 pm ET
+  DEN @ LAC
+  Status: 10:30 pm ET
+
+2025-11-12 Wednesday | 10:00 pm ET
+  ATL @ SAC
+  Status: 10:00 pm ET
+
+2025-11-12 Wednesday | 9:30 pm ET
+  LAL @ OKC
+  Status: 9:30 pm ET
+
+2025-11-12 Wednesday | 8:30 pm ET
+  PHX @ DAL
+  Status: 8:30 pm ET
+
+2025-11-12 Wednesday | 8:00 pm ET
+  GSW @ SAS
+  Status: 8:00 pm ET
+
+2025-11-12 Wednesday | 8:00 pm ET
+  POR @ NOP
+  Status: 8:00 pm ET
+
+2025-11-12 Wednesday | 7:30 pm ET
+  CLE @ MIA
+  Status: 7:30 pm ET
+
+2025-11-12 Wednesday | 7:30 pm ET
+  MEM @ BOS
+  Status: 7:30 pm ET
+
 2025-11-12 Wednesday | 7:00 pm ET
-  MIL @ CHA
+  ORL @ NYK
   Status: 7:00 pm ET
 
 2025-11-12 Wednesday | 7:00 pm ET
@@ -133,48 +69,12 @@ Analysis Date: 2025-11-08
   Status: 7:00 pm ET
 
 2025-11-12 Wednesday | 7:00 pm ET
-  ORL @ NYK
+  MIL @ CHA
   Status: 7:00 pm ET
-
-2025-11-12 Wednesday | 7:30 pm ET
-  MEM @ BOS
-  Status: 7:30 pm ET
-
-2025-11-12 Wednesday | 7:30 pm ET
-  CLE @ MIA
-  Status: 7:30 pm ET
 
 2025-11-12 Wednesday | 8:00 pm ET
   WAS @ HOU
   Status: 8:00 pm ET
-
-2025-11-12 Wednesday | 8:00 pm ET
-  POR @ NOP
-  Status: 8:00 pm ET
-
-2025-11-12 Wednesday | 8:00 pm ET
-  GSW @ SAS
-  Status: 8:00 pm ET
-
-2025-11-12 Wednesday | 8:30 pm ET
-  PHX @ DAL
-  Status: 8:30 pm ET
-
-2025-11-12 Wednesday | 9:30 pm ET
-  LAL @ OKC
-  Status: 9:30 pm ET
-
-2025-11-12 Wednesday | 10:00 pm ET
-  ATL @ SAC
-  Status: 10:00 pm ET
-
-2025-11-12 Wednesday | 10:30 pm ET
-  DEN @ LAC
-  Status: 10:30 pm ET
-
-2025-11-13 Thursday | 9:00 pm ET
-  ATL @ UTA
-  Status: 9:00 pm ET
 
 2025-11-13 Thursday | 7:00 pm ET
   TOR @ CLE
@@ -184,44 +84,44 @@ Analysis Date: 2025-11-08
   IND @ PHX
   Status: 9:00 pm ET
 
-2025-11-14 Friday | 7:00 pm ET
-  MIA @ NYK
-  Status: 7:00 pm ET
-
-2025-11-14 Friday | 7:00 pm ET
-  BKN @ ORL
-  Status: 7:00 pm ET
-
-2025-11-14 Friday | 7:30 pm ET
-  PHI @ DET
-  Status: 7:30 pm ET
+2025-11-13 Thursday | 9:00 pm ET
+  ATL @ UTA
+  Status: 9:00 pm ET
 
 2025-11-14 Friday | 8:00 pm ET
-  POR @ HOU
+  SAC @ MIN
+  Status: 8:00 pm ET
+
+2025-11-14 Friday | 9:30 pm ET
+  GSW @ SAS
+  Status: 9:30 pm ET
+
+2025-11-14 Friday | 8:00 pm ET
+  LAL @ NOP
   Status: 8:00 pm ET
 
 2025-11-14 Friday | 8:00 pm ET
   CHA @ MIL
   Status: 8:00 pm ET
 
-2025-11-14 Friday | 8:00 pm ET
-  SAC @ MIN
-  Status: 8:00 pm ET
-
-2025-11-14 Friday | 8:00 pm ET
-  LAL @ NOP
-  Status: 8:00 pm ET
-
 2025-11-14 Friday | 8:30 pm ET
   LAC @ DAL
   Status: 8:30 pm ET
 
-2025-11-14 Friday | 9:30 pm ET
-  GSW @ SAS
-  Status: 9:30 pm ET
+2025-11-14 Friday | 7:30 pm ET
+  PHI @ DET
+  Status: 7:30 pm ET
 
-2025-11-15 Saturday | 8:00 pm ET
-  LAL @ MIL
+2025-11-14 Friday | 7:00 pm ET
+  BKN @ ORL
+  Status: 7:00 pm ET
+
+2025-11-14 Friday | 7:00 pm ET
+  MIA @ NYK
+  Status: 7:00 pm ET
+
+2025-11-14 Friday | 8:00 pm ET
+  POR @ HOU
   Status: 8:00 pm ET
 
 2025-11-15 Saturday | 5:00 pm ET
@@ -237,6 +137,98 @@ Analysis Date: 2025-11-08
   Status: 7:00 pm ET
 
 2025-11-15 Saturday | 8:00 pm ET
+  LAL @ MIL
+  Status: 8:00 pm ET
+
+2025-11-15 Saturday | 8:00 pm ET
   DEN @ MIN
   Status: 8:00 pm ET
+
+2025-11-16 Sunday | 8:00 pm ET
+  CHI @ UTA
+  Status: 8:00 pm ET
+
+2025-11-16 Sunday | 7:30 pm ET
+  POR @ DAL
+  Status: 7:30 pm ET
+
+2025-11-16 Sunday | 7:00 pm ET
+  GSW @ NOP
+  Status: 7:00 pm ET
+
+2025-11-16 Sunday | 8:00 pm ET
+  ATL @ PHX
+  Status: 8:00 pm ET
+
+2025-11-16 Sunday | 6:00 pm ET
+  BKN @ WAS
+  Status: 6:00 pm ET
+
+2025-11-16 Sunday | 4:00 pm ET
+  SAC @ SAS
+  Status: 4:00 pm ET
+
+2025-11-16 Sunday | 3:30 pm ET
+  LAC @ BOS
+  Status: 3:30 pm ET
+
+2025-11-16 Sunday | 7:00 pm ET
+  ORL @ HOU
+  Status: 7:00 pm ET
+
+2025-11-17 Monday | 9:00 pm ET
+  CHI @ DEN
+  Status: 9:00 pm ET
+
+2025-11-17 Monday | 8:00 pm ET
+  OKC @ NOP
+  Status: 8:00 pm ET
+
+2025-11-17 Monday | 8:00 pm ET
+  DAL @ MIN
+  Status: 8:00 pm ET
+
+2025-11-17 Monday | 7:30 pm ET
+  CHA @ TOR
+  Status: 7:30 pm ET
+
+2025-11-17 Monday | 7:00 pm ET
+  LAC @ PHI
+  Status: 7:00 pm ET
+
+2025-11-17 Monday | 7:00 pm ET
+  IND @ DET
+  Status: 7:00 pm ET
+
+2025-11-17 Monday | 7:00 pm ET
+  MIL @ CLE
+  Status: 7:00 pm ET
+
+2025-11-17 Monday | 7:30 pm ET
+  NYK @ MIA
+  Status: 7:30 pm ET
+
+2025-11-18 Tuesday | 10:30 pm ET
+  UTA @ LAL
+  Status: 10:30 pm ET
+
+2025-11-18 Tuesday | 7:00 pm ET
+  GSW @ ORL
+  Status: 7:00 pm ET
+
+2025-11-18 Tuesday | 7:30 pm ET
+  BOS @ BKN
+  Status: 7:30 pm ET
+
+2025-11-18 Tuesday | 8:00 pm ET
+  DET @ ATL
+  Status: 8:00 pm ET
+
+2025-11-18 Tuesday | 8:00 pm ET
+  MEM @ SAS
+  Status: 8:00 pm ET
+
+2025-11-18 Tuesday | 11:00 pm ET
+  PHX @ POR
+  Status: 11:00 pm ET
 
