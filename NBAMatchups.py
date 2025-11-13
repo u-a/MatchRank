@@ -356,39 +356,39 @@ def analyze_matchups(matchups, rankings):
     print("\n" + "=" * 60)
     print("STEP 3: Analyzing and Ranking Matchups")
     print("=" * 60)
-    
+
     if rankings.empty or matchups.empty:
         print("\nInsufficient data to analyze matchups.")
         return pd.DataFrame()
-    
+
     # Create lookup dictionaries
     rank_dict = rankings.set_index('team')['power_score'].to_dict()
     team_rank_dict = rankings.set_index('team')['rank'].to_dict()
-    
+
     matchup_analysis = []
-    
+
     for idx, game in matchups.iterrows():
         away_team = game['away_team']
         home_team = game['home_team']
-        
+
         # Get power scores
         away_score = rank_dict.get(away_team, 50)
         home_score = rank_dict.get(home_team, 50)
-        
+
         away_rank = team_rank_dict.get(away_team, 15)
         home_rank = team_rank_dict.get(home_team, 15)
-        
+
         # Ranking Score: Combined quality of teams (0-100)
         ranking_score = (away_score + home_score) / 2
-        
+
         # Similarity Score: How evenly matched (0-100)
         score_diff = abs(away_score - home_score)
         max_diff = 100
         similarity_score = (1 - (score_diff / max_diff)) * 100
-        
+
         # Matchup Score: 60% similarity (competitiveness), 40% quality
         matchup_score = (0.30 * similarity_score + 0.70 * ranking_score)
-        
+
         matchup_analysis.append({
             'game_id': game['game_id'],
             'game_date': game['game_date'],
@@ -403,29 +403,37 @@ def analyze_matchups(matchups, rankings):
             'similarity_score': similarity_score,
             'matchup_score': matchup_score
         })
-    
+
     matchup_df = pd.DataFrame(matchup_analysis)
+    total_matchups = len(matchup_df)
+
+    # Sort by overall matchup score to get the global rank
     matchup_df = matchup_df.sort_values('matchup_score', ascending=False).reset_index(drop=True)
-    
-    print(f"\nTop Matchups (by Matchup Score):")
+    matchup_df['global_rank'] = matchup_df.index + 1
+
+    # Now sort by date and then by rank for presentation
+    matchup_df_sorted_by_date = matchup_df.sort_values(['game_date', 'global_rank'], ascending=[True, True]).reset_index(drop=True)
+
+    print(f"\nTop Matchups (grouped by date, sorted by rank):")
     print("-" * 60)
-    
-    for idx, row in matchup_df.iterrows():
-        if isinstance(row['game_date'], datetime):
-            game_date = row['game_date'].strftime('%m/%d')
-        else:
-            game_date = str(row['game_date'])
-    
+
+    current_date = None
+    for idx, row in matchup_df_sorted_by_date.iterrows():
+        game_date_obj = row['game_date']
+        if current_date != game_date_obj.date():
+            current_date = game_date_obj.date()
+            print(f"\n--- {current_date.strftime('%A, %B %d, %Y')} ---")
+
         game_time = row.get('game_time', 'TBD')
-    
-        print(f"{idx + 1}. [{game_date} {game_time}] {row['away_team']} @ {row['home_team']}")
+
+        print(f"RANK {row['global_rank']}/{total_matchups}: {row['away_team']} @ {row['home_team']} ({game_time})")
         print(f"   Matchup Score: {row['matchup_score']:.1f}/100 | "
               f"Quality: {row['ranking_score']:.1f} | "
               f"Competitive: {row['similarity_score']:.1f}")
         print(f"   Team Ranks: #{row['away_rank']} vs #{row['home_rank']}")
         print()
-    
-    # Write to file
+
+    # Write to file, grouped by date
     with open('3_NBA_matchup_rankings.txt', 'w') as f:
         f.write("=" * 80 + "\n")
         f.write("NBA MATCHUP RANKINGS\n")
@@ -436,19 +444,24 @@ def analyze_matchups(matchups, rankings):
         f.write("  - Similarity Score: How evenly matched teams are (0-100)\n")
         f.write("  - Matchup Score: 60% quality + 40% similarity (0-100)\n")
         f.write("    Higher scores indicate competitive games between strong teams\n\n")
-        f.write("=" * 80 + "\n\n")
-        
-        for idx, row in matchup_df.iterrows():
-            if isinstance(row['game_date'], datetime):
-                game_date = row['game_date'].strftime('%Y-%m-%d %A')
+
+        current_date_str = ""
+        for idx, row in matchup_df_sorted_by_date.iterrows():
+            game_date_str = row['game_date'].strftime('%Y-%m-%d %A')
+
+            if game_date_str != current_date_str:
+                if current_date_str != "":
+                    f.write("=" * 80 + "\n\n")
+                current_date_str = game_date_str
+                f.write("=" * 80 + "\n")
+                f.write(f"DATE: {game_date_str}\n")
+                f.write("=" * 80 + "\n\n")
             else:
-                game_date = str(row['game_date'])
-    
+                f.write("-" * 80 + "\n\n")
+
             game_time = row.get('game_time', 'TBD')
-    
-            f.write(f"RANK {idx + 1}: MATCHUP SCORE = {row['matchup_score']:.1f}/100\n")
-            f.write("-" * 80 + "\n")
-            f.write(f"Date: {game_date}\n")
+
+            f.write(f"RANK {row['global_rank']}/{total_matchups}: MATCHUP SCORE = {row['matchup_score']:.1f}/100\n")
             f.write(f"Time: {game_time}\n")
             f.write(f"Matchup: {row['away_team']} @ {row['home_team']}\n\n")
             f.write(f"  Away Team: {row['away_team']}\n")
@@ -459,10 +472,9 @@ def analyze_matchups(matchups, rankings):
             f.write(f"    - Combined Quality Score: {row['ranking_score']:.1f}/100\n")
             f.write(f"    - Competitiveness Score: {row['similarity_score']:.1f}/100\n")
             f.write(f"    - Overall Matchup Score: {row['matchup_score']:.1f}/100\n\n")
-            f.write("=" * 80 + "\n\n")
-    
+
     print(f"✓ Matchup analysis written to: 3_NBA_matchup_rankings.txt")
-    
+
     return matchup_df
 
 def main():
