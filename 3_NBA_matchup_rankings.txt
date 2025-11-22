@@ -1,6 +1,6 @@
 ================================================================================
 NBA MATCHUP RANKINGS
-Analysis Date: 2025-11-12
+Analysis Date: 2025-11-22
 ================================================================================
 
 Scoring Methodology:
@@ -10,1052 +10,980 @@ Scoring Methodology:
     Higher scores indicate competitive games between strong teams
 
 ================================================================================
-DATE: 2025-11-12 Wednesday
+DATE: 2025-11-22 Saturday
 ================================================================================
 
-RANK 1/60: MATCHUP SCORE = 75.4/100
-Time: 9:30 pm ET
-Matchup: LAL @ OKC
-
-  Away Team: LAL
-    - Power Rank: #7 (Score: 63.16)
-
-  Home Team: OKC
-    - Power Rank: #1 (Score: 87.34)
-
-  Scores:
-    - Combined Quality Score: 75.2/100
-    - Competitiveness Score: 75.8/100
-    - Overall Matchup Score: 75.4/100
-
---------------------------------------------------------------------------------
-
-RANK 7/60: MATCHUP SCORE = 70.8/100
-Time: 7:30 pm ET
-Matchup: CLE @ MIA
-
-  Away Team: CLE
-    - Power Rank: #11 (Score: 58.11)
-
-  Home Team: MIA
-    - Power Rank: #10 (Score: 61.02)
-
-  Scores:
-    - Combined Quality Score: 59.6/100
-    - Competitiveness Score: 97.1/100
-    - Overall Matchup Score: 70.8/100
-
---------------------------------------------------------------------------------
-
-RANK 14/60: MATCHUP SCORE = 67.7/100
-Time: 7:00 pm ET
-Matchup: CHI @ DET
-
-  Away Team: CHI
-    - Power Rank: #15 (Score: 52.69)
-
-  Home Team: DET
-    - Power Rank: #4 (Score: 68.47)
-
-  Scores:
-    - Combined Quality Score: 60.6/100
-    - Competitiveness Score: 84.2/100
-    - Overall Matchup Score: 67.7/100
-
---------------------------------------------------------------------------------
-
-RANK 20/60: MATCHUP SCORE = 64.3/100
-Time: 7:00 pm ET
-Matchup: ORL @ NYK
-
-  Away Team: ORL
-    - Power Rank: #19 (Score: 47.78)
-
-  Home Team: NYK
-    - Power Rank: #6 (Score: 64.49)
-
-  Scores:
-    - Combined Quality Score: 56.1/100
-    - Competitiveness Score: 83.3/100
-    - Overall Matchup Score: 64.3/100
-
---------------------------------------------------------------------------------
-
-RANK 22/60: MATCHUP SCORE = 64.2/100
-Time: 8:00 pm ET
-Matchup: GSW @ SAS
-
-  Away Team: GSW
-    - Power Rank: #20 (Score: 47.17)
-
-  Home Team: SAS
-    - Power Rank: #3 (Score: 71.16)
-
-  Scores:
-    - Combined Quality Score: 59.2/100
-    - Competitiveness Score: 76.0/100
-    - Overall Matchup Score: 64.2/100
-
---------------------------------------------------------------------------------
-
-RANK 28/60: MATCHUP SCORE = 57.1/100
-Time: 7:00 pm ET
-Matchup: MIL @ CHA
-
-  Away Team: MIL
-    - Power Rank: #13 (Score: 54.07)
-
-  Home Team: CHA
-    - Power Rank: #21 (Score: 37.58)
-
-  Scores:
-    - Combined Quality Score: 45.8/100
-    - Competitiveness Score: 83.5/100
-    - Overall Matchup Score: 57.1/100
-
---------------------------------------------------------------------------------
-
-RANK 32/60: MATCHUP SCORE = 56.1/100
-Time: 10:30 pm ET
-Matchup: DEN @ LAC
-
-  Away Team: DEN
-    - Power Rank: #2 (Score: 80.39)
-
-  Home Team: LAC
-    - Power Rank: #23 (Score: 33.97)
-
-  Scores:
-    - Combined Quality Score: 57.2/100
-    - Competitiveness Score: 53.6/100
-    - Overall Matchup Score: 56.1/100
-
---------------------------------------------------------------------------------
-
-RANK 39/60: MATCHUP SCORE = 53.3/100
-Time: 7:30 pm ET
-Matchup: MEM @ BOS
-
-  Away Team: MEM
-    - Power Rank: #24 (Score: 32.01)
-
-  Home Team: BOS
-    - Power Rank: #18 (Score: 48.97)
-
-  Scores:
-    - Combined Quality Score: 40.5/100
-    - Competitiveness Score: 83.0/100
-    - Overall Matchup Score: 53.3/100
-
---------------------------------------------------------------------------------
-
-RANK 40/60: MATCHUP SCORE = 53.0/100
-Time: 8:30 pm ET
-Matchup: PHX @ DAL
-
-  Away Team: PHX
-    - Power Rank: #16 (Score: 51.19)
-
-  Home Team: DAL
-    - Power Rank: #25 (Score: 31.41)
-
-  Scores:
-    - Combined Quality Score: 41.3/100
-    - Competitiveness Score: 80.2/100
-    - Overall Matchup Score: 53.0/100
-
---------------------------------------------------------------------------------
-
-RANK 46/60: MATCHUP SCORE = 51.0/100
-Time: 10:00 pm ET
-Matchup: ATL @ SAC
-
-  Away Team: ATL
-    - Power Rank: #14 (Score: 52.80)
-
-  Home Team: SAC
-    - Power Rank: #26 (Score: 28.20)
-
-  Scores:
-    - Combined Quality Score: 40.5/100
-    - Competitiveness Score: 75.4/100
-    - Overall Matchup Score: 51.0/100
-
---------------------------------------------------------------------------------
-
-RANK 50/60: MATCHUP SCORE = 45.2/100
-Time: 8:00 pm ET
-Matchup: POR @ NOP
-
-  Away Team: POR
-    - Power Rank: #17 (Score: 49.10)
-
-  Home Team: NOP
-    - Power Rank: #27 (Score: 19.65)
-
-  Scores:
-    - Combined Quality Score: 34.4/100
-    - Competitiveness Score: 70.5/100
-    - Overall Matchup Score: 45.2/100
-
---------------------------------------------------------------------------------
-
-RANK 56/60: MATCHUP SCORE = 40.8/100
-Time: 8:00 pm ET
-Matchup: WAS @ HOU
-
-  Away Team: WAS
-    - Power Rank: #30 (Score: 11.38)
-
-  Home Team: HOU
-    - Power Rank: #5 (Score: 67.69)
-
-  Scores:
-    - Combined Quality Score: 39.5/100
-    - Competitiveness Score: 43.7/100
-    - Overall Matchup Score: 40.8/100
-
-================================================================================
-
-================================================================================
-DATE: 2025-11-13 Thursday
-================================================================================
-
-RANK 9/60: MATCHUP SCORE = 69.1/100
-Time: 7:00 pm ET
-Matchup: TOR @ CLE
-
-  Away Team: TOR
-    - Power Rank: #12 (Score: 55.63)
-
-  Home Team: CLE
-    - Power Rank: #11 (Score: 58.11)
-
-  Scores:
-    - Combined Quality Score: 56.9/100
-    - Competitiveness Score: 97.5/100
-    - Overall Matchup Score: 69.1/100
-
---------------------------------------------------------------------------------
-
-RANK 30/60: MATCHUP SCORE = 57.0/100
-Time: 9:00 pm ET
-Matchup: ATL @ UTA
-
-  Away Team: ATL
-    - Power Rank: #14 (Score: 52.80)
-
-  Home Team: UTA
-    - Power Rank: #22 (Score: 37.45)
-
-  Scores:
-    - Combined Quality Score: 45.1/100
-    - Competitiveness Score: 84.6/100
-    - Overall Matchup Score: 57.0/100
-
---------------------------------------------------------------------------------
-
-RANK 54/60: MATCHUP SCORE = 42.7/100
-Time: 9:00 pm ET
-Matchup: IND @ PHX
-
-  Away Team: IND
-    - Power Rank: #28 (Score: 15.61)
-
-  Home Team: PHX
-    - Power Rank: #16 (Score: 51.19)
-
-  Scores:
-    - Combined Quality Score: 33.4/100
-    - Competitiveness Score: 64.4/100
-    - Overall Matchup Score: 42.7/100
-
-================================================================================
-
-================================================================================
-DATE: 2025-11-14 Friday
-================================================================================
-
-RANK 3/60: MATCHUP SCORE = 73.1/100
-Time: 7:30 pm ET
-Matchup: PHI @ DET
-
-  Away Team: PHI
-    - Power Rank: #9 (Score: 61.09)
-
-  Home Team: DET
-    - Power Rank: #4 (Score: 68.47)
-
-  Scores:
-    - Combined Quality Score: 64.8/100
-    - Competitiveness Score: 92.6/100
-    - Overall Matchup Score: 73.1/100
-
---------------------------------------------------------------------------------
-
-RANK 4/60: MATCHUP SCORE = 72.9/100
-Time: 7:00 pm ET
-Matchup: MIA @ NYK
-
-  Away Team: MIA
-    - Power Rank: #10 (Score: 61.02)
-
-  Home Team: NYK
-    - Power Rank: #6 (Score: 64.49)
-
-  Scores:
-    - Combined Quality Score: 62.8/100
-    - Competitiveness Score: 96.5/100
-    - Overall Matchup Score: 72.9/100
-
---------------------------------------------------------------------------------
-
-RANK 16/60: MATCHUP SCORE = 65.3/100
-Time: 8:00 pm ET
-Matchup: POR @ HOU
-
-  Away Team: POR
-    - Power Rank: #17 (Score: 49.10)
-
-  Home Team: HOU
-    - Power Rank: #5 (Score: 67.69)
-
-  Scores:
-    - Combined Quality Score: 58.4/100
-    - Competitiveness Score: 81.4/100
-    - Overall Matchup Score: 65.3/100
-
---------------------------------------------------------------------------------
-
-RANK 21/60: MATCHUP SCORE = 64.2/100
-Time: 9:30 pm ET
-Matchup: GSW @ SAS
-
-  Away Team: GSW
-    - Power Rank: #20 (Score: 47.17)
-
-  Home Team: SAS
-    - Power Rank: #3 (Score: 71.16)
-
-  Scores:
-    - Combined Quality Score: 59.2/100
-    - Competitiveness Score: 76.0/100
-    - Overall Matchup Score: 64.2/100
-
---------------------------------------------------------------------------------
-
-RANK 29/60: MATCHUP SCORE = 57.1/100
-Time: 8:00 pm ET
-Matchup: CHA @ MIL
-
-  Away Team: CHA
-    - Power Rank: #21 (Score: 37.58)
-
-  Home Team: MIL
-    - Power Rank: #13 (Score: 54.07)
-
-  Scores:
-    - Combined Quality Score: 45.8/100
-    - Competitiveness Score: 83.5/100
-    - Overall Matchup Score: 57.1/100
-
---------------------------------------------------------------------------------
-
-RANK 43/60: MATCHUP SCORE = 52.1/100
-Time: 8:30 pm ET
-Matchup: LAC @ DAL
-
-  Away Team: LAC
-    - Power Rank: #23 (Score: 33.97)
-
-  Home Team: DAL
-    - Power Rank: #25 (Score: 31.41)
-
-  Scores:
-    - Combined Quality Score: 32.7/100
-    - Competitiveness Score: 97.4/100
-    - Overall Matchup Score: 52.1/100
-
---------------------------------------------------------------------------------
-
-RANK 45/60: MATCHUP SCORE = 51.5/100
-Time: 8:00 pm ET
-Matchup: SAC @ MIN
-
-  Away Team: SAC
-    - Power Rank: #26 (Score: 28.20)
-
-  Home Team: MIN
-    - Power Rank: #8 (Score: 63.13)
-
-  Scores:
-    - Combined Quality Score: 45.7/100
-    - Competitiveness Score: 65.1/100
-    - Overall Matchup Score: 51.5/100
-
---------------------------------------------------------------------------------
-
-RANK 49/60: MATCHUP SCORE = 45.9/100
-Time: 8:00 pm ET
-Matchup: LAL @ NOP
-
-  Away Team: LAL
-    - Power Rank: #7 (Score: 63.16)
-
-  Home Team: NOP
-    - Power Rank: #27 (Score: 19.65)
-
-  Scores:
-    - Combined Quality Score: 41.4/100
-    - Competitiveness Score: 56.5/100
-    - Overall Matchup Score: 45.9/100
-
---------------------------------------------------------------------------------
-
-RANK 59/60: MATCHUP SCORE = 40.3/100
-Time: 7:00 pm ET
-Matchup: BKN @ ORL
-
-  Away Team: BKN
-    - Power Rank: #29 (Score: 12.14)
-
-  Home Team: ORL
-    - Power Rank: #19 (Score: 47.78)
-
-  Scores:
-    - Combined Quality Score: 30.0/100
-    - Competitiveness Score: 64.4/100
-    - Overall Matchup Score: 40.3/100
-
-================================================================================
-
-================================================================================
-DATE: 2025-11-15 Saturday
-================================================================================
-
-RANK 2/60: MATCHUP SCORE = 75.1/100
-Time: 8:00 pm ET
-Matchup: DEN @ MIN
-
-  Away Team: DEN
-    - Power Rank: #2 (Score: 80.39)
-
-  Home Team: MIN
-    - Power Rank: #8 (Score: 63.13)
-
-  Scores:
-    - Combined Quality Score: 71.8/100
-    - Competitiveness Score: 82.7/100
-    - Overall Matchup Score: 75.1/100
-
---------------------------------------------------------------------------------
-
-RANK 10/60: MATCHUP SCORE = 68.3/100
-Time: 8:00 pm ET
-Matchup: LAL @ MIL
-
-  Away Team: LAL
-    - Power Rank: #7 (Score: 63.16)
-
-  Home Team: MIL
-    - Power Rank: #13 (Score: 54.07)
-
-  Scores:
-    - Combined Quality Score: 58.6/100
-    - Competitiveness Score: 90.9/100
-    - Overall Matchup Score: 68.3/100
-
---------------------------------------------------------------------------------
-
-RANK 25/60: MATCHUP SCORE = 58.8/100
-Time: 7:00 pm ET
-Matchup: OKC @ CHA
-
-  Away Team: OKC
-    - Power Rank: #1 (Score: 87.34)
-
-  Home Team: CHA
-    - Power Rank: #21 (Score: 37.58)
-
-  Scores:
-    - Combined Quality Score: 62.5/100
-    - Competitiveness Score: 50.2/100
-    - Overall Matchup Score: 58.8/100
-
---------------------------------------------------------------------------------
-
-RANK 36/60: MATCHUP SCORE = 53.7/100
+RANK 13/56: MATCHUP SCORE = 69.2/100
 Time: 5:00 pm ET
-Matchup: MEM @ CLE
-
-  Away Team: MEM
-    - Power Rank: #24 (Score: 32.01)
-
-  Home Team: CLE
-    - Power Rank: #11 (Score: 58.11)
-
-  Scores:
-    - Combined Quality Score: 45.1/100
-    - Competitiveness Score: 73.9/100
-    - Overall Matchup Score: 53.7/100
-
---------------------------------------------------------------------------------
-
-RANK 53/60: MATCHUP SCORE = 42.9/100
-Time: 7:00 pm ET
-Matchup: TOR @ IND
-
-  Away Team: TOR
-    - Power Rank: #12 (Score: 55.63)
-
-  Home Team: IND
-    - Power Rank: #28 (Score: 15.61)
-
-  Scores:
-    - Combined Quality Score: 35.6/100
-    - Competitiveness Score: 60.0/100
-    - Overall Matchup Score: 42.9/100
-
-================================================================================
-
-================================================================================
-DATE: 2025-11-16 Sunday
-================================================================================
-
-RANK 15/60: MATCHUP SCORE = 65.9/100
-Time: 8:00 pm ET
-Matchup: ATL @ PHX
-
-  Away Team: ATL
-    - Power Rank: #14 (Score: 52.80)
-
-  Home Team: PHX
-    - Power Rank: #16 (Score: 51.19)
-
-  Scores:
-    - Combined Quality Score: 52.0/100
-    - Competitiveness Score: 98.4/100
-    - Overall Matchup Score: 65.9/100
-
---------------------------------------------------------------------------------
-
-RANK 19/60: MATCHUP SCORE = 64.4/100
-Time: 7:00 pm ET
-Matchup: ORL @ HOU
-
-  Away Team: ORL
-    - Power Rank: #19 (Score: 47.78)
-
-  Home Team: HOU
-    - Power Rank: #5 (Score: 67.69)
-
-  Scores:
-    - Combined Quality Score: 57.7/100
-    - Competitiveness Score: 80.1/100
-    - Overall Matchup Score: 64.4/100
-
---------------------------------------------------------------------------------
-
-RANK 31/60: MATCHUP SCORE = 57.0/100
-Time: 8:00 pm ET
-Matchup: CHI @ UTA
-
-  Away Team: CHI
-    - Power Rank: #15 (Score: 52.69)
-
-  Home Team: UTA
-    - Power Rank: #22 (Score: 37.45)
-
-  Scores:
-    - Combined Quality Score: 45.1/100
-    - Competitiveness Score: 84.8/100
-    - Overall Matchup Score: 57.0/100
-
---------------------------------------------------------------------------------
-
-RANK 34/60: MATCHUP SCORE = 54.5/100
-Time: 3:30 pm ET
-Matchup: LAC @ BOS
-
-  Away Team: LAC
-    - Power Rank: #23 (Score: 33.97)
-
-  Home Team: BOS
-    - Power Rank: #18 (Score: 48.97)
-
-  Scores:
-    - Combined Quality Score: 41.5/100
-    - Competitiveness Score: 85.0/100
-    - Overall Matchup Score: 54.5/100
-
---------------------------------------------------------------------------------
-
-RANK 41/60: MATCHUP SCORE = 52.9/100
-Time: 7:30 pm ET
-Matchup: POR @ DAL
-
-  Away Team: POR
-    - Power Rank: #17 (Score: 49.10)
-
-  Home Team: DAL
-    - Power Rank: #25 (Score: 31.41)
-
-  Scores:
-    - Combined Quality Score: 40.3/100
-    - Competitiveness Score: 82.3/100
-    - Overall Matchup Score: 52.9/100
-
---------------------------------------------------------------------------------
-
-RANK 44/60: MATCHUP SCORE = 51.9/100
-Time: 4:00 pm ET
-Matchup: SAC @ SAS
-
-  Away Team: SAC
-    - Power Rank: #26 (Score: 28.20)
-
-  Home Team: SAS
-    - Power Rank: #3 (Score: 71.16)
-
-  Scores:
-    - Combined Quality Score: 49.7/100
-    - Competitiveness Score: 57.0/100
-    - Overall Matchup Score: 51.9/100
-
---------------------------------------------------------------------------------
-
-RANK 51/60: MATCHUP SCORE = 45.1/100
-Time: 7:00 pm ET
-Matchup: GSW @ NOP
-
-  Away Team: GSW
-    - Power Rank: #20 (Score: 47.17)
-
-  Home Team: NOP
-    - Power Rank: #27 (Score: 19.65)
-
-  Scores:
-    - Combined Quality Score: 33.4/100
-    - Competitiveness Score: 72.5/100
-    - Overall Matchup Score: 45.1/100
-
---------------------------------------------------------------------------------
-
-RANK 60/60: MATCHUP SCORE = 38.0/100
-Time: 6:00 pm ET
-Matchup: BKN @ WAS
-
-  Away Team: BKN
-    - Power Rank: #29 (Score: 12.14)
-
-  Home Team: WAS
-    - Power Rank: #30 (Score: 11.38)
-
-  Scores:
-    - Combined Quality Score: 11.8/100
-    - Competitiveness Score: 99.2/100
-    - Overall Matchup Score: 38.0/100
-
-================================================================================
-
-================================================================================
-DATE: 2025-11-17 Monday
-================================================================================
-
-RANK 5/60: MATCHUP SCORE = 72.9/100
-Time: 7:30 pm ET
-Matchup: NYK @ MIA
+Matchup: NYK @ ORL
 
   Away Team: NYK
-    - Power Rank: #6 (Score: 64.49)
-
-  Home Team: MIA
-    - Power Rank: #10 (Score: 61.02)
-
-  Scores:
-    - Combined Quality Score: 62.8/100
-    - Competitiveness Score: 96.5/100
-    - Overall Matchup Score: 72.9/100
-
---------------------------------------------------------------------------------
-
-RANK 11/60: MATCHUP SCORE = 68.3/100
-Time: 9:00 pm ET
-Matchup: CHI @ DEN
-
-  Away Team: CHI
-    - Power Rank: #15 (Score: 52.69)
-
-  Home Team: DEN
-    - Power Rank: #2 (Score: 80.39)
-
-  Scores:
-    - Combined Quality Score: 66.5/100
-    - Competitiveness Score: 72.3/100
-    - Overall Matchup Score: 68.3/100
-
---------------------------------------------------------------------------------
-
-RANK 12/60: MATCHUP SCORE = 68.1/100
-Time: 7:00 pm ET
-Matchup: MIL @ CLE
-
-  Away Team: MIL
-    - Power Rank: #13 (Score: 54.07)
-
-  Home Team: CLE
-    - Power Rank: #11 (Score: 58.11)
-
-  Scores:
-    - Combined Quality Score: 56.1/100
-    - Competitiveness Score: 96.0/100
-    - Overall Matchup Score: 68.1/100
-
---------------------------------------------------------------------------------
-
-RANK 27/60: MATCHUP SCORE = 57.2/100
-Time: 7:30 pm ET
-Matchup: CHA @ TOR
-
-  Away Team: CHA
-    - Power Rank: #21 (Score: 37.58)
-
-  Home Team: TOR
-    - Power Rank: #12 (Score: 55.63)
-
-  Scores:
-    - Combined Quality Score: 46.6/100
-    - Competitiveness Score: 82.0/100
-    - Overall Matchup Score: 57.2/100
-
---------------------------------------------------------------------------------
-
-RANK 33/60: MATCHUP SCORE = 55.1/100
-Time: 7:00 pm ET
-Matchup: LAC @ PHI
-
-  Away Team: LAC
-    - Power Rank: #23 (Score: 33.97)
-
-  Home Team: PHI
-    - Power Rank: #9 (Score: 61.09)
-
-  Scores:
-    - Combined Quality Score: 47.5/100
-    - Competitiveness Score: 72.9/100
-    - Overall Matchup Score: 55.1/100
-
---------------------------------------------------------------------------------
-
-RANK 38/60: MATCHUP SCORE = 53.6/100
-Time: 8:00 pm ET
-Matchup: DAL @ MIN
-
-  Away Team: DAL
-    - Power Rank: #25 (Score: 31.41)
-
-  Home Team: MIN
-    - Power Rank: #8 (Score: 63.13)
-
-  Scores:
-    - Combined Quality Score: 47.3/100
-    - Competitiveness Score: 68.3/100
-    - Overall Matchup Score: 53.6/100
-
---------------------------------------------------------------------------------
-
-RANK 47/60: MATCHUP SCORE = 47.1/100
-Time: 8:00 pm ET
-Matchup: OKC @ NOP
-
-  Away Team: OKC
-    - Power Rank: #1 (Score: 87.34)
-
-  Home Team: NOP
-    - Power Rank: #27 (Score: 19.65)
-
-  Scores:
-    - Combined Quality Score: 53.5/100
-    - Competitiveness Score: 32.3/100
-    - Overall Matchup Score: 47.1/100
-
---------------------------------------------------------------------------------
-
-RANK 52/60: MATCHUP SCORE = 43.6/100
-Time: 7:00 pm ET
-Matchup: IND @ DET
-
-  Away Team: IND
-    - Power Rank: #28 (Score: 15.61)
-
-  Home Team: DET
-    - Power Rank: #4 (Score: 68.47)
-
-  Scores:
-    - Combined Quality Score: 42.0/100
-    - Competitiveness Score: 47.1/100
-    - Overall Matchup Score: 43.6/100
-
-================================================================================
-
-================================================================================
-DATE: 2025-11-18 Tuesday
-================================================================================
-
-RANK 13/60: MATCHUP SCORE = 67.7/100
-Time: 8:00 pm ET
-Matchup: DET @ ATL
-
-  Away Team: DET
-    - Power Rank: #4 (Score: 68.47)
-
-  Home Team: ATL
-    - Power Rank: #14 (Score: 52.80)
-
-  Scores:
-    - Combined Quality Score: 60.6/100
-    - Competitiveness Score: 84.3/100
-    - Overall Matchup Score: 67.7/100
-
---------------------------------------------------------------------------------
-
-RANK 18/60: MATCHUP SCORE = 64.5/100
-Time: 11:00 pm ET
-Matchup: PHX @ POR
-
-  Away Team: PHX
-    - Power Rank: #16 (Score: 51.19)
-
-  Home Team: POR
-    - Power Rank: #17 (Score: 49.10)
-
-  Scores:
-    - Combined Quality Score: 50.1/100
-    - Competitiveness Score: 97.9/100
-    - Overall Matchup Score: 64.5/100
-
---------------------------------------------------------------------------------
-
-RANK 24/60: MATCHUP SCORE = 63.1/100
-Time: 7:00 pm ET
-Matchup: GSW @ ORL
-
-  Away Team: GSW
-    - Power Rank: #20 (Score: 47.17)
+    - Power Rank: #12 (Score: 61.31)
 
   Home Team: ORL
-    - Power Rank: #19 (Score: 47.78)
-
-  Scores:
-    - Combined Quality Score: 47.5/100
-    - Competitiveness Score: 99.4/100
-    - Overall Matchup Score: 63.1/100
-
---------------------------------------------------------------------------------
-
-RANK 26/60: MATCHUP SCORE = 57.5/100
-Time: 10:30 pm ET
-Matchup: UTA @ LAL
-
-  Away Team: UTA
-    - Power Rank: #22 (Score: 37.45)
-
-  Home Team: LAL
-    - Power Rank: #7 (Score: 63.16)
-
-  Scores:
-    - Combined Quality Score: 50.3/100
-    - Competitiveness Score: 74.3/100
-    - Overall Matchup Score: 57.5/100
-
---------------------------------------------------------------------------------
-
-RANK 35/60: MATCHUP SCORE = 54.4/100
-Time: 8:00 pm ET
-Matchup: MEM @ SAS
-
-  Away Team: MEM
-    - Power Rank: #24 (Score: 32.01)
-
-  Home Team: SAS
-    - Power Rank: #3 (Score: 71.16)
-
-  Scores:
-    - Combined Quality Score: 51.6/100
-    - Competitiveness Score: 60.8/100
-    - Overall Matchup Score: 54.4/100
-
---------------------------------------------------------------------------------
-
-RANK 58/60: MATCHUP SCORE = 40.3/100
-Time: 7:30 pm ET
-Matchup: BOS @ BKN
-
-  Away Team: BOS
-    - Power Rank: #18 (Score: 48.97)
-
-  Home Team: BKN
-    - Power Rank: #29 (Score: 12.14)
-
-  Scores:
-    - Combined Quality Score: 30.6/100
-    - Competitiveness Score: 63.2/100
-    - Overall Matchup Score: 40.3/100
-
-================================================================================
-
-================================================================================
-DATE: 2025-11-19 Wednesday
-================================================================================
-
-RANK 6/60: MATCHUP SCORE = 71.2/100
-Time: 7:00 pm ET
-Matchup: HOU @ CLE
-
-  Away Team: HOU
-    - Power Rank: #5 (Score: 67.69)
-
-  Home Team: CLE
-    - Power Rank: #11 (Score: 58.11)
-
-  Scores:
-    - Combined Quality Score: 62.9/100
-    - Competitiveness Score: 90.4/100
-    - Overall Matchup Score: 71.2/100
-
---------------------------------------------------------------------------------
-
-RANK 8/60: MATCHUP SCORE = 69.2/100
-Time: 7:00 pm ET
-Matchup: TOR @ PHI
-
-  Away Team: TOR
-    - Power Rank: #12 (Score: 55.63)
-
-  Home Team: PHI
-    - Power Rank: #9 (Score: 61.09)
+    - Power Rank: #14 (Score: 55.56)
 
   Scores:
     - Combined Quality Score: 58.4/100
-    - Competitiveness Score: 94.5/100
+    - Competitiveness Score: 94.3/100
     - Overall Matchup Score: 69.2/100
 
 --------------------------------------------------------------------------------
 
-RANK 17/60: MATCHUP SCORE = 64.6/100
-Time: 10:00 pm ET
-Matchup: CHI @ POR
+RANK 18/56: MATCHUP SCORE = 65.1/100
+Time: 8:00 pm ET
+Matchup: DET @ MIL
 
-  Away Team: CHI
-    - Power Rank: #15 (Score: 52.69)
+  Away Team: DET
+    - Power Rank: #3 (Score: 76.08)
 
-  Home Team: POR
-    - Power Rank: #17 (Score: 49.10)
+  Home Team: MIL
+    - Power Rank: #19 (Score: 48.13)
 
   Scores:
-    - Combined Quality Score: 50.9/100
-    - Competitiveness Score: 96.4/100
-    - Overall Matchup Score: 64.6/100
+    - Combined Quality Score: 62.1/100
+    - Competitiveness Score: 72.0/100
+    - Overall Matchup Score: 65.1/100
 
 --------------------------------------------------------------------------------
 
-RANK 23/60: MATCHUP SCORE = 63.7/100
-Time: 7:00 pm ET
-Matchup: GSW @ MIA
+RANK 37/56: MATCHUP SCORE = 53.1/100
+Time: 8:30 pm ET
+Matchup: MEM @ DAL
 
-  Away Team: GSW
-    - Power Rank: #20 (Score: 47.17)
-
-  Home Team: MIA
-    - Power Rank: #10 (Score: 61.02)
-
-  Scores:
-    - Combined Quality Score: 54.1/100
-    - Competitiveness Score: 86.1/100
-    - Overall Matchup Score: 63.7/100
-
---------------------------------------------------------------------------------
-
-RANK 37/60: MATCHUP SCORE = 53.6/100
-Time: 9:30 pm ET
-Matchup: NYK @ DAL
-
-  Away Team: NYK
-    - Power Rank: #6 (Score: 64.49)
+  Away Team: MEM
+    - Power Rank: #22 (Score: 34.91)
 
   Home Team: DAL
-    - Power Rank: #25 (Score: 31.41)
+    - Power Rank: #24 (Score: 32.82)
 
   Scores:
-    - Combined Quality Score: 47.9/100
-    - Competitiveness Score: 66.9/100
+    - Combined Quality Score: 33.9/100
+    - Competitiveness Score: 97.9/100
+    - Overall Matchup Score: 53.1/100
+
+--------------------------------------------------------------------------------
+
+RANK 38/56: MATCHUP SCORE = 52.9/100
+Time: 1:00 pm ET
+Matchup: LAC @ CHA
+
+  Away Team: LAC
+    - Power Rank: #21 (Score: 35.00)
+
+  Home Team: CHA
+    - Power Rank: #25 (Score: 32.53)
+
+  Scores:
+    - Combined Quality Score: 33.8/100
+    - Competitiveness Score: 97.5/100
+    - Overall Matchup Score: 52.9/100
+
+--------------------------------------------------------------------------------
+
+RANK 43/56: MATCHUP SCORE = 46.2/100
+Time: 10:00 pm ET
+Matchup: SAC @ DEN
+
+  Away Team: SAC
+    - Power Rank: #27 (Score: 18.95)
+
+  Home Team: DEN
+    - Power Rank: #2 (Score: 77.76)
+
+  Scores:
+    - Combined Quality Score: 48.4/100
+    - Competitiveness Score: 41.2/100
+    - Overall Matchup Score: 46.2/100
+
+--------------------------------------------------------------------------------
+
+RANK 49/56: MATCHUP SCORE = 43.7/100
+Time: 7:00 pm ET
+Matchup: ATL @ NOP
+
+  Away Team: ATL
+    - Power Rank: #15 (Score: 55.50)
+
+  Home Team: NOP
+    - Power Rank: #28 (Score: 16.74)
+
+  Scores:
+    - Combined Quality Score: 36.1/100
+    - Competitiveness Score: 61.2/100
+    - Overall Matchup Score: 43.7/100
+
+--------------------------------------------------------------------------------
+
+RANK 55/56: MATCHUP SCORE = 39.1/100
+Time: 8:00 pm ET
+Matchup: WAS @ CHI
+
+  Away Team: WAS
+    - Power Rank: #30 (Score: 10.21)
+
+  Home Team: CHI
+    - Power Rank: #18 (Score: 48.79)
+
+  Scores:
+    - Combined Quality Score: 29.5/100
+    - Competitiveness Score: 61.4/100
+    - Overall Matchup Score: 39.1/100
+
+================================================================================
+
+================================================================================
+DATE: 2025-11-23 Sunday
+================================================================================
+
+RANK 7/56: MATCHUP SCORE = 73.8/100
+Time: 8:00 pm ET
+Matchup: SAS @ PHX
+
+  Away Team: SAS
+    - Power Rank: #5 (Score: 69.85)
+
+  Home Team: PHX
+    - Power Rank: #11 (Score: 62.02)
+
+  Scores:
+    - Combined Quality Score: 65.9/100
+    - Competitiveness Score: 92.2/100
+    - Overall Matchup Score: 73.8/100
+
+--------------------------------------------------------------------------------
+
+RANK 9/56: MATCHUP SCORE = 70.6/100
+Time: 1:00 pm ET
+Matchup: MIA @ PHI
+
+  Away Team: MIA
+    - Power Rank: #9 (Score: 62.79)
+
+  Home Team: PHI
+    - Power Rank: #13 (Score: 57.61)
+
+  Scores:
+    - Combined Quality Score: 60.2/100
+    - Competitiveness Score: 94.8/100
+    - Overall Matchup Score: 70.6/100
+
+--------------------------------------------------------------------------------
+
+RANK 16/56: MATCHUP SCORE = 68.6/100
+Time: 6:00 pm ET
+Matchup: ORL @ BOS
+
+  Away Team: ORL
+    - Power Rank: #14 (Score: 55.56)
+
+  Home Team: BOS
+    - Power Rank: #16 (Score: 55.14)
+
+  Scores:
+    - Combined Quality Score: 55.4/100
+    - Competitiveness Score: 99.6/100
+    - Overall Matchup Score: 68.6/100
+
+--------------------------------------------------------------------------------
+
+RANK 21/56: MATCHUP SCORE = 64.0/100
+Time: 7:00 pm ET
+Matchup: POR @ OKC
+
+  Away Team: POR
+    - Power Rank: #20 (Score: 45.31)
+
+  Home Team: OKC
+    - Power Rank: #1 (Score: 89.94)
+
+  Scores:
+    - Combined Quality Score: 67.6/100
+    - Competitiveness Score: 55.4/100
+    - Overall Matchup Score: 64.0/100
+
+--------------------------------------------------------------------------------
+
+RANK 26/56: MATCHUP SCORE = 55.9/100
+Time: 6:00 pm ET
+Matchup: LAC @ CLE
+
+  Away Team: LAC
+    - Power Rank: #21 (Score: 35.00)
+
+  Home Team: CLE
+    - Power Rank: #10 (Score: 62.20)
+
+  Scores:
+    - Combined Quality Score: 48.6/100
+    - Competitiveness Score: 72.8/100
+    - Overall Matchup Score: 55.9/100
+
+--------------------------------------------------------------------------------
+
+RANK 27/56: MATCHUP SCORE = 55.0/100
+Time: 8:00 pm ET
+Matchup: LAL @ UTA
+
+  Away Team: LAL
+    - Power Rank: #7 (Score: 64.76)
+
+  Home Team: UTA
+    - Power Rank: #23 (Score: 33.48)
+
+  Scores:
+    - Combined Quality Score: 49.1/100
+    - Competitiveness Score: 68.7/100
+    - Overall Matchup Score: 55.0/100
+
+--------------------------------------------------------------------------------
+
+RANK 34/56: MATCHUP SCORE = 53.9/100
+Time: 6:00 pm ET
+Matchup: CHA @ ATL
+
+  Away Team: CHA
+    - Power Rank: #25 (Score: 32.53)
+
+  Home Team: ATL
+    - Power Rank: #15 (Score: 55.50)
+
+  Scores:
+    - Combined Quality Score: 44.0/100
+    - Competitiveness Score: 77.0/100
+    - Overall Matchup Score: 53.9/100
+
+--------------------------------------------------------------------------------
+
+RANK 39/56: MATCHUP SCORE = 48.3/100
+Time: 6:00 pm ET
+Matchup: BKN @ TOR
+
+  Away Team: BKN
+    - Power Rank: #26 (Score: 22.95)
+
+  Home Team: TOR
+    - Power Rank: #6 (Score: 66.87)
+
+  Scores:
+    - Combined Quality Score: 44.9/100
+    - Competitiveness Score: 56.1/100
+    - Overall Matchup Score: 48.3/100
+
+================================================================================
+
+================================================================================
+DATE: 2025-11-24 Monday
+================================================================================
+
+RANK 6/56: MATCHUP SCORE = 73.9/100
+Time: 9:30 pm ET
+Matchup: HOU @ PHX
+
+  Away Team: HOU
+    - Power Rank: #4 (Score: 72.72)
+
+  Home Team: PHX
+    - Power Rank: #11 (Score: 62.02)
+
+  Scores:
+    - Combined Quality Score: 67.4/100
+    - Competitiveness Score: 89.3/100
+    - Overall Matchup Score: 73.9/100
+
+--------------------------------------------------------------------------------
+
+RANK 8/56: MATCHUP SCORE = 73.8/100
+Time: 7:00 pm ET
+Matchup: CLE @ TOR
+
+  Away Team: CLE
+    - Power Rank: #10 (Score: 62.20)
+
+  Home Team: TOR
+    - Power Rank: #6 (Score: 66.87)
+
+  Scores:
+    - Combined Quality Score: 64.5/100
+    - Competitiveness Score: 95.3/100
+    - Overall Matchup Score: 73.8/100
+
+--------------------------------------------------------------------------------
+
+RANK 23/56: MATCHUP SCORE = 61.9/100
+Time: 8:00 pm ET
+Matchup: POR @ MIL
+
+  Away Team: POR
+    - Power Rank: #20 (Score: 45.31)
+
+  Home Team: MIL
+    - Power Rank: #19 (Score: 48.13)
+
+  Scores:
+    - Combined Quality Score: 46.7/100
+    - Competitiveness Score: 97.2/100
+    - Overall Matchup Score: 61.9/100
+
+--------------------------------------------------------------------------------
+
+RANK 24/56: MATCHUP SCORE = 56.6/100
+Time: 8:00 pm ET
+Matchup: DEN @ MEM
+
+  Away Team: DEN
+    - Power Rank: #2 (Score: 77.76)
+
+  Home Team: MEM
+    - Power Rank: #22 (Score: 34.91)
+
+  Scores:
+    - Combined Quality Score: 56.3/100
+    - Competitiveness Score: 57.1/100
+    - Overall Matchup Score: 56.6/100
+
+--------------------------------------------------------------------------------
+
+RANK 30/56: MATCHUP SCORE = 54.5/100
+Time: 7:30 pm ET
+Matchup: DAL @ MIA
+
+  Away Team: DAL
+    - Power Rank: #24 (Score: 32.82)
+
+  Home Team: MIA
+    - Power Rank: #9 (Score: 62.79)
+
+  Scores:
+    - Combined Quality Score: 47.8/100
+    - Competitiveness Score: 70.0/100
+    - Overall Matchup Score: 54.5/100
+
+--------------------------------------------------------------------------------
+
+RANK 32/56: MATCHUP SCORE = 54.3/100
+Time: 10:00 pm ET
+Matchup: UTA @ GSW
+
+  Away Team: UTA
+    - Power Rank: #23 (Score: 33.48)
+
+  Home Team: GSW
+    - Power Rank: #17 (Score: 49.94)
+
+  Scores:
+    - Combined Quality Score: 41.7/100
+    - Competitiveness Score: 83.5/100
+    - Overall Matchup Score: 54.3/100
+
+--------------------------------------------------------------------------------
+
+RANK 40/56: MATCHUP SCORE = 48.0/100
+Time: 7:30 pm ET
+Matchup: NYK @ BKN
+
+  Away Team: NYK
+    - Power Rank: #12 (Score: 61.31)
+
+  Home Team: BKN
+    - Power Rank: #26 (Score: 22.95)
+
+  Scores:
+    - Combined Quality Score: 42.1/100
+    - Competitiveness Score: 61.6/100
+    - Overall Matchup Score: 48.0/100
+
+--------------------------------------------------------------------------------
+
+RANK 44/56: MATCHUP SCORE = 45.5/100
+Time: 10:00 pm ET
+Matchup: MIN @ SAC
+
+  Away Team: MIN
+    - Power Rank: #8 (Score: 63.24)
+
+  Home Team: SAC
+    - Power Rank: #27 (Score: 18.95)
+
+  Scores:
+    - Combined Quality Score: 41.1/100
+    - Competitiveness Score: 55.7/100
+    - Overall Matchup Score: 45.5/100
+
+--------------------------------------------------------------------------------
+
+RANK 46/56: MATCHUP SCORE = 44.6/100
+Time: 7:00 pm ET
+Matchup: DET @ IND
+
+  Away Team: DET
+    - Power Rank: #3 (Score: 76.08)
+
+  Home Team: IND
+    - Power Rank: #29 (Score: 16.62)
+
+  Scores:
+    - Combined Quality Score: 46.4/100
+    - Competitiveness Score: 40.5/100
+    - Overall Matchup Score: 44.6/100
+
+--------------------------------------------------------------------------------
+
+RANK 51/56: MATCHUP SCORE = 43.3/100
+Time: 8:00 pm ET
+Matchup: CHI @ NOP
+
+  Away Team: CHI
+    - Power Rank: #18 (Score: 48.79)
+
+  Home Team: NOP
+    - Power Rank: #28 (Score: 16.74)
+
+  Scores:
+    - Combined Quality Score: 32.8/100
+    - Competitiveness Score: 68.0/100
+    - Overall Matchup Score: 43.3/100
+
+================================================================================
+
+================================================================================
+DATE: 2025-11-25 Tuesday
+================================================================================
+
+RANK 15/56: MATCHUP SCORE = 69.0/100
+Time: 8:00 pm ET
+Matchup: ORL @ PHI
+
+  Away Team: ORL
+    - Power Rank: #14 (Score: 55.56)
+
+  Home Team: PHI
+    - Power Rank: #13 (Score: 57.61)
+
+  Scores:
+    - Combined Quality Score: 56.6/100
+    - Competitiveness Score: 98.0/100
+    - Overall Matchup Score: 69.0/100
+
+--------------------------------------------------------------------------------
+
+RANK 25/56: MATCHUP SCORE = 56.0/100
+Time: 11:00 pm ET
+Matchup: LAC @ LAL
+
+  Away Team: LAC
+    - Power Rank: #21 (Score: 35.00)
+
+  Home Team: LAL
+    - Power Rank: #7 (Score: 64.76)
+
+  Scores:
+    - Combined Quality Score: 49.9/100
+    - Competitiveness Score: 70.2/100
+    - Overall Matchup Score: 56.0/100
+
+--------------------------------------------------------------------------------
+
+RANK 54/56: MATCHUP SCORE = 39.4/100
+Time: 7:00 pm ET
+Matchup: ATL @ WAS
+
+  Away Team: ATL
+    - Power Rank: #15 (Score: 55.50)
+
+  Home Team: WAS
+    - Power Rank: #30 (Score: 10.21)
+
+  Scores:
+    - Combined Quality Score: 32.9/100
+    - Competitiveness Score: 54.7/100
+    - Overall Matchup Score: 39.4/100
+
+================================================================================
+
+================================================================================
+DATE: 2025-11-26 Wednesday
+================================================================================
+
+RANK 2/56: MATCHUP SCORE = 75.6/100
+Time: 7:30 pm ET
+Matchup: MIN @ OKC
+
+  Away Team: MIN
+    - Power Rank: #8 (Score: 63.24)
+
+  Home Team: OKC
+    - Power Rank: #1 (Score: 89.94)
+
+  Scores:
+    - Combined Quality Score: 76.6/100
+    - Competitiveness Score: 73.3/100
+    - Overall Matchup Score: 75.6/100
+
+--------------------------------------------------------------------------------
+
+RANK 11/56: MATCHUP SCORE = 69.6/100
+Time: 5:00 pm ET
+Matchup: DET @ BOS
+
+  Away Team: DET
+    - Power Rank: #3 (Score: 76.08)
+
+  Home Team: BOS
+    - Power Rank: #16 (Score: 55.14)
+
+  Scores:
+    - Combined Quality Score: 65.6/100
+    - Competitiveness Score: 79.1/100
+    - Overall Matchup Score: 69.6/100
+
+--------------------------------------------------------------------------------
+
+RANK 17/56: MATCHUP SCORE = 66.1/100
+Time: 10:00 pm ET
+Matchup: HOU @ GSW
+
+  Away Team: HOU
+    - Power Rank: #4 (Score: 72.72)
+
+  Home Team: GSW
+    - Power Rank: #17 (Score: 49.94)
+
+  Scores:
+    - Combined Quality Score: 61.3/100
+    - Competitiveness Score: 77.2/100
+    - Overall Matchup Score: 66.1/100
+
+--------------------------------------------------------------------------------
+
+RANK 19/56: MATCHUP SCORE = 64.4/100
+Time: 7:30 pm ET
+Matchup: MIL @ MIA
+
+  Away Team: MIL
+    - Power Rank: #19 (Score: 48.13)
+
+  Home Team: MIA
+    - Power Rank: #9 (Score: 62.79)
+
+  Scores:
+    - Combined Quality Score: 55.5/100
+    - Competitiveness Score: 85.3/100
+    - Overall Matchup Score: 64.4/100
+
+--------------------------------------------------------------------------------
+
+RANK 22/56: MATCHUP SCORE = 62.9/100
+Time: 10:00 pm ET
+Matchup: SAS @ POR
+
+  Away Team: SAS
+    - Power Rank: #5 (Score: 69.85)
+
+  Home Team: POR
+    - Power Rank: #20 (Score: 45.31)
+
+  Scores:
+    - Combined Quality Score: 57.6/100
+    - Competitiveness Score: 75.5/100
+    - Overall Matchup Score: 62.9/100
+
+--------------------------------------------------------------------------------
+
+RANK 33/56: MATCHUP SCORE = 54.2/100
+Time: 7:00 pm ET
+Matchup: NYK @ CHA
+
+  Away Team: NYK
+    - Power Rank: #12 (Score: 61.31)
+
+  Home Team: CHA
+    - Power Rank: #25 (Score: 32.53)
+
+  Scores:
+    - Combined Quality Score: 46.9/100
+    - Competitiveness Score: 71.2/100
+    - Overall Matchup Score: 54.2/100
+
+--------------------------------------------------------------------------------
+
+RANK 45/56: MATCHUP SCORE = 45.4/100
+Time: 10:00 pm ET
+Matchup: PHX @ SAC
+
+  Away Team: PHX
+    - Power Rank: #11 (Score: 62.02)
+
+  Home Team: SAC
+    - Power Rank: #27 (Score: 18.95)
+
+  Scores:
+    - Combined Quality Score: 40.5/100
+    - Competitiveness Score: 56.9/100
+    - Overall Matchup Score: 45.4/100
+
+--------------------------------------------------------------------------------
+
+RANK 47/56: MATCHUP SCORE = 44.1/100
+Time: 7:30 pm ET
+Matchup: IND @ TOR
+
+  Away Team: IND
+    - Power Rank: #29 (Score: 16.62)
+
+  Home Team: TOR
+    - Power Rank: #6 (Score: 66.87)
+
+  Scores:
+    - Combined Quality Score: 41.7/100
+    - Competitiveness Score: 49.7/100
+    - Overall Matchup Score: 44.1/100
+
+--------------------------------------------------------------------------------
+
+RANK 53/56: MATCHUP SCORE = 42.6/100
+Time: 8:00 pm ET
+Matchup: MEM @ NOP
+
+  Away Team: MEM
+    - Power Rank: #22 (Score: 34.91)
+
+  Home Team: NOP
+    - Power Rank: #28 (Score: 16.74)
+
+  Scores:
+    - Combined Quality Score: 25.8/100
+    - Competitiveness Score: 81.8/100
+    - Overall Matchup Score: 42.6/100
+
+================================================================================
+
+================================================================================
+DATE: 2025-11-28 Friday
+================================================================================
+
+RANK 1/56: MATCHUP SCORE = 79.3/100
+Time: 9:30 pm ET
+Matchup: SAS @ DEN
+
+  Away Team: SAS
+    - Power Rank: #5 (Score: 69.85)
+
+  Home Team: DEN
+    - Power Rank: #2 (Score: 77.76)
+
+  Scores:
+    - Combined Quality Score: 73.8/100
+    - Competitiveness Score: 92.1/100
+    - Overall Matchup Score: 79.3/100
+
+--------------------------------------------------------------------------------
+
+RANK 3/56: MATCHUP SCORE = 74.8/100
+Time: 9:30 pm ET
+Matchup: PHX @ OKC
+
+  Away Team: PHX
+    - Power Rank: #11 (Score: 62.02)
+
+  Home Team: OKC
+    - Power Rank: #1 (Score: 89.94)
+
+  Scores:
+    - Combined Quality Score: 76.0/100
+    - Competitiveness Score: 72.1/100
+    - Overall Matchup Score: 74.8/100
+
+--------------------------------------------------------------------------------
+
+RANK 10/56: MATCHUP SCORE = 69.9/100
+Time: 7:30 pm ET
+Matchup: ORL @ DET
+
+  Away Team: ORL
+    - Power Rank: #14 (Score: 55.56)
+
+  Home Team: DET
+    - Power Rank: #3 (Score: 76.08)
+
+  Scores:
+    - Combined Quality Score: 65.8/100
+    - Competitiveness Score: 79.5/100
+    - Overall Matchup Score: 69.9/100
+
+--------------------------------------------------------------------------------
+
+RANK 12/56: MATCHUP SCORE = 69.2/100
+Time: 7:30 pm ET
+Matchup: CLE @ ATL
+
+  Away Team: CLE
+    - Power Rank: #10 (Score: 62.20)
+
+  Home Team: ATL
+    - Power Rank: #15 (Score: 55.50)
+
+  Scores:
+    - Combined Quality Score: 58.9/100
+    - Competitiveness Score: 93.3/100
+    - Overall Matchup Score: 69.2/100
+
+--------------------------------------------------------------------------------
+
+RANK 20/56: MATCHUP SCORE = 64.3/100
+Time: 7:30 pm ET
+Matchup: MIL @ NYK
+
+  Away Team: MIL
+    - Power Rank: #19 (Score: 48.13)
+
+  Home Team: NYK
+    - Power Rank: #12 (Score: 61.31)
+
+  Scores:
+    - Combined Quality Score: 54.7/100
+    - Competitiveness Score: 86.8/100
+    - Overall Matchup Score: 64.3/100
+
+--------------------------------------------------------------------------------
+
+RANK 28/56: MATCHUP SCORE = 54.6/100
+Time: 10:00 pm ET
+Matchup: DAL @ LAL
+
+  Away Team: DAL
+    - Power Rank: #24 (Score: 32.82)
+
+  Home Team: LAL
+    - Power Rank: #7 (Score: 64.76)
+
+  Scores:
+    - Combined Quality Score: 48.8/100
+    - Competitiveness Score: 68.1/100
+    - Overall Matchup Score: 54.6/100
+
+--------------------------------------------------------------------------------
+
+RANK 31/56: MATCHUP SCORE = 54.4/100
+Time: 10:00 pm ET
+Matchup: MEM @ LAC
+
+  Away Team: MEM
+    - Power Rank: #22 (Score: 34.91)
+
+  Home Team: LAC
+    - Power Rank: #21 (Score: 35.00)
+
+  Scores:
+    - Combined Quality Score: 35.0/100
+    - Competitiveness Score: 99.9/100
+    - Overall Matchup Score: 54.4/100
+
+--------------------------------------------------------------------------------
+
+RANK 35/56: MATCHUP SCORE = 53.6/100
+Time: 7:30 pm ET
+Matchup: CHI @ CHA
+
+  Away Team: CHI
+    - Power Rank: #18 (Score: 48.79)
+
+  Home Team: CHA
+    - Power Rank: #25 (Score: 32.53)
+
+  Scores:
+    - Combined Quality Score: 40.7/100
+    - Competitiveness Score: 83.7/100
     - Overall Matchup Score: 53.6/100
 
 --------------------------------------------------------------------------------
 
-RANK 42/60: MATCHUP SCORE = 52.7/100
-Time: 8:00 pm ET
-Matchup: SAC @ OKC
+RANK 41/56: MATCHUP SCORE = 47.8/100
+Time: 7:30 pm ET
+Matchup: PHI @ BKN
+
+  Away Team: PHI
+    - Power Rank: #13 (Score: 57.61)
+
+  Home Team: BKN
+    - Power Rank: #26 (Score: 22.95)
+
+  Scores:
+    - Combined Quality Score: 40.3/100
+    - Competitiveness Score: 65.3/100
+    - Overall Matchup Score: 47.8/100
+
+--------------------------------------------------------------------------------
+
+RANK 48/56: MATCHUP SCORE = 44.0/100
+Time: 9:30 pm ET
+Matchup: SAC @ UTA
 
   Away Team: SAC
-    - Power Rank: #26 (Score: 28.20)
+    - Power Rank: #27 (Score: 18.95)
 
-  Home Team: OKC
-    - Power Rank: #1 (Score: 87.34)
+  Home Team: UTA
+    - Power Rank: #23 (Score: 33.48)
 
   Scores:
-    - Combined Quality Score: 57.8/100
-    - Competitiveness Score: 40.9/100
-    - Overall Matchup Score: 52.7/100
+    - Combined Quality Score: 26.2/100
+    - Competitiveness Score: 85.5/100
+    - Overall Matchup Score: 44.0/100
 
 --------------------------------------------------------------------------------
 
-RANK 48/60: MATCHUP SCORE = 46.8/100
-Time: 8:00 pm ET
-Matchup: DEN @ NOP
-
-  Away Team: DEN
-    - Power Rank: #2 (Score: 80.39)
-
-  Home Team: NOP
-    - Power Rank: #27 (Score: 19.65)
-
-  Scores:
-    - Combined Quality Score: 50.0/100
-    - Competitiveness Score: 39.3/100
-    - Overall Matchup Score: 46.8/100
-
---------------------------------------------------------------------------------
-
-RANK 55/60: MATCHUP SCORE = 42.0/100
-Time: 7:00 pm ET
-Matchup: CHA @ IND
-
-  Away Team: CHA
-    - Power Rank: #21 (Score: 37.58)
-
-  Home Team: IND
-    - Power Rank: #28 (Score: 15.61)
-
-  Scores:
-    - Combined Quality Score: 26.6/100
-    - Competitiveness Score: 78.0/100
-    - Overall Matchup Score: 42.0/100
-
---------------------------------------------------------------------------------
-
-RANK 57/60: MATCHUP SCORE = 40.6/100
-Time: 8:00 pm ET
-Matchup: WAS @ MIN
+RANK 56/56: MATCHUP SCORE = 37.5/100
+Time: 7:30 pm ET
+Matchup: WAS @ IND
 
   Away Team: WAS
-    - Power Rank: #30 (Score: 11.38)
+    - Power Rank: #30 (Score: 10.21)
 
-  Home Team: MIN
-    - Power Rank: #8 (Score: 63.13)
+  Home Team: IND
+    - Power Rank: #29 (Score: 16.62)
 
   Scores:
-    - Combined Quality Score: 37.3/100
-    - Competitiveness Score: 48.2/100
-    - Overall Matchup Score: 40.6/100
+    - Combined Quality Score: 13.4/100
+    - Competitiveness Score: 93.6/100
+    - Overall Matchup Score: 37.5/100
+
+================================================================================
+
+================================================================================
+DATE: 2025-11-29 Saturday
+================================================================================
+
+RANK 4/56: MATCHUP SCORE = 74.6/100
+Time: 8:00 pm ET
+Matchup: DET @ MIA
+
+  Away Team: DET
+    - Power Rank: #3 (Score: 76.08)
+
+  Home Team: MIA
+    - Power Rank: #9 (Score: 62.79)
+
+  Scores:
+    - Combined Quality Score: 69.4/100
+    - Competitiveness Score: 86.7/100
+    - Overall Matchup Score: 74.6/100
+
+--------------------------------------------------------------------------------
+
+RANK 5/56: MATCHUP SCORE = 74.2/100
+Time: 9:00 pm ET
+Matchup: DEN @ PHX
+
+  Away Team: DEN
+    - Power Rank: #2 (Score: 77.76)
+
+  Home Team: PHX
+    - Power Rank: #11 (Score: 62.02)
+
+  Scores:
+    - Combined Quality Score: 69.9/100
+    - Competitiveness Score: 84.3/100
+    - Overall Matchup Score: 74.2/100
+
+--------------------------------------------------------------------------------
+
+RANK 14/56: MATCHUP SCORE = 69.0/100
+Time: 5:00 pm ET
+Matchup: BOS @ MIN
+
+  Away Team: BOS
+    - Power Rank: #16 (Score: 55.14)
+
+  Home Team: MIN
+    - Power Rank: #8 (Score: 63.24)
+
+  Scores:
+    - Combined Quality Score: 59.2/100
+    - Competitiveness Score: 91.9/100
+    - Overall Matchup Score: 69.0/100
+
+--------------------------------------------------------------------------------
+
+RANK 29/56: MATCHUP SCORE = 54.5/100
+Time: 6:00 pm ET
+Matchup: TOR @ CHA
+
+  Away Team: TOR
+    - Power Rank: #6 (Score: 66.87)
+
+  Home Team: CHA
+    - Power Rank: #25 (Score: 32.53)
+
+  Scores:
+    - Combined Quality Score: 49.7/100
+    - Competitiveness Score: 65.7/100
+    - Overall Matchup Score: 54.5/100
+
+--------------------------------------------------------------------------------
+
+RANK 36/56: MATCHUP SCORE = 53.1/100
+Time: 10:00 pm ET
+Matchup: DAL @ LAC
+
+  Away Team: DAL
+    - Power Rank: #24 (Score: 32.82)
+
+  Home Team: LAC
+    - Power Rank: #21 (Score: 35.00)
+
+  Scores:
+    - Combined Quality Score: 33.9/100
+    - Competitiveness Score: 97.8/100
+    - Overall Matchup Score: 53.1/100
+
+--------------------------------------------------------------------------------
+
+RANK 42/56: MATCHUP SCORE = 47.3/100
+Time: 8:00 pm ET
+Matchup: BKN @ MIL
+
+  Away Team: BKN
+    - Power Rank: #26 (Score: 22.95)
+
+  Home Team: MIL
+    - Power Rank: #19 (Score: 48.13)
+
+  Scores:
+    - Combined Quality Score: 35.5/100
+    - Competitiveness Score: 74.8/100
+    - Overall Matchup Score: 47.3/100
+
+--------------------------------------------------------------------------------
+
+RANK 50/56: MATCHUP SCORE = 43.4/100
+Time: 8:30 pm ET
+Matchup: NOP @ GSW
+
+  Away Team: NOP
+    - Power Rank: #28 (Score: 16.74)
+
+  Home Team: GSW
+    - Power Rank: #17 (Score: 49.94)
+
+  Scores:
+    - Combined Quality Score: 33.3/100
+    - Competitiveness Score: 66.8/100
+    - Overall Matchup Score: 43.4/100
+
+--------------------------------------------------------------------------------
+
+RANK 52/56: MATCHUP SCORE = 43.2/100
+Time: 7:30 pm ET
+Matchup: CHI @ IND
+
+  Away Team: CHI
+    - Power Rank: #18 (Score: 48.79)
+
+  Home Team: IND
+    - Power Rank: #29 (Score: 16.62)
+
+  Scores:
+    - Combined Quality Score: 32.7/100
+    - Competitiveness Score: 67.8/100
+    - Overall Matchup Score: 43.2/100
 

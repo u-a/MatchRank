@@ -1,6 +1,6 @@
 ================================================================================
 NFL MATCHUP RANKINGS
-Analysis Date: 2025-11-11
+Analysis Date: 2025-11-22
 ================================================================================
 
 Scoring Methodology:
@@ -11,303 +11,343 @@ Scoring Methodology:
 
 ================================================================================
 
-RANK 1: MATCHUP SCORE = 84.1/100
+RANK 1: MATCHUP SCORE = 75.6/100
 --------------------------------------------------------------------------------
-Date: 2025-11-16 Sunday
-Time: 16:05
-Week: 11
-Matchup: SEA @ LA
-
-  Away Team: SEA
-    - Power Rank: #3 (Score: 73.58)
-
-  Home Team: LA
-    - Power Rank: #2 (Score: 73.78)
-
-  Scores:
-    - Combined Quality Score: 73.7/100
-    - Competitiveness Score: 99.8/100
-    - Overall Matchup Score: 84.1/100
-
-================================================================================
-
-RANK 2: MATCHUP SCORE = 78.0/100
---------------------------------------------------------------------------------
-Date: 2025-11-16 Sunday
-Time: 16:25
-Week: 11
-Matchup: KC @ DEN
-
-  Away Team: KC
-    - Power Rank: #7 (Score: 64.12)
-
-  Home Team: DEN
-    - Power Rank: #5 (Score: 69.06)
-
-  Scores:
-    - Combined Quality Score: 66.6/100
-    - Competitiveness Score: 95.1/100
-    - Overall Matchup Score: 78.0/100
-
-================================================================================
-
-RANK 3: MATCHUP SCORE = 77.1/100
---------------------------------------------------------------------------------
-Date: 2025-11-16 Sunday
-Time: 20:20
-Week: 11
-Matchup: DET @ PHI
-
-  Away Team: DET
-    - Power Rank: #6 (Score: 66.94)
-
-  Home Team: PHI
-    - Power Rank: #9 (Score: 62.62)
-
-  Scores:
-    - Combined Quality Score: 64.8/100
-    - Competitiveness Score: 95.7/100
-    - Overall Matchup Score: 77.1/100
-
-================================================================================
-
-RANK 4: MATCHUP SCORE = 73.8/100
---------------------------------------------------------------------------------
-Date: 2025-11-16 Sunday
+Date: 2025-11-27 Thursday
 Time: 13:00
-Week: 11
-Matchup: TB @ BUF
+Week: 13
+Matchup: GB @ DET
 
-  Away Team: TB
-    - Power Rank: #13 (Score: 57.26)
+  Away Team: GB
+    - Power Rank: #11 (Score: 59.91)
 
-  Home Team: BUF
-    - Power Rank: #8 (Score: 62.87)
+  Home Team: DET
+    - Power Rank: #7 (Score: 63.66)
 
   Scores:
-    - Combined Quality Score: 60.1/100
-    - Competitiveness Score: 94.4/100
-    - Overall Matchup Score: 73.8/100
+    - Combined Quality Score: 61.8/100
+    - Competitiveness Score: 96.3/100
+    - Overall Matchup Score: 75.6/100
 
 ================================================================================
 
-RANK 5: MATCHUP SCORE = 68.3/100
+RANK 2: MATCHUP SCORE = 75.5/100
 --------------------------------------------------------------------------------
-Date: 2025-11-16 Sunday
+Date: 2025-11-23 Sunday
 Time: 13:00
-Week: 11
-Matchup: LAC @ JAX
+Week: 12
+Matchup: IND @ KC
 
-  Away Team: LAC
-    - Power Rank: #10 (Score: 61.77)
+  Away Team: IND
+    - Power Rank: #1 (Score: 74.39)
 
-  Home Team: JAX
-    - Power Rank: #17 (Score: 49.25)
+  Home Team: KC
+    - Power Rank: #9 (Score: 61.28)
 
   Scores:
-    - Combined Quality Score: 55.5/100
-    - Competitiveness Score: 87.5/100
-    - Overall Matchup Score: 68.3/100
+    - Combined Quality Score: 67.8/100
+    - Competitiveness Score: 86.9/100
+    - Overall Matchup Score: 75.5/100
 
 ================================================================================
 
-RANK 6: MATCHUP SCORE = 67.1/100
+RANK 3: MATCHUP SCORE = 73.0/100
 --------------------------------------------------------------------------------
-Date: 2025-11-16 Sunday
+Date: 2025-11-23 Sunday
 Time: 13:00
-Week: 11
-Matchup: CHI @ MIN
+Week: 12
+Matchup: PIT @ CHI
+
+  Away Team: PIT
+    - Power Rank: #16 (Score: 55.09)
+
+  Home Team: CHI
+    - Power Rank: #14 (Score: 55.16)
+
+  Scores:
+    - Combined Quality Score: 55.1/100
+    - Competitiveness Score: 99.9/100
+    - Overall Matchup Score: 73.0/100
+
+================================================================================
+
+RANK 4: MATCHUP SCORE = 72.2/100
+--------------------------------------------------------------------------------
+Date: 2025-11-28 Friday
+Time: 15:00
+Week: 13
+Matchup: CHI @ PHI
 
   Away Team: CHI
-    - Power Rank: #14 (Score: 53.82)
+    - Power Rank: #14 (Score: 55.16)
 
-  Home Team: MIN
-    - Power Rank: #19 (Score: 46.36)
+  Home Team: PHI
+    - Power Rank: #6 (Score: 64.21)
 
   Scores:
-    - Combined Quality Score: 50.1/100
-    - Competitiveness Score: 92.5/100
-    - Overall Matchup Score: 67.1/100
+    - Combined Quality Score: 59.7/100
+    - Competitiveness Score: 90.9/100
+    - Overall Matchup Score: 72.2/100
 
 ================================================================================
 
-RANK 7: MATCHUP SCORE = 64.9/100
+RANK 5: MATCHUP SCORE = 69.9/100
 --------------------------------------------------------------------------------
-Date: 2025-11-16 Sunday
-Time: 16:05
-Week: 11
-Matchup: SF @ ARI
+Date: 2025-11-23 Sunday
+Time: 20:20
+Week: 12
+Matchup: TB @ LA
 
-  Away Team: SF
-    - Power Rank: #15 (Score: 51.45)
+  Away Team: TB
+    - Power Rank: #17 (Score: 53.29)
+
+  Home Team: LA
+    - Power Rank: #2 (Score: 73.91)
+
+  Scores:
+    - Combined Quality Score: 63.6/100
+    - Competitiveness Score: 79.4/100
+    - Overall Matchup Score: 69.9/100
+
+================================================================================
+
+RANK 6: MATCHUP SCORE = 67.0/100
+--------------------------------------------------------------------------------
+Date: 2025-11-27 Thursday
+Time: 16:30
+Week: 13
+Matchup: KC @ DAL
+
+  Away Team: KC
+    - Power Rank: #9 (Score: 61.28)
+
+  Home Team: DAL
+    - Power Rank: #19 (Score: 47.39)
+
+  Scores:
+    - Combined Quality Score: 54.3/100
+    - Competitiveness Score: 86.1/100
+    - Overall Matchup Score: 67.0/100
+
+================================================================================
+
+RANK 7: MATCHUP SCORE = 66.8/100
+--------------------------------------------------------------------------------
+Date: 2025-11-23 Sunday
+Time: 16:25
+Week: 12
+Matchup: PHI @ DAL
+
+  Away Team: PHI
+    - Power Rank: #6 (Score: 64.21)
+
+  Home Team: DAL
+    - Power Rank: #19 (Score: 47.39)
+
+  Scores:
+    - Combined Quality Score: 55.8/100
+    - Competitiveness Score: 83.2/100
+    - Overall Matchup Score: 66.8/100
+
+================================================================================
+
+RANK 8: MATCHUP SCORE = 65.9/100
+--------------------------------------------------------------------------------
+Date: 2025-11-24 Monday
+Time: 20:15
+Week: 12
+Matchup: CAR @ SF
+
+  Away Team: CAR
+    - Power Rank: #20 (Score: 44.95)
+
+  Home Team: SF
+    - Power Rank: #12 (Score: 55.37)
+
+  Scores:
+    - Combined Quality Score: 50.2/100
+    - Competitiveness Score: 89.6/100
+    - Overall Matchup Score: 65.9/100
+
+================================================================================
+
+RANK 9: MATCHUP SCORE = 65.4/100
+--------------------------------------------------------------------------------
+Date: 2025-11-23 Sunday
+Time: 13:00
+Week: 12
+Matchup: MIN @ GB
+
+  Away Team: MIN
+    - Power Rank: #21 (Score: 44.83)
+
+  Home Team: GB
+    - Power Rank: #11 (Score: 59.91)
+
+  Scores:
+    - Combined Quality Score: 52.4/100
+    - Competitiveness Score: 84.9/100
+    - Overall Matchup Score: 65.4/100
+
+================================================================================
+
+RANK 10: MATCHUP SCORE = 62.0/100
+--------------------------------------------------------------------------------
+Date: 2025-11-23 Sunday
+Time: 16:05
+Week: 12
+Matchup: JAX @ ARI
+
+  Away Team: JAX
+    - Power Rank: #15 (Score: 55.12)
 
   Home Team: ARI
-    - Power Rank: #21 (Score: 42.87)
+    - Power Rank: #23 (Score: 39.26)
 
   Scores:
     - Combined Quality Score: 47.2/100
-    - Competitiveness Score: 91.4/100
-    - Overall Matchup Score: 64.9/100
+    - Competitiveness Score: 84.1/100
+    - Overall Matchup Score: 62.0/100
 
 ================================================================================
 
-RANK 8: MATCHUP SCORE = 62.3/100
+RANK 11: MATCHUP SCORE = 57.6/100
 --------------------------------------------------------------------------------
-Date: 2025-11-16 Sunday
+Date: 2025-11-23 Sunday
 Time: 13:00
-Week: 11
-Matchup: CAR @ ATL
+Week: 12
+Matchup: NYJ @ BAL
 
-  Away Team: CAR
-    - Power Rank: #22 (Score: 42.51)
+  Away Team: NYJ
+    - Power Rank: #26 (Score: 32.32)
 
-  Home Team: ATL
-    - Power Rank: #23 (Score: 37.89)
+  Home Team: BAL
+    - Power Rank: #18 (Score: 50.14)
+
+  Scores:
+    - Combined Quality Score: 41.2/100
+    - Competitiveness Score: 82.2/100
+    - Overall Matchup Score: 57.6/100
+
+================================================================================
+
+RANK 12: MATCHUP SCORE = 56.1/100
+--------------------------------------------------------------------------------
+Date: 2025-11-27 Thursday
+Time: 20:20
+Week: 13
+Matchup: CIN @ BAL
+
+  Away Team: CIN
+    - Power Rank: #28 (Score: 30.22)
+
+  Home Team: BAL
+    - Power Rank: #18 (Score: 50.14)
 
   Scores:
     - Combined Quality Score: 40.2/100
-    - Competitiveness Score: 95.4/100
-    - Overall Matchup Score: 62.3/100
+    - Competitiveness Score: 80.1/100
+    - Overall Matchup Score: 56.1/100
 
 ================================================================================
 
-RANK 9: MATCHUP SCORE = 61.4/100
+RANK 13: MATCHUP SCORE = 55.9/100
 --------------------------------------------------------------------------------
-Date: 2025-11-16 Sunday
-Time: 09:30
-Week: 11
-Matchup: WAS @ MIA
-
-  Away Team: WAS
-    - Power Rank: #25 (Score: 35.88)
-
-  Home Team: MIA
-    - Power Rank: #24 (Score: 37.09)
-
-  Scores:
-    - Combined Quality Score: 36.5/100
-    - Competitiveness Score: 98.8/100
-    - Overall Matchup Score: 61.4/100
-
-================================================================================
-
-RANK 10: MATCHUP SCORE = 58.3/100
---------------------------------------------------------------------------------
-Date: 2025-11-16 Sunday
+Date: 2025-11-23 Sunday
 Time: 13:00
-Week: 11
-Matchup: CIN @ PIT
+Week: 12
+Matchup: NYG @ DET
 
-  Away Team: CIN
-    - Power Rank: #27 (Score: 33.39)
+  Away Team: NYG
+    - Power Rank: #27 (Score: 31.86)
 
-  Home Team: PIT
-    - Power Rank: #16 (Score: 50.39)
+  Home Team: DET
+    - Power Rank: #7 (Score: 63.66)
 
   Scores:
-    - Combined Quality Score: 41.9/100
-    - Competitiveness Score: 83.0/100
-    - Overall Matchup Score: 58.3/100
+    - Combined Quality Score: 47.8/100
+    - Competitiveness Score: 68.2/100
+    - Overall Matchup Score: 55.9/100
 
 ================================================================================
 
-RANK 11: MATCHUP SCORE = 57.2/100
+RANK 14: MATCHUP SCORE = 55.0/100
 --------------------------------------------------------------------------------
-Date: 2025-11-16 Sunday
-Time: 13:00
-Week: 11
-Matchup: GB @ NYG
+Date: 2025-11-23 Sunday
+Time: 16:05
+Week: 12
+Matchup: CLE @ LV
 
-  Away Team: GB
-    - Power Rank: #12 (Score: 57.96)
-
-  Home Team: NYG
-    - Power Rank: #28 (Score: 32.89)
-
-  Scores:
-    - Combined Quality Score: 45.4/100
-    - Competitiveness Score: 74.9/100
-    - Overall Matchup Score: 57.2/100
-
-================================================================================
-
-RANK 12: MATCHUP SCORE = 57.1/100
---------------------------------------------------------------------------------
-Date: 2025-11-13 Thursday
-Time: 20:15
-Week: 11
-Matchup: NYJ @ NE
-
-  Away Team: NYJ
-    - Power Rank: #26 (Score: 34.45)
-
-  Home Team: NE
-    - Power Rank: #4 (Score: 69.94)
-
-  Scores:
-    - Combined Quality Score: 52.2/100
-    - Competitiveness Score: 64.5/100
-    - Overall Matchup Score: 57.1/100
-
-================================================================================
-
-RANK 13: MATCHUP SCORE = 56.4/100
---------------------------------------------------------------------------------
-Date: 2025-11-16 Sunday
-Time: 16:25
-Week: 11
-Matchup: BAL @ CLE
-
-  Away Team: BAL
-    - Power Rank: #18 (Score: 47.42)
-
-  Home Team: CLE
-    - Power Rank: #29 (Score: 30.20)
-
-  Scores:
-    - Combined Quality Score: 38.8/100
-    - Competitiveness Score: 82.8/100
-    - Overall Matchup Score: 56.4/100
-
-================================================================================
-
-RANK 14: MATCHUP SCORE = 55.1/100
---------------------------------------------------------------------------------
-Date: 2025-11-17 Monday
-Time: 20:15
-Week: 11
-Matchup: DAL @ LV
-
-  Away Team: DAL
-    - Power Rank: #20 (Score: 43.07)
+  Away Team: CLE
+    - Power Rank: #29 (Score: 29.20)
 
   Home Team: LV
-    - Power Rank: #30 (Score: 27.70)
+    - Power Rank: #31 (Score: 25.64)
 
   Scores:
-    - Combined Quality Score: 35.4/100
-    - Competitiveness Score: 84.6/100
-    - Overall Matchup Score: 55.1/100
+    - Combined Quality Score: 27.4/100
+    - Competitiveness Score: 96.4/100
+    - Overall Matchup Score: 55.0/100
 
 ================================================================================
 
-RANK 15: MATCHUP SCORE = 47.2/100
+RANK 15: MATCHUP SCORE = 54.5/100
 --------------------------------------------------------------------------------
-Date: 2025-11-16 Sunday
-Time: 13:00
-Week: 11
-Matchup: HOU @ TEN
+Date: 2025-11-23 Sunday
+Time: 16:25
+Week: 12
+Matchup: ATL @ NO
 
-  Away Team: HOU
-    - Power Rank: #11 (Score: 58.01)
+  Away Team: ATL
+    - Power Rank: #24 (Score: 37.07)
 
-  Home Team: TEN
-    - Power Rank: #32 (Score: 18.62)
+  Home Team: NO
+    - Power Rank: #30 (Score: 25.99)
 
   Scores:
-    - Combined Quality Score: 38.3/100
-    - Competitiveness Score: 60.6/100
-    - Overall Matchup Score: 47.2/100
+    - Combined Quality Score: 31.5/100
+    - Competitiveness Score: 88.9/100
+    - Overall Matchup Score: 54.5/100
+
+================================================================================
+
+RANK 16: MATCHUP SCORE = 54.0/100
+--------------------------------------------------------------------------------
+Date: 2025-11-23 Sunday
+Time: 13:00
+Week: 12
+Matchup: NE @ CIN
+
+  Away Team: NE
+    - Power Rank: #3 (Score: 71.67)
+
+  Home Team: CIN
+    - Power Rank: #28 (Score: 30.22)
+
+  Scores:
+    - Combined Quality Score: 50.9/100
+    - Competitiveness Score: 58.5/100
+    - Overall Matchup Score: 54.0/100
+
+================================================================================
+
+RANK 17: MATCHUP SCORE = 46.0/100
+--------------------------------------------------------------------------------
+Date: 2025-11-23 Sunday
+Time: 13:00
+Week: 12
+Matchup: SEA @ TEN
+
+  Away Team: SEA
+    - Power Rank: #4 (Score: 70.27)
+
+  Home Team: TEN
+    - Power Rank: #32 (Score: 18.61)
+
+  Scores:
+    - Combined Quality Score: 44.4/100
+    - Competitiveness Score: 48.3/100
+    - Overall Matchup Score: 46.0/100
 
 ================================================================================
 
