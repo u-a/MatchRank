@@ -1,57 +1,57 @@
 ============================================================
 NFL UPCOMING MATCHUPS
-Analysis Date: 2025-11-22
+Analysis Date: 2025-12-22
 Looking ahead: 7 days
 ============================================================
 
-2025-11-23 Sunday | 13:00 | Week 12
-  NYJ @ BAL
+2025-12-22 Monday | 20:15 | Week 16
+  SF @ IND
 
-2025-11-23 Sunday | 20:20 | Week 12
-  TB @ LA
+2025-12-25 Thursday | 13:00 | Week 17
+  DAL @ WAS
 
-2025-11-23 Sunday | 16:25 | Week 12
-  ATL @ NO
+2025-12-25 Thursday | 16:30 | Week 17
+  DET @ MIN
 
-2025-11-23 Sunday | 16:25 | Week 12
-  PHI @ DAL
+2025-12-25 Thursday | 20:15 | Week 17
+  DEN @ KC
 
-2025-11-23 Sunday | 16:05 | Week 12
-  JAX @ ARI
+2025-12-27 Saturday | 16:30 | Week 17
+  HOU @ LAC
 
-2025-11-23 Sunday | 13:00 | Week 12
-  SEA @ TEN
+2025-12-27 Saturday | 20:00 | Week 17
+  BAL @ GB
 
-2025-11-23 Sunday | 16:05 | Week 12
-  CLE @ LV
+2025-12-28 Sunday | 16:25 | Week 17
+  PHI @ BUF
 
-2025-11-23 Sunday | 13:00 | Week 12
-  MIN @ GB
+2025-12-28 Sunday | 16:05 | Week 17
+  NYG @ LV
 
-2025-11-23 Sunday | 13:00 | Week 12
-  NYG @ DET
+2025-12-28 Sunday | 13:00 | Week 17
+  NO @ TEN
 
-2025-11-23 Sunday | 13:00 | Week 12
-  NE @ CIN
+2025-12-28 Sunday | 13:00 | Week 17
+  NE @ NYJ
 
-2025-11-23 Sunday | 13:00 | Week 12
-  PIT @ CHI
+2025-12-28 Sunday | 13:00 | Week 17
+  PIT @ CLE
 
-2025-11-23 Sunday | 13:00 | Week 12
-  IND @ KC
+2025-12-28 Sunday | 13:00 | Week 17
+  JAX @ IND
 
-2025-11-24 Monday | 20:15 | Week 12
-  CAR @ SF
+2025-12-28 Sunday | 20:20 | Week 17
+  CHI @ SF
 
-2025-11-27 Thursday | 20:20 | Week 13
-  CIN @ BAL
+2025-12-28 Sunday | 13:00 | Week 17
+  ARI @ CIN
 
-2025-11-27 Thursday | 13:00 | Week 13
-  GB @ DET
+2025-12-28 Sunday | 13:00 | Week 17
+  SEA @ CAR
 
-2025-11-27 Thursday | 16:30 | Week 13
-  KC @ DAL
+2025-12-28 Sunday | 13:00 | Week 17
+  TB @ MIA
 
-2025-11-28 Friday | 15:00 | Week 13
-  CHI @ PHI
+2025-12-29 Monday | 20:15 | Week 17
+  LA @ ATL
 
