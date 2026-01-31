@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-NFL Matchup Analysis Script
-Analyzes upcoming NFL games and ranks matchups based on team strength and competitiveness
+NFL Matchup Analysis Script - Optimized Version
+Analyzes NFL games for today and upcoming week with enhanced readability
 """
 
 import nfl_data_py as nfl
@@ -11,19 +11,18 @@ import numpy as np
 import warnings
 warnings.filterwarnings('ignore')
 
-def get_upcoming_matchups(days_ahead=7):
+
+def get_games_by_date_range(days_ahead=7):
     """
-    Identify NFL matchups in the next week
+    Fetch NFL games from today through the next N days
+    Returns a DataFrame with game information
     """
-    print("=" * 60)
-    print("STEP 1: Fetching Upcoming NFL Matchups")
-    print("=" * 60)
+    print(f"Fetching NFL games for the next {days_ahead + 1} days...")
     
-    # Get current season schedule
     current_year = datetime.now().year
     schedules = nfl.import_schedules([current_year])
     
-    # Filter for upcoming games (today through next 7 days)
+    # Filter for games in date range
     today = datetime.now().date()
     cutoff_date = today + timedelta(days=days_ahead)
     
@@ -35,53 +34,35 @@ def get_upcoming_matchups(days_ahead=7):
         (schedules['game_date'] <= cutoff_date)
     ].copy()
     
+    # Check if any games found
+    if len(upcoming) == 0:
+        print(f"No games found between {today} and {cutoff_date}")
+        return pd.DataFrame()  # Return empty DataFrame
+    
     # Sort by date
     upcoming = upcoming.sort_values('gameday')
     
     # Select relevant columns
-    matchups = upcoming[[
+    games_df = upcoming[[
         'game_id', 'gameday', 'gametime', 'away_team', 'home_team', 
         'away_score', 'home_score', 'week'
     ]].copy()
     
-    print(f"\nFound {len(matchups)} matchups between {today} and {cutoff_date}")
-    print(f"\nUpcoming Matchups:")
-    print("-" * 60)
+    # Add is_today flag
+    games_df['is_today'] = games_df['gameday'].dt.date == today
     
-    for idx, row in matchups.iterrows():
-        game_date = row['gameday'].strftime('%Y-%m-%d %A')
-        game_time = row['gametime'] if pd.notna(row['gametime']) else 'TBD'
-        print(f"{game_date} {game_time} | Week {row['week']}: {row['away_team']} @ {row['home_team']}")
+    # Deduplicate by game_id to prevent duplicates
+    games_df = games_df.drop_duplicates(subset=['game_id'], keep='first').reset_index(drop=True)
     
-    # Write to file
-    with open('1_NFL_upcoming_matchups.txt', 'w') as f:
-        f.write("=" * 60 + "\n")
-        f.write("NFL UPCOMING MATCHUPS\n")
-        f.write(f"Analysis Date: {today}\n")
-        f.write(f"Looking ahead: {days_ahead} days\n")
-        f.write("=" * 60 + "\n\n")
-        
-        for idx, row in matchups.iterrows():
-            game_date = row['gameday'].strftime('%Y-%m-%d %A')
-            game_time = row['gametime'] if pd.notna(row['gametime']) else 'TBD'
-            f.write(f"{game_date} | {game_time} | Week {row['week']}\n")
-            f.write(f"  {row['away_team']} @ {row['home_team']}\n\n")
-    
-    print(f"\n✓ Matchups written to: 1_NFL_upcoming_matchups.txt")
-    
-    return matchups
+    print(f"Found {len(games_df)} total games")
+    return games_df
+
 
 def calculate_power_rankings():
-    """
-    Calculate power rankings using modified Pythagorean expectation
-    """
-    print("\n" + "=" * 60)
-    print("STEP 2: Calculating Team Power Rankings")
-    print("=" * 60)
+    """Calculate team power rankings using modified Pythagorean expectation"""
+    print("\nCalculating team power rankings...")
     
     current_year = datetime.now().year
-    
-    # Get season data
     schedules = nfl.import_schedules([current_year])
     
     # Filter for completed games only
@@ -92,7 +73,7 @@ def calculate_power_rankings():
         schedules = nfl.import_schedules([current_year - 1])
         completed = schedules[schedules['home_score'].notna()].copy()
     
-    print(f"\nAnalyzing {len(completed)} completed games from {current_year} season")
+    print(f"Analyzing {len(completed)} completed games from {current_year} season")
     
     # Get all unique teams
     teams = pd.concat([completed['home_team'], completed['away_team']]).unique()
@@ -101,9 +82,8 @@ def calculate_power_rankings():
     team_stats = {}
     
     for team in teams:
-        # Home games
+        # Home and away games
         home_games = completed[completed['home_team'] == team]
-        # Away games
         away_games = completed[completed['away_team'] == team]
         
         # Points scored and allowed
@@ -167,185 +147,257 @@ def calculate_power_rankings():
     rankings_df = rankings_df.sort_values('power_score', ascending=False).reset_index(drop=True)
     rankings_df['rank'] = range(1, len(rankings_df) + 1)
     
-    print("\nTop 10 Teams by Power Ranking:")
-    print("-" * 60)
-    for idx, row in rankings_df.head(10).iterrows():
-        print(f"{row['rank']:2d}. {row['team']:3s} | "
-              f"Power Score: {row['power_score']:5.2f} | "
-              f"Record: {row['wins']:.0f}-{row['losses']:.0f} | "
-              f"Pt Diff: {row['point_diff']:+.0f}")
-    
-    # Write to file
-    with open('2_NFL_power_rankings.txt', 'w') as f:
-        f.write("=" * 80 + "\n")
-        f.write("NFL TEAM POWER RANKINGS\n")
-        f.write(f"Season: {current_year}\n")
-        f.write(f"Games Analyzed: {len(completed)}\n")
-        f.write("=" * 80 + "\n\n")
-        f.write("Ranking Methodology:\n")
-        f.write("  - Modified Pythagorean Expectation (40%)\n")
-        f.write("  - Win Percentage (30%)\n")
-        f.write("  - Point Differential (30%)\n")
-        f.write("  - Power Score: 0-100 scale (higher is better)\n\n")
-        f.write("-" * 80 + "\n")
-        f.write(f"{'Rank':<6}{'Team':<6}{'Power':<10}{'Record':<12}{'PF':<8}{'PA':<8}{'Diff':<8}{'Pyth':<8}\n")
-        f.write("-" * 80 + "\n")
-        
-        for idx, row in rankings_df.iterrows():
-            f.write(f"{row['rank']:<6}{row['team']:<6}{row['power_score']:<10.2f}"
-                   f"{row['wins']:.0f}-{row['losses']:.0f}{'':<7}"
-                   f"{row['points_scored']:<8.0f}{row['points_allowed']:<8.0f}"
-                   f"{row['point_diff']:<8.0f}{row['pyth_expectation']:<8.3f}\n")
-    
-    print(f"\n✓ Rankings written to: 2_NFL_power_rankings.txt")
-    
+    print(f"Power rankings calculated for {len(rankings_df)} teams")
     return rankings_df
 
-def analyze_matchups(matchups, rankings):
+
+def analyze_matchups(games_df, rankings_df):
     """
-    Analyze and rank matchups based on team strength and competitiveness
+    Analyze each game and determine watchability
+    Returns games_df with added analysis columns
     """
-    print("\n" + "=" * 60)
-    print("STEP 3: Analyzing and Ranking Matchups")
-    print("=" * 60)
+    if rankings_df.empty or games_df.empty:
+        return games_df
     
-    # Create lookup dictionary for rankings
-    rank_dict = rankings.set_index('team')['power_score'].to_dict()
-    team_rank_dict = rankings.set_index('team')['rank'].to_dict()
+    # Create lookup dictionaries
+    rank_dict = rankings_df.set_index('team')['power_score'].to_dict()
+    team_rank_dict = rankings_df.set_index('team')['rank'].to_dict()
     
-    matchup_analysis = []
+    # Add analysis for each game
+    games_df['away_power'] = games_df['away_team'].map(rank_dict).fillna(50)
+    games_df['home_power'] = games_df['home_team'].map(rank_dict).fillna(50)
+    games_df['away_rank'] = games_df['away_team'].map(team_rank_dict).fillna(16)
+    games_df['home_rank'] = games_df['home_team'].map(team_rank_dict).fillna(16)
     
-    for idx, game in matchups.iterrows():
-        away_team = game['away_team']
-        home_team = game['home_team']
+    # Calculate matchup quality scores
+    games_df['quality_score'] = (games_df['away_power'] + games_df['home_power']) / 2
+    
+    # IMPROVED: Calculate competitiveness with exponential decay
+    # Better spread across 0-100 range compared to linear formula
+    score_diff = abs(games_df['away_power'] - games_df['home_power'])
+    games_df['competitive_score'] = 100 * np.exp(-score_diff / 15)
+    
+    # Overall matchup score: 60% quality, 40% competitiveness
+    games_df['matchup_score'] = (0.60 * games_df['quality_score'] + 
+                                   0.40 * games_df['competitive_score'])
+    
+    # Determine watchability tier
+    def get_tier(score):
+        if score >= 70:
+            return "🔥 MUST WATCH"
+        elif score >= 60:
+            return "⭐ HIGHLY RECOMMENDED"
+        elif score >= 50:
+            return "👍 WORTH WATCHING"
+        else:
+            return "📺 Optional"
+    
+    games_df['tier'] = games_df['matchup_score'].apply(get_tier)
+    
+    # Sort by matchup score
+    games_df = games_df.sort_values(['gameday', 'matchup_score'], 
+                                     ascending=[True, False])
+    
+    return games_df
+
+
+def format_game_markdown(row, rank_num=None, total_games=None):
+    """Format a single game as markdown"""
+    lines = []
+    
+    # Header with tier and matchup
+    if rank_num and total_games:
+        lines.append(f"### #{rank_num}/{total_games} - {row['tier']}")
+    else:
+        lines.append(f"### {row['tier']}")
+    
+    # Game matchup - check for completed games
+    has_scores = (pd.notna(row['away_score']) and pd.notna(row['home_score']))
+    
+    game_time = row['gametime'] if pd.notna(row['gametime']) else 'TBD'
+    
+    if has_scores:
+        # Completed game with scores
+        lines.append(f"**{row['away_team']} {int(row['away_score'])} @ "
+                    f"{row['home_team']} {int(row['home_score'])}** - Final")
+    else:
+        # Upcoming game
+        lines.append(f"**{row['away_team']} @ {row['home_team']}** - {game_time}")
+    
+    # Week and rankings
+    lines.append(f"- **Week {int(row['week'])}**")
+    lines.append(f"- **Team Rankings:** #{int(row['away_rank'])} {row['away_team']} vs "
+                f"#{int(row['home_rank'])} {row['home_team']}")
+    lines.append(f"- **Matchup Score:** {row['matchup_score']:.1f}/100 "
+                f"(Quality: {row['quality_score']:.1f}, Competitive: {row['competitive_score']:.1f})")
+    
+    return "\n".join(lines)
+
+
+def write_markdown_report(games_df, rankings_df, output_file='NFL_Weekly_Report.md'):
+    """Write comprehensive markdown report"""
+    
+    today = datetime.now()
+    current_year = today.year
+    
+    # Separate today's games from upcoming
+    todays_games = games_df[games_df['is_today'] == True]
+    upcoming_games = games_df[games_df['is_today'] == False]
+    
+    with open(output_file, 'w', encoding='utf-8') as f:
+        # Header
+        f.write(f"# 🏈 NFL Weekly Matchup Report\n\n")
+        f.write(f"**Season:** {current_year}  \n")
+        f.write(f"**Generated:** {today.strftime('%A, %B %d, %Y at %I:%M %p')}  \n")
+        f.write(f"**Coverage:** Next 7 days\n\n")
         
-        # Get power scores (default to 50 if team not found)
-        away_score = rank_dict.get(away_team, 50)
-        home_score = rank_dict.get(home_team, 50)
+        f.write("---\n\n")
         
-        away_rank = team_rank_dict.get(away_team, 16)
-        home_rank = team_rank_dict.get(home_team, 16)
+        # TODAY'S GAMES SECTION
+        f.write(f"## 📅 TODAY'S GAMES - {today.strftime('%A, %B %d')}\n\n")
         
-        # Ranking Score: Combined quality of teams (0-100)
-        # Higher score = better combined team quality
-        ranking_score = (away_score + home_score) / 2
+        if len(todays_games) == 0:
+            f.write("*No games scheduled for today.*\n\n")
+        else:
+            f.write(f"**{len(todays_games)} game(s) today**\n\n")
+            
+            for idx, game in todays_games.iterrows():
+                f.write(format_game_markdown(game))
+                f.write("\n\n")
         
-        # Similarity Score: How evenly matched are the teams (0-100)
-        # Higher score = more competitive/closer matchup
-        score_diff = abs(away_score - home_score)
-        max_diff = 100  # Maximum possible difference
-        similarity_score = (1 - (score_diff / max_diff)) * 100
+        f.write("---\n\n")
         
-        # Matchup Score: Holistic score combining both factors
-        # Weight: 40% similarity (competitiveness), 60% ranking (quality)
-        # This prioritizes close games between good teams
-        matchup_score = (0.40 * similarity_score + 0.60 * ranking_score)
+        # UPCOMING GAMES SECTION
+        f.write("## 📆 UPCOMING GAMES (Next 7 Days)\n\n")
         
-        matchup_analysis.append({
-            'game_id': game['game_id'],
-            'gameday': game['gameday'],
-            'gametime': game['gametime'],
-            'week': game['week'],
-            'away_team': away_team,
-            'home_team': home_team,
-            'away_power': away_score,
-            'home_power': home_score,
-            'away_rank': away_rank,
-            'home_rank': home_rank,
-            'ranking_score': ranking_score,
-            'similarity_score': similarity_score,
-            'matchup_score': matchup_score
-        })
-    
-    # Create DataFrame and sort by matchup score
-    matchup_df = pd.DataFrame(matchup_analysis)
-    matchup_df = matchup_df.sort_values('matchup_score', ascending=False).reset_index(drop=True)
-    
-    print(f"\nTop Matchups (by Matchup Score):")
-    print("-" * 60)
-    
-    for idx, row in matchup_df.iterrows():
-        game_date = row['gameday'].strftime('%m/%d')
-        game_time = row['gametime'] if pd.notna(row['gametime']) else 'TBD'
-        print(f"{idx + 1}. [{game_date} {game_time}] {row['away_team']} @ {row['home_team']}")
-        print(f"   Matchup Score: {row['matchup_score']:.1f}/100 | "
-              f"Quality: {row['ranking_score']:.1f} | "
-              f"Competitive: {row['similarity_score']:.1f}")
-        print(f"   Team Ranks: #{row['away_rank']} vs #{row['home_rank']}")
-        print()
-    
-    # Write to file
-    with open('3_NFL_matchup_rankings.txt', 'w') as f:
-        f.write("=" * 80 + "\n")
-        f.write("NFL MATCHUP RANKINGS\n")
-        f.write(f"Analysis Date: {datetime.now().date()}\n")
-        f.write("=" * 80 + "\n\n")
-        f.write("Scoring Methodology:\n")
-        f.write("  - Ranking Score: Average power rating of both teams (0-100)\n")
-        f.write("  - Similarity Score: How evenly matched teams are (0-100)\n")
-        f.write("  - Matchup Score: 60% similarity + 40% quality (0-100)\n")
-        f.write("    Higher scores indicate competitive games between strong teams\n\n")
-        f.write("=" * 80 + "\n\n")
+        if len(upcoming_games) == 0:
+            f.write("*No upcoming games found in the next 7 days.*\n\n")
+        else:
+            # Group by date
+            current_date = None
+            rank_counter = 1
+            total_upcoming = len(upcoming_games)
+            
+            for idx, game in upcoming_games.iterrows():
+                game_date = game['gameday'].date()
+                
+                # New date header
+                if current_date != game_date:
+                    current_date = game_date
+                    f.write(f"\n### 🗓️ {game['gameday'].strftime('%A, %B %d, %Y')}\n\n")
+                
+                f.write(format_game_markdown(game, rank_counter, total_upcoming))
+                f.write("\n\n")
+                rank_counter += 1
         
-        for idx, row in matchup_df.iterrows():
-            game_date = row['gameday'].strftime('%Y-%m-%d %A')
-            game_time = row['gametime'] if pd.notna(row['gametime']) else 'TBD'
-            f.write(f"RANK {idx + 1}: MATCHUP SCORE = {row['matchup_score']:.1f}/100\n")
-            f.write("-" * 80 + "\n")
-            f.write(f"Date: {game_date}\n")
-            f.write(f"Time: {game_time}\n")
-            f.write(f"Week: {row['week']}\n")
-            f.write(f"Matchup: {row['away_team']} @ {row['home_team']}\n\n")
-            f.write(f"  Away Team: {row['away_team']}\n")
-            f.write(f"    - Power Rank: #{row['away_rank']} (Score: {row['away_power']:.2f})\n\n")
-            f.write(f"  Home Team: {row['home_team']}\n")
-            f.write(f"    - Power Rank: #{row['home_rank']} (Score: {row['home_power']:.2f})\n\n")
-            f.write(f"  Scores:\n")
-            f.write(f"    - Combined Quality Score: {row['ranking_score']:.1f}/100\n")
-            f.write(f"    - Competitiveness Score: {row['similarity_score']:.1f}/100\n")
-            f.write(f"    - Overall Matchup Score: {row['matchup_score']:.1f}/100\n\n")
-            f.write("=" * 80 + "\n\n")
+        f.write("---\n\n")
+        
+        # TOP MATCHUPS SUMMARY
+        f.write("## 🌟 Top 5 Matchups This Week\n\n")
+        top_5 = games_df.nlargest(5, 'matchup_score')
+        
+        for i, (idx, game) in enumerate(top_5.iterrows(), 1):
+            date_str = game['gameday'].strftime('%a %m/%d')
+            game_time = game['gametime'] if pd.notna(game['gametime']) else 'TBD'
+            f.write(f"{i}. **{game['away_team']} @ {game['home_team']}** "
+                   f"({date_str} {game_time}) - Score: {game['matchup_score']:.1f}/100\n")
+        
+        f.write("\n---\n\n")
+        
+        # POWER RANKINGS
+        f.write("## 📊 Current Power Rankings (Top 10)\n\n")
+        f.write("| Rank | Team | Power Score | Record | Pt Diff |\n")
+        f.write("|------|------|-------------|--------|----------|\n")
+        
+        for idx, team in rankings_df.head(10).iterrows():
+            f.write(f"| {int(team['rank'])} | {team['team']} | "
+                   f"{team['power_score']:.1f} | "
+                   f"{int(team['wins'])}-{int(team['losses'])} | "
+                   f"{team['point_diff']:+.0f} |\n")
+        
+        f.write("\n---\n\n")
+        
+        # Methodology
+        f.write("## 📈 Methodology\n\n")
+        f.write("### Power Rankings\n")
+        f.write("- **Modified Pythagorean Expectation:** 40% (exponent 2.37 for NFL)\n")
+        f.write("- **Win Percentage:** 30%\n")
+        f.write("- **Point Differential:** 30% (normalized)\n\n")
+        
+        f.write("### Matchup Scores\n")
+        f.write("- **Quality Score:** Average power rating of both teams (0-100)\n")
+        f.write("  - Higher scores indicate stronger teams overall\n")
+        f.write("  - Typical range: 30-70 based on current team strengths\n\n")
+        f.write("- **Competitive Score:** How evenly matched teams are (0-100)\n")
+        f.write("  - Calculated using exponential decay: 100 × e^(-difference/15)\n")
+        f.write("  - Perfect matchup (0 point difference) = 100\n")
+        f.write("  - 10 point difference ≈ 51 (close game)\n")
+        f.write("  - 20 point difference ≈ 26 (moderate mismatch)\n")
+        f.write("  - 30+ point difference ≈ <15 (blowout likely)\n\n")
+        f.write("- **Overall Matchup Score:** 60% quality + 40% competitiveness\n")
+        f.write("  - Balances team strength with game competitiveness\n")
+        f.write("  - Best games: strong teams that are evenly matched\n\n")
+        
+        f.write("### Watchability Tiers\n")
+        f.write("- 🔥 **MUST WATCH** (70+): Elite matchups between top teams\n")
+        f.write("- ⭐ **HIGHLY RECOMMENDED** (60-69): High-quality, competitive games\n")
+        f.write("- 👍 **WORTH WATCHING** (50-59): Solid matchups\n")
+        f.write("- 📺 **Optional** (<50): Lower-tier or lopsided games\n")
     
-    print(f"✓ Matchup analysis written to: 3_NFL_matchup_rankings.txt")
-    
-    return matchup_df
+    print(f"\n✅ Report written to: {output_file}")
+
 
 def main():
-    """
-    Main execution function
-    """
+    """Main execution function"""
     print("\n" + "=" * 60)
-    print("NFL MATCHUP ANALYSIS PIPELINE")
-    print("=" * 60)
-    print()
+    print("NFL MATCHUP ANALYSIS - OPTIMIZED VERSION")
+    print("=" * 60 + "\n")
     
     try:
-        # Step 1: Get upcoming matchups
-        matchups = get_upcoming_matchups(days_ahead=7)
+        # Step 1: Get games
+        games_df = get_games_by_date_range(days_ahead=7)
         
-        if len(matchups) == 0:
-            print("\nNo upcoming matchups found in the next 7 days.")
+        if games_df.empty:
+            print("\n" + "=" * 60)
+            print("NO GAMES FOUND")
+            print("=" * 60)
+            print("\nNo NFL games scheduled in the next 7 days.")
+            print("This is likely due to:")
+            print("  - NFL offseason (February - August)")
+            print("  - Bye week for all teams")
+            print("  - Between regular season and playoffs")
+            print("\nTry again during the NFL season (September - February)")
+            print("=" * 60)
             return
         
         # Step 2: Calculate power rankings
-        rankings = calculate_power_rankings()
+        rankings_df = calculate_power_rankings()
         
-        # Step 3: Analyze and rank matchups
-        matchup_rankings = analyze_matchups(matchups, rankings)
+        if rankings_df.empty:
+            print("Could not calculate rankings. Exiting.")
+            return
+        
+        # Step 3: Analyze matchups
+        games_df = analyze_matchups(games_df, rankings_df)
+        
+        # Step 4: Write markdown report
+        write_markdown_report(games_df, rankings_df)
         
         print("\n" + "=" * 60)
         print("ANALYSIS COMPLETE")
         print("=" * 60)
-        print("\nGenerated Files:")
-        print("  1. 1_NFL_upcoming_matchups.txt - List of games in next 7 days")
-        print("  2. 2_NFL_power_rankings.txt - Team power rankings")
-        print("  3. 3_NFL_matchup_rankings.txt - Ranked matchups with analysis")
+        print("\n📄 Generated File: NFL_Weekly_Report.md")
+        print("   - Today's games with scores (if completed)")
+        print("   - Upcoming games ranked by watchability")
+        print("   - Top 5 matchups summary")
+        print("   - Current power rankings")
         print("\n" + "=" * 60)
         
     except Exception as e:
-        print(f"\nError occurred: {str(e)}")
+        print(f"\n❌ Error occurred: {str(e)}")
         import traceback
         traceback.print_exc()
+
 
 if __name__ == "__main__":
     main()
