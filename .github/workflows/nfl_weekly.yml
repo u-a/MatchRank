@@ -33,7 +33,7 @@ jobs:
           uv pip install --system nfl-data-py pandas numpy
           
       - name: Run NFL script
-        run: python NFLMatchups_optimized.py
+        run: python NFLMatchups.py
         continue-on-error: true  # Don't fail workflow if no games found
         env:
           PYTHONUNBUFFERED: 1

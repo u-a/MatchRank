@@ -33,7 +33,7 @@ jobs:
           uv pip install --system nba-api pandas numpy
           
       - name: Run NBA script
-        run: python NBAMatchups_optimized.py
+        run: python NBAMatchups.py
         continue-on-error: true  # Don't fail workflow if no games found
         env:
           # Increase timeout tolerance
