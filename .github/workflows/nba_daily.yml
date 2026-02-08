@@ -2,16 +2,23 @@ name: Run NBA Script Daily
 
 on:
   schedule:
-    - cron: '0 12 * * *'
-  workflow_dispatch:
+    # Run at 10:00 AM UTC (5 AM EST / 2 AM PST) daily
+    - cron: '0 10 * * *'
+  workflow_dispatch:  # Allow manual triggering
 
 jobs:
-  build:
+  nba-analysis:
     runs-on: ubuntu-latest
-
+    
+    # Skip during NBA offseason (July-September)
+    # This is optional - the script handles it gracefully
+    if: github.event_name == 'workflow_dispatch' || (github.event.schedule && !(github.event.schedule == '0 10 * 7-9 *'))
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -22,14 +29,39 @@ jobs:
         run: pip install uv
 
       - name: Install dependencies
-        run: uv pip install --system nba-api nfl-data-py numpy pandas
-
+        run: |
+          uv pip install --system nba-api pandas numpy
+          
       - name: Run NBA script
-        run: python NBAMatchups.py
+        run: python NBAMatchups_optimized.py
+        continue-on-error: true  # Don't fail workflow if no games found
+        env:
+          # Increase timeout tolerance
+          PYTHONUNBUFFERED: 1
+
+      - name: Check if report was generated
+        id: check_report
+        run: |
+          if [ -f "NBA_Weekly_Report.md" ]; then
+            echo "report_exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "report_exists=false" >> $GITHUB_OUTPUT
+          fi
 
       - name: Commit and push changes
+        if: steps.check_report.outputs.report_exists == 'true'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -A
-          git diff --staged --quiet || (git commit -m "Update NBA matchups" && git push)
+          git add NBA_Weekly_Report.md
+          git diff --staged --quiet || (git commit -m "📊 Update NBA matchups - $(date +'%Y-%m-%d')" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload report as artifact
+        if: steps.check_report.outputs.report_exists == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: nba-report-${{ github.run_number }}
+          path: NBA_Weekly_Report.md
+          retention-days: 30

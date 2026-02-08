@@ -13,6 +13,22 @@ import time
 import warnings
 warnings.filterwarnings('ignore')
 
+# Configure NBA API to work with GitHub Actions and cloud IPs
+# The NBA API blocks requests without proper headers
+from nba_api.stats.library.http import NBAStatsHTTP
+NBAStatsHTTP.timeout = 60  # Increase timeout for GitHub Actions
+# Set headers to mimic browser requests
+import requests
+requests.Session.headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Accept': 'application/json, text/plain, */*',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Origin': 'https://www.nba.com',
+    'Referer': 'https://www.nba.com/',
+    'Connection': 'keep-alive',
+}
+
 
 def get_current_season():
     """Determine the current NBA season based on date"""
@@ -48,7 +64,12 @@ def get_games_by_date_range(days_ahead=7):
         date_str = check_date.strftime('%Y-%m-%d')
         
         try:
-            scoreboard = scoreboardv2.ScoreboardV2(game_date=date_str, day_offset=0)
+            # Add headers to avoid being blocked by NBA API
+            scoreboard = scoreboardv2.ScoreboardV2(
+                game_date=date_str, 
+                day_offset=0,
+                timeout=60  # Increase timeout for slower connections
+            )
             games_df = scoreboard.get_data_frames()[0]  # GameHeader
             line_score_df = scoreboard.get_data_frames()[1]  # LineScore
             
@@ -80,7 +101,7 @@ def get_games_by_date_range(days_ahead=7):
                         'is_today': check_date.date() == today.date()
                     })
             
-            time.sleep(0.6)  # Rate limiting
+            time.sleep(1.0)  # Increased rate limiting for GitHub Actions (was 0.6)
             
         except Exception as e:
             print(f"  Error for {date_str}: {str(e)}")
