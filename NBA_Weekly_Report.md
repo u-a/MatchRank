@@ -1,334 +1,369 @@
 # 🏀 NBA Weekly Matchup Report
 
 **Season:** 2025-26  
-**Generated:** Wednesday, February 25, 2026 at 10:44 AM  
+**Generated:** Friday, March 27, 2026 at 10:42 AM  
 **Coverage:** Next 7 days
 
 ---
 
-## 📅 TODAY'S GAMES - Wednesday, February 25
+## 📅 TODAY'S GAMES - Friday, March 27
 
-**6 game(s) today**
-
-### 🔥 MUST WATCH
-**OKC @ DET** - 7:30 pm ET
-- **Team Rankings:** #1 OKC vs #2 DET
-- **Matchup Score:** 72.5/100 (Quality: 72.4, Competitive: 72.7)
+**10 game(s) today**
 
 ### ⭐ HIGHLY RECOMMENDED
-**BOS @ DEN** - 10:00 pm ET
-- **Team Rankings:** #4 BOS vs #8 DEN
-- **Matchup Score:** 67.9/100 (Quality: 64.2, Competitive: 73.6)
+**MIA @ CLE** - 7:30 pm ET
+- **Team Rankings:** #12 MIA vs #7 CLE
+- **Matchup Score:** 65.9/100 (Quality: 59.0, Competitive: 76.3)
 
 ### 👍 WORTH WATCHING
-**SAS @ TOR** - 7:30 pm ET
-- **Team Rankings:** #3 SAS vs #10 TOR
-- **Matchup Score:** 57.9/100 (Quality: 62.5, Competitive: 50.9)
-
-### 👍 WORTH WATCHING
-**GSW @ MEM** - 7:30 pm ET
-- **Team Rankings:** #15 GSW vs #22 MEM
-- **Matchup Score:** 51.2/100 (Quality: 50.0, Competitive: 53.0)
+**ATL @ BOS** - 7:30 pm ET
+- **Team Rankings:** #13 ATL vs #4 BOS
+- **Matchup Score:** 58.1/100 (Quality: 61.4, Competitive: 53.0)
 
 ### 📺 Optional
-**CLE @ MIL** - 8:00 pm ET
-- **Team Rankings:** #7 CLE vs #21 MIL
-- **Matchup Score:** 47.1/100 (Quality: 54.4, Competitive: 36.3)
+**DAL @ POR** - 10:00 pm ET
+- **Team Rankings:** #25 DAL vs #20 POR
+- **Matchup Score:** 46.3/100 (Quality: 45.4, Competitive: 47.7)
 
 ### 📺 Optional
-**SAC @ HOU** - 8:00 pm ET
-- **Team Rankings:** #30 SAC vs #6 HOU
-- **Matchup Score:** 32.5/100 (Quality: 46.3, Competitive: 11.7)
+**NOP @ TOR** - 8:30 pm ET
+- **Team Rankings:** #22 NOP vs #14 TOR
+- **Matchup Score:** 45.5/100 (Quality: 49.1, Competitive: 40.1)
+
+### 📺 Optional
+**HOU @ MEM** - 8:00 pm ET
+- **Team Rankings:** #9 HOU vs #24 MEM
+- **Matchup Score:** 42.6/100 (Quality: 51.0, Competitive: 30.1)
+
+### 📺 Optional
+**CHI @ OKC** - 8:00 pm ET
+- **Team Rankings:** #21 CHI vs #1 OKC
+- **Matchup Score:** 40.7/100 (Quality: 59.3, Competitive: 12.9)
+
+### 📺 Optional
+**UTA @ DEN** - 9:00 pm ET
+- **Team Rankings:** #26 UTA vs #6 DEN
+- **Matchup Score:** 36.6/100 (Quality: 49.0, Competitive: 18.1)
+
+### 📺 Optional
+**LAC @ IND** - 7:00 pm ET
+- **Team Rankings:** #17 LAC vs #27 IND
+- **Matchup Score:** 35.4/100 (Quality: 43.2, Competitive: 23.7)
+
+### 📺 Optional
+**WAS @ GSW** - 10:00 pm ET
+- **Team Rankings:** #30 WAS vs #19 GSW
+- **Matchup Score:** 34.3/100 (Quality: 41.1, Competitive: 24.1)
+
+### 📺 Optional
+**BKN @ LAL** - 10:30 pm ET
+- **Team Rankings:** #28 BKN vs #10 LAL
+- **Matchup Score:** 33.9/100 (Quality: 45.6, Competitive: 16.4)
 
 ---
 
 ## 📆 UPCOMING GAMES (Next 7 Days)
 
 
-### 🗓️ Thursday, February 26, 2026
+### 🗓️ Saturday, March 28, 2026
 
-### #1/51 - 🔥 MUST WATCH
-**LAL @ PHX** - 9:00 pm ET
-- **Team Rankings:** #12 LAL vs #13 PHX
-- **Matchup Score:** 72.6/100 (Quality: 55.2, Competitive: 98.7)
+### #1/54 - ⭐ HIGHLY RECOMMENDED
+**DET @ MIN** - 5:30 pm ET
+- **Team Rankings:** #3 DET vs #8 MIN
+- **Matchup Score:** 62.0/100 (Quality: 65.0, Competitive: 57.5)
 
-### #2/51 - ⭐ HIGHLY RECOMMENDED
-**MIA @ PHI** - 7:00 pm ET
-- **Team Rankings:** #11 MIA vs #14 PHI
-- **Matchup Score:** 69.0/100 (Quality: 55.8, Competitive: 88.9)
+### #2/54 - ⭐ HIGHLY RECOMMENDED
+**PHI @ CHA** - 6:00 pm ET
+- **Team Rankings:** #18 PHI vs #11 CHA
+- **Matchup Score:** 61.9/100 (Quality: 56.2, Competitive: 70.5)
 
-### #3/51 - 👍 WORTH WATCHING
-**HOU @ ORL** - 7:30 pm ET
-- **Team Rankings:** #6 HOU vs #16 ORL
-- **Matchup Score:** 58.4/100 (Quality: 58.4, Competitive: 58.4)
+### #3/54 - ⭐ HIGHLY RECOMMENDED
+**CHI @ MEM** - 8:00 pm ET
+- **Team Rankings:** #21 CHI vs #24 MEM
+- **Matchup Score:** 60.8/100 (Quality: 42.9, Competitive: 87.6)
 
-### #4/51 - 👍 WORTH WATCHING
-**NOP @ UTA** - 9:00 pm ET
-- **Team Rankings:** #25 NOP vs #26 UTA
-- **Matchup Score:** 58.3/100 (Quality: 37.8, Competitive: 89.2)
+### #4/54 - 📺 Optional
+**SAS @ MIL** - 3:00 pm ET
+- **Team Rankings:** #2 SAS vs #23 MIL
+- **Matchup Score:** 39.8/100 (Quality: 56.1, Competitive: 15.3)
 
-### #5/51 - 👍 WORTH WATCHING
-**POR @ CHI** - 8:00 pm ET
-- **Team Rankings:** #20 POR vs #24 CHI
-- **Matchup Score:** 57.0/100 (Quality: 46.2, Competitive: 73.1)
+### #5/54 - 📺 Optional
+**UTA @ PHX** - 10:00 pm ET
+- **Team Rankings:** #26 UTA vs #15 PHX
+- **Matchup Score:** 38.6/100 (Quality: 45.7, Competitive: 28.0)
 
-### #6/51 - 👍 WORTH WATCHING
-**MIN @ LAC** - 10:00 pm ET
-- **Team Rankings:** #9 MIN vs #18 LAC
-- **Matchup Score:** 53.3/100 (Quality: 56.0, Competitive: 49.2)
-
-### #7/51 - 📺 Optional
-**SAC @ DAL** - 8:30 pm ET
-- **Team Rankings:** #30 SAC vs #23 DAL
-- **Matchup Score:** 38.3/100 (Quality: 37.1, Competitive: 40.0)
-
-### #8/51 - 📺 Optional
-**CHA @ IND** - 7:00 pm ET
-- **Team Rankings:** #17 CHA vs #27 IND
-- **Matchup Score:** 37.8/100 (Quality: 44.5, Competitive: 27.6)
-
-### #9/51 - 📺 Optional
-**WAS @ ATL** - 7:30 pm ET
-- **Team Rankings:** #29 WAS vs #19 ATL
-- **Matchup Score:** 37.1/100 (Quality: 41.6, Competitive: 30.2)
-
-### #10/51 - 📺 Optional
-**SAS @ BKN** - 7:30 pm ET
-- **Team Rankings:** #3 SAS vs #28 BKN
-- **Matchup Score:** 35.2/100 (Quality: 51.1, Competitive: 11.2)
+### #6/54 - 📺 Optional
+**SAC @ ATL** - 7:30 pm ET
+- **Team Rankings:** #29 SAC vs #13 ATL
+- **Matchup Score:** 34.3/100 (Quality: 44.3, Competitive: 19.3)
 
 
-### 🗓️ Friday, February 27, 2026
+### 🗓️ Sunday, March 29, 2026
 
-### #11/51 - ⭐ HIGHLY RECOMMENDED
-**MEM @ DAL** - 8:30 pm ET
-- **Team Rankings:** #22 MEM vs #23 DAL
-- **Matchup Score:** 63.6/100 (Quality: 44.6, Competitive: 92.0)
+### #7/54 - ⭐ HIGHLY RECOMMENDED
+**ORL @ TOR** - 6:00 pm ET
+- **Team Rankings:** #16 ORL vs #14 TOR
+- **Matchup Score:** 69.7/100 (Quality: 55.2, Competitive: 91.4)
 
-### #12/51 - ⭐ HIGHLY RECOMMENDED
-**CLE @ DET** - 7:00 pm ET
-- **Team Rankings:** #7 CLE vs #2 DET
-- **Matchup Score:** 63.0/100 (Quality: 66.0, Competitive: 58.5)
+### #8/54 - ⭐ HIGHLY RECOMMENDED
+**NYK @ OKC** - 7:30 pm ET
+- **Team Rankings:** #5 NYK vs #1 OKC
+- **Matchup Score:** 62.8/100 (Quality: 69.8, Competitive: 52.5)
 
-### #13/51 - 👍 WORTH WATCHING
-**DEN @ OKC** - 9:30 pm ET
-- **Team Rankings:** #8 DEN vs #1 OKC
-- **Matchup Score:** 57.9/100 (Quality: 68.3, Competitive: 42.2)
+### #9/54 - ⭐ HIGHLY RECOMMENDED
+**BOS @ CHA** - 6:00 pm ET
+- **Team Rankings:** #4 BOS vs #11 CHA
+- **Matchup Score:** 62.0/100 (Quality: 62.5, Competitive: 61.2)
 
-### #14/51 - 📺 Optional
-**NYK @ MIL** - 8:00 pm ET
-- **Team Rankings:** #5 NYK vs #21 MIL
-- **Matchup Score:** 46.6/100 (Quality: 54.8, Competitive: 34.2)
+### #10/54 - 👍 WORTH WATCHING
+**SAC @ BKN** - 6:00 pm ET
+- **Team Rankings:** #29 SAC vs #28 BKN
+- **Matchup Score:** 59.1/100 (Quality: 32.0, Competitive: 99.7)
 
-### #15/51 - 📺 Optional
-**BKN @ BOS** - 7:30 pm ET
-- **Team Rankings:** #28 BKN vs #4 BOS
-- **Matchup Score:** 35.2/100 (Quality: 50.6, Competitive: 12.1)
+### #11/54 - 👍 WORTH WATCHING
+**GSW @ DEN** - 10:00 pm ET
+- **Team Rankings:** #19 GSW vs #6 DEN
+- **Matchup Score:** 54.7/100 (Quality: 56.8, Competitive: 51.5)
 
+### #12/54 - 📺 Optional
+**LAC @ MIL** - 3:30 pm ET
+- **Team Rankings:** #17 LAC vs #23 MIL
+- **Matchup Score:** 46.8/100 (Quality: 48.0, Competitive: 45.0)
 
-### 🗓️ Saturday, February 28, 2026
+### #13/54 - 📺 Optional
+**HOU @ NOP** - 7:00 pm ET
+- **Team Rankings:** #9 HOU vs #22 NOP
+- **Matchup Score:** 42.9/100 (Quality: 51.1, Competitive: 30.6)
 
-### #16/51 - 🔥 MUST WATCH
-**LAL @ GSW** - 8:30 pm ET
-- **Team Rankings:** #12 LAL vs #15 GSW
-- **Matchup Score:** 71.8/100 (Quality: 55.0, Competitive: 96.9)
+### #14/54 - 📺 Optional
+**WAS @ POR** - 6:00 pm ET
+- **Team Rankings:** #30 WAS vs #20 POR
+- **Matchup Score:** 34.6/100 (Quality: 40.7, Competitive: 25.5)
 
-### #17/51 - ⭐ HIGHLY RECOMMENDED
-**HOU @ MIA** - 3:30 pm ET
-- **Team Rankings:** #6 HOU vs #11 MIA
-- **Matchup Score:** 62.9/100 (Quality: 59.5, Competitive: 68.0)
-
-### #18/51 - 👍 WORTH WATCHING
-**NOP @ UTA** - 9:30 pm ET
-- **Team Rankings:** #25 NOP vs #26 UTA
-- **Matchup Score:** 58.3/100 (Quality: 37.8, Competitive: 89.2)
-
-### #19/51 - 👍 WORTH WATCHING
-**POR @ CHA** - 1:00 pm ET
-- **Team Rankings:** #20 POR vs #17 CHA
-- **Matchup Score:** 58.3/100 (Quality: 51.4, Competitive: 68.6)
-
-### #20/51 - 📺 Optional
-**TOR @ WAS** - 7:00 pm ET
-- **Team Rankings:** #10 TOR vs #29 WAS
-- **Matchup Score:** 34.7/100 (Quality: 45.0, Competitive: 19.2)
+### #15/54 - 📺 Optional
+**MIA @ IND** - 5:00 pm ET
+- **Team Rankings:** #12 MIA vs #27 IND
+- **Matchup Score:** 34.6/100 (Quality: 44.7, Competitive: 19.4)
 
 
-### 🗓️ Sunday, March 01, 2026
+### 🗓️ Monday, March 30, 2026
 
-### #21/51 - 🔥 MUST WATCH
-**MIN @ DEN** - 3:30 pm ET
-- **Team Rankings:** #9 MIN vs #8 DEN
-- **Matchup Score:** 75.6/100 (Quality: 61.6, Competitive: 96.7)
+### #16/54 - 🔥 MUST WATCH
+**DET @ OKC** - 9:30 pm ET
+- **Team Rankings:** #3 DET vs #1 OKC
+- **Matchup Score:** 70.9/100 (Quality: 71.9, Competitive: 69.4)
 
-### #22/51 - ⭐ HIGHLY RECOMMENDED
-**SAS @ NYK** - 1:00 pm ET
-- **Team Rankings:** #3 SAS vs #5 NYK
-- **Matchup Score:** 68.4/100 (Quality: 65.2, Competitive: 73.2)
+### #17/54 - ⭐ HIGHLY RECOMMENDED
+**PHI @ MIA** - 7:00 pm ET
+- **Team Rankings:** #18 PHI vs #12 MIA
+- **Matchup Score:** 65.1/100 (Quality: 55.3, Competitive: 79.8)
 
-### #23/51 - ⭐ HIGHLY RECOMMENDED
-**POR @ ATL** - 6:00 pm ET
-- **Team Rankings:** #20 POR vs #19 ATL
-- **Matchup Score:** 64.6/100 (Quality: 49.6, Competitive: 87.1)
+### #18/54 - 👍 WORTH WATCHING
+**BOS @ ATL** - 7:30 pm ET
+- **Team Rankings:** #4 BOS vs #13 ATL
+- **Matchup Score:** 58.1/100 (Quality: 61.4, Competitive: 53.0)
 
-### #24/51 - ⭐ HIGHLY RECOMMENDED
-**MIL @ CHI** - 3:30 pm ET
-- **Team Rankings:** #21 MIL vs #24 CHI
-- **Matchup Score:** 60.1/100 (Quality: 45.3, Competitive: 82.3)
+### #19/54 - 📺 Optional
+**PHX @ MEM** - 8:00 pm ET
+- **Team Rankings:** #15 PHX vs #24 MEM
+- **Matchup Score:** 45.7/100 (Quality: 48.6, Competitive: 41.3)
 
-### #25/51 - 👍 WORTH WATCHING
-**PHI @ BOS** - 8:00 pm ET
-- **Team Rankings:** #14 PHI vs #4 BOS
-- **Matchup Score:** 54.9/100 (Quality: 60.7, Competitive: 46.2)
+### #20/54 - 📺 Optional
+**CHI @ SAS** - 8:00 pm ET
+- **Team Rankings:** #21 CHI vs #2 SAS
+- **Matchup Score:** 41.2/100 (Quality: 57.0, Competitive: 17.4)
 
-### #26/51 - 👍 WORTH WATCHING
-**DET @ ORL** - 6:00 pm ET
-- **Team Rankings:** #2 DET vs #16 ORL
-- **Matchup Score:** 51.4/100 (Quality: 62.2, Competitive: 35.2)
+### #21/54 - 📺 Optional
+**MIN @ DAL** - 8:30 pm ET
+- **Team Rankings:** #8 MIN vs #25 DAL
+- **Matchup Score:** 40.1/100 (Quality: 50.3, Competitive: 24.7)
 
-### #27/51 - 📺 Optional
-**NOP @ LAC** - 9:00 pm ET
-- **Team Rankings:** #25 NOP vs #18 LAC
-- **Matchup Score:** 44.7/100 (Quality: 44.7, Competitive: 44.6)
+### #22/54 - 📺 Optional
+**CLE @ UTA** - 9:00 pm ET
+- **Team Rankings:** #7 CLE vs #26 UTA
+- **Matchup Score:** 36.8/100 (Quality: 48.6, Competitive: 19.0)
 
-### #28/51 - 📺 Optional
-**MEM @ IND** - 5:00 pm ET
-- **Team Rankings:** #22 MEM vs #27 IND
-- **Matchup Score:** 44.0/100 (Quality: 40.1, Competitive: 50.0)
-
-### #29/51 - 📺 Optional
-**OKC @ DAL** - 8:00 pm ET
-- **Team Rankings:** #1 OKC vs #23 DAL
-- **Matchup Score:** 40.8/100 (Quality: 59.4, Competitive: 12.8)
-
-### #30/51 - 📺 Optional
-**CLE @ BKN** - 3:30 pm ET
-- **Team Rankings:** #7 CLE vs #28 BKN
-- **Matchup Score:** 35.5/100 (Quality: 48.4, Competitive: 16.3)
-
-### #31/51 - 📺 Optional
-**SAC @ LAL** - 9:30 pm ET
-- **Team Rankings:** #30 SAC vs #12 LAL
-- **Matchup Score:** 33.2/100 (Quality: 42.8, Competitive: 18.9)
+### #23/54 - 📺 Optional
+**WAS @ LAL** - 10:00 pm ET
+- **Team Rankings:** #30 WAS vs #10 LAL
+- **Matchup Score:** 32.8/100 (Quality: 44.8, Competitive: 14.8)
 
 
-### 🗓️ Monday, March 02, 2026
+### 🗓️ Tuesday, March 31, 2026
 
-### #32/51 - ⭐ HIGHLY RECOMMENDED
-**LAC @ GSW** - 10:00 pm ET
-- **Team Rankings:** #18 LAC vs #15 GSW
-- **Matchup Score:** 62.1/100 (Quality: 52.8, Competitive: 76.2)
+### #24/54 - 🔥 MUST WATCH
+**CLE @ LAL** - 10:30 pm ET
+- **Team Rankings:** #7 CLE vs #10 LAL
+- **Matchup Score:** 71.2/100 (Quality: 60.1, Competitive: 87.9)
 
-### #33/51 - 📺 Optional
-**BOS @ MIL** - 7:30 pm ET
-- **Team Rankings:** #4 BOS vs #21 MIL
-- **Matchup Score:** 44.7/100 (Quality: 56.6, Competitive: 26.9)
+### #25/54 - 🔥 MUST WATCH
+**PHX @ ORL** - 7:00 pm ET
+- **Team Rankings:** #15 PHX vs #16 ORL
+- **Matchup Score:** 71.2/100 (Quality: 54.9, Competitive: 95.7)
 
-### #34/51 - 📺 Optional
+### #26/54 - ⭐ HIGHLY RECOMMENDED
+**NYK @ HOU** - 8:00 pm ET
+- **Team Rankings:** #5 NYK vs #9 HOU
+- **Matchup Score:** 66.2/100 (Quality: 62.5, Competitive: 71.8)
+
+### #27/54 - ⭐ HIGHLY RECOMMENDED
+**POR @ LAC** - 11:00 pm ET
+- **Team Rankings:** #20 POR vs #17 LAC
+- **Matchup Score:** 64.2/100 (Quality: 52.5, Competitive: 81.8)
+
+### #28/54 - 👍 WORTH WATCHING
+**DAL @ MIL** - 8:00 pm ET
+- **Team Rankings:** #25 DAL vs #23 MIL
+- **Matchup Score:** 59.3/100 (Quality: 40.9, Competitive: 86.8)
+
+### #29/54 - 👍 WORTH WATCHING
+**TOR @ DET** - 8:00 pm ET
+- **Team Rankings:** #14 TOR vs #3 DET
+- **Matchup Score:** 54.1/100 (Quality: 62.5, Competitive: 41.4)
+
+### #30/54 - 📺 Optional
+**CHA @ BKN** - 7:30 pm ET
+- **Team Rankings:** #11 CHA vs #28 BKN
+- **Matchup Score:** 34.0/100 (Quality: 45.4, Competitive: 16.7)
+
+
+### 🗓️ Wednesday, April 01, 2026
+
+### #31/54 - ⭐ HIGHLY RECOMMENDED
+**ATL @ ORL** - 7:00 pm ET
+- **Team Rankings:** #13 ATL vs #16 ORL
+- **Matchup Score:** 68.1/100 (Quality: 55.6, Competitive: 86.8)
+
+### #32/54 - 👍 WORTH WATCHING
+**BOS @ MIA** - 7:30 pm ET
+- **Team Rankings:** #4 BOS vs #12 MIA
+- **Matchup Score:** 58.6/100 (Quality: 61.6, Competitive: 54.1)
+
+### #33/54 - 📺 Optional
+**SAS @ GSW** - 10:00 pm ET
+- **Team Rankings:** #2 SAS vs #19 GSW
+- **Matchup Score:** 48.4/100 (Quality: 61.0, Competitive: 29.5)
+
+### #34/54 - 📺 Optional
+**MIL @ HOU** - 8:00 pm ET
+- **Team Rankings:** #23 MIL vs #9 HOU
+- **Matchup Score:** 42.6/100 (Quality: 51.0, Competitive: 30.2)
+
+### #35/54 - 📺 Optional
+**IND @ CHI** - 8:00 pm ET
+- **Team Rankings:** #27 IND vs #21 CHI
+- **Matchup Score:** 41.4/100 (Quality: 38.2, Competitive: 46.3)
+
+### #36/54 - 📺 Optional
+**NYK @ MEM** - 8:00 pm ET
+- **Team Rankings:** #5 NYK vs #24 MEM
+- **Matchup Score:** 40.7/100 (Quality: 53.4, Competitive: 21.6)
+
+### #37/54 - 📺 Optional
 **DEN @ UTA** - 9:00 pm ET
-- **Team Rankings:** #8 DEN vs #26 UTA
-- **Matchup Score:** 37.2/100 (Quality: 49.4, Competitive: 18.9)
+- **Team Rankings:** #6 DEN vs #26 UTA
+- **Matchup Score:** 36.6/100 (Quality: 49.0, Competitive: 18.1)
 
-### #35/51 - 📺 Optional
-**HOU @ WAS** - 7:00 pm ET
-- **Team Rankings:** #6 HOU vs #29 WAS
-- **Matchup Score:** 34.0/100 (Quality: 47.5, Competitive: 13.7)
+### #38/54 - 📺 Optional
+**SAC @ TOR** - 8:00 pm ET
+- **Team Rankings:** #29 SAC vs #14 TOR
+- **Matchup Score:** 34.5/100 (Quality: 43.9, Competitive: 20.3)
 
-
-### 🗓️ Tuesday, March 03, 2026
-
-### #36/51 - ⭐ HIGHLY RECOMMENDED
-**NYK @ TOR** - 7:30 pm ET
-- **Team Rankings:** #5 NYK vs #10 TOR
-- **Matchup Score:** 63.9/100 (Quality: 60.2, Competitive: 69.6)
-
-### #37/51 - ⭐ HIGHLY RECOMMENDED
-**DET @ CLE** - 7:00 pm ET
-- **Team Rankings:** #2 DET vs #7 CLE
-- **Matchup Score:** 63.0/100 (Quality: 66.0, Competitive: 58.5)
-
-### #38/51 - 👍 WORTH WATCHING
-**SAS @ PHI** - 8:00 pm ET
-- **Team Rankings:** #3 SAS vs #14 PHI
-- **Matchup Score:** 53.9/100 (Quality: 61.2, Competitive: 43.0)
-
-### #39/51 - 📺 Optional
-**DAL @ CHA** - 7:00 pm ET
-- **Team Rankings:** #23 DAL vs #17 CHA
-- **Matchup Score:** 49.8/100 (Quality: 49.1, Competitive: 50.7)
-
-### #40/51 - 📺 Optional
-**MEM @ MIN** - 8:00 pm ET
-- **Team Rankings:** #22 MEM vs #9 MIN
-- **Matchup Score:** 45.7/100 (Quality: 53.3, Competitive: 34.2)
-
-### #41/51 - 📺 Optional
-**NOP @ LAL** - 10:30 pm ET
-- **Team Rankings:** #25 NOP vs #12 LAL
-- **Matchup Score:** 41.3/100 (Quality: 46.9, Competitive: 32.9)
-
-### #42/51 - 📺 Optional
-**OKC @ CHI** - 8:00 pm ET
-- **Team Rankings:** #1 OKC vs #24 CHI
-- **Matchup Score:** 40.7/100 (Quality: 59.3, Competitive: 12.7)
-
-### #43/51 - 📺 Optional
-**BKN @ MIA** - 7:30 pm ET
-- **Team Rankings:** #28 BKN vs #11 MIA
-- **Matchup Score:** 36.7/100 (Quality: 45.7, Competitive: 23.2)
-
-### #44/51 - 📺 Optional
-**WAS @ ORL** - 7:00 pm ET
-- **Team Rankings:** #29 WAS vs #16 ORL
-- **Matchup Score:** 35.5/100 (Quality: 43.5, Competitive: 23.5)
-
-### #45/51 - 📺 Optional
-**PHX @ SAC** - 11:00 pm ET
-- **Team Rankings:** #13 PHX vs #30 SAC
-- **Matchup Score:** 33.2/100 (Quality: 42.7, Competitive: 19.1)
+### #39/54 - 📺 Optional
+**PHI @ WAS** - 7:00 pm ET
+- **Team Rankings:** #18 PHI vs #30 WAS
+- **Matchup Score:** 33.8/100 (Quality: 42.0, Competitive: 21.4)
 
 
-### 🗓️ Wednesday, March 04, 2026
+### 🗓️ Thursday, April 02, 2026
 
-### #46/51 - ⭐ HIGHLY RECOMMENDED
-**POR @ MEM** - 8:00 pm ET
-- **Team Rankings:** #20 POR vs #22 MEM
-- **Matchup Score:** 60.3/100 (Quality: 46.9, Competitive: 80.4)
+### #40/54 - ⭐ HIGHLY RECOMMENDED
+**PHX @ CHA** - 7:00 pm ET
+- **Team Rankings:** #15 PHX vs #11 CHA
+- **Matchup Score:** 65.6/100 (Quality: 57.0, Competitive: 78.5)
 
-### #47/51 - ⭐ HIGHLY RECOMMENDED
-**ATL @ MIL** - 9:30 pm ET
-- **Team Rankings:** #19 ATL vs #21 MIL
-- **Matchup Score:** 60.2/100 (Quality: 48.7, Competitive: 77.4)
+### #41/54 - ⭐ HIGHLY RECOMMENDED
+**MIN @ DET** - 7:00 pm ET
+- **Team Rankings:** #8 MIN vs #3 DET
+- **Matchup Score:** 62.0/100 (Quality: 65.0, Competitive: 57.5)
 
-### #48/51 - 👍 WORTH WATCHING
-**OKC @ NYK** - 7:00 pm ET
-- **Team Rankings:** #1 OKC vs #5 NYK
-- **Matchup Score:** 59.4/100 (Quality: 68.8, Competitive: 45.1)
+### #42/54 - 👍 WORTH WATCHING
+**CLE @ GSW** - 10:00 pm ET
+- **Team Rankings:** #7 CLE vs #19 GSW
+- **Matchup Score:** 55.5/100 (Quality: 56.4, Competitive: 54.1)
 
-### #49/51 - 👍 WORTH WATCHING
-**CHA @ BOS** - 7:30 pm ET
-- **Team Rankings:** #17 CHA vs #4 BOS
-- **Matchup Score:** 53.8/100 (Quality: 60.3, Competitive: 44.1)
+### #43/54 - 👍 WORTH WATCHING
+**LAL @ OKC** - 9:30 pm ET
+- **Team Rankings:** #10 LAL vs #1 OKC
+- **Matchup Score:** 54.3/100 (Quality: 66.9, Competitive: 35.5)
 
-### #50/51 - 📺 Optional
-**UTA @ PHI** - 7:30 pm ET
-- **Team Rankings:** #26 UTA vs #14 PHI
-- **Matchup Score:** 39.6/100 (Quality: 45.9, Competitive: 30.1)
+### #44/54 - 👍 WORTH WATCHING
+**SAS @ LAC** - 10:30 pm ET
+- **Team Rankings:** #2 SAS vs #17 LAC
+- **Matchup Score:** 50.9/100 (Quality: 62.1, Competitive: 34.1)
 
-### #51/51 - 📺 Optional
-**IND @ LAC** - 10:30 pm ET
-- **Team Rankings:** #27 IND vs #18 LAC
-- **Matchup Score:** 39.6/100 (Quality: 42.8, Competitive: 34.8)
+### #45/54 - 👍 WORTH WATCHING
+**NOP @ POR** - 10:00 pm ET
+- **Team Rankings:** #22 NOP vs #20 POR
+- **Matchup Score:** 50.3/100 (Quality: 46.6, Competitive: 55.8)
+
+
+### 🗓️ Friday, April 03, 2026
+
+### #46/54 - 👍 WORTH WATCHING
+**MIN @ PHI** - 7:00 pm ET
+- **Team Rankings:** #8 MIN vs #18 PHI
+- **Matchup Score:** 59.0/100 (Quality: 57.2, Competitive: 61.8)
+
+### #47/54 - 📺 Optional
+**TOR @ MEM** - 8:00 pm ET
+- **Team Rankings:** #14 TOR vs #24 MEM
+- **Matchup Score:** 45.1/100 (Quality: 48.9, Competitive: 39.4)
+
+### #48/54 - 📺 Optional
+**ORL @ DAL** - 8:30 pm ET
+- **Team Rankings:** #16 ORL vs #25 DAL
+- **Matchup Score:** 43.3/100 (Quality: 47.2, Competitive: 37.6)
+
+### #49/54 - 📺 Optional
+**CHI @ NYK** - 7:30 pm ET
+- **Team Rankings:** #21 CHI vs #5 NYK
+- **Matchup Score:** 42.5/100 (Quality: 54.4, Competitive: 24.6)
+
+### #50/54 - 📺 Optional
+**NOP @ SAC** - 10:00 pm ET
+- **Team Rankings:** #22 NOP vs #29 SAC
+- **Matchup Score:** 42.5/100 (Quality: 37.1, Competitive: 50.6)
+
+### #51/54 - 📺 Optional
+**BOS @ MIL** - 8:00 pm ET
+- **Team Rankings:** #4 BOS vs #23 MIL
+- **Matchup Score:** 40.4/100 (Quality: 54.1, Competitive: 19.9)
+
+### #52/54 - 📺 Optional
+**UTA @ HOU** - 8:00 pm ET
+- **Team Rankings:** #26 UTA vs #9 HOU
+- **Matchup Score:** 37.0/100 (Quality: 48.1, Competitive: 20.4)
+
+### #53/54 - 📺 Optional
+**ATL @ BKN** - 7:30 pm ET
+- **Team Rankings:** #13 ATL vs #28 BKN
+- **Matchup Score:** 34.3/100 (Quality: 44.3, Competitive: 19.3)
+
+### #54/54 - 📺 Optional
+**IND @ CHA** - 7:00 pm ET
+- **Team Rankings:** #27 IND vs #11 CHA
+- **Matchup Score:** 34.2/100 (Quality: 45.6, Competitive: 17.1)
 
 ---
 
 ## 🌟 Top 5 Matchups This Week
 
-1. **MIN @ DEN** (Sun 03/01) - Score: 75.6/100
-2. **LAL @ PHX** (Thu 02/26) - Score: 72.6/100
-3. **OKC @ DET** (Wed 02/25) - Score: 72.5/100
-4. **LAL @ GSW** (Sat 02/28) - Score: 71.8/100
-5. **MIA @ PHI** (Thu 02/26) - Score: 69.0/100
+1. **CLE @ LAL** (Tue 03/31) - Score: 71.2/100
+2. **PHX @ ORL** (Tue 03/31) - Score: 71.2/100
+3. **DET @ OKC** (Mon 03/30) - Score: 70.9/100
+4. **ORL @ TOR** (Sun 03/29) - Score: 69.7/100
+5. **ATL @ ORL** (Wed 04/01) - Score: 68.1/100
 
 ---
 
@@ -336,16 +371,16 @@
 
 | Rank | Team | Power Score | Record | Net Rating |
 |------|------|-------------|--------|------------|
-| 1 | OKC | 74.8 | 45-14 | +11.7 |
-| 2 | DET | 70.0 | 42-14 | +7.9 |
-| 3 | SAS | 67.6 | 41-16 | +6.6 |
-| 4 | BOS | 66.5 | 38-19 | +7.4 |
-| 5 | NYK | 62.9 | 37-22 | +5.4 |
-| 6 | HOU | 62.4 | 35-21 | +5.1 |
-| 7 | CLE | 62.0 | 37-22 | +4.5 |
-| 8 | DEN | 61.9 | 36-22 | +4.5 |
-| 9 | MIN | 61.4 | 36-23 | +4.5 |
-| 10 | TOR | 57.4 | 34-24 | +1.9 |
+| 1 | OKC | 74.6 | 57-16 | +11.0 |
+| 2 | SAS | 70.1 | 55-18 | +7.8 |
+| 3 | DET | 69.1 | 53-20 | +7.8 |
+| 4 | BOS | 66.2 | 48-24 | +7.2 |
+| 5 | NYK | 64.9 | 48-26 | +6.5 |
+| 6 | DEN | 61.8 | 46-28 | +4.4 |
+| 7 | CLE | 61.0 | 45-28 | +4.0 |
+| 8 | MIN | 60.8 | 45-28 | +3.8 |
+| 9 | HOU | 60.0 | 43-29 | +3.8 |
+| 10 | LAL | 59.1 | 47-26 | +1.5 |
 
 ---
 
